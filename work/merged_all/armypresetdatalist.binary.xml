@@ -1,0 +1,340 @@
+<ArmyPresetDataList>
+  <Presets>
+    <ArmyPreset>
+      <name type='string' value='standardLevel1'/>
+      <type type='string' value='Offensive'/>
+      <Units>
+        <Unit>
+          <stage type='2d_point_i' x='1' y='3'/>
+          <unitClass type='string' value='fighter'/>
+          <maximumProductionCost type='float' value='0.0'/>
+          <minimalSight type='integer' value='1'/>
+          <hitPoints type='integer' value='0'/>
+          <figureCount type='integer' value='0'/>
+          <defence type='integer' value='3'/>
+          <resistance type='integer' value='0'/>
+          <goldUpkeep type='integer' value='0'/>
+          <foodUpkeep type='integer' value='0'/>
+          <manaUpkeep type='integer' value='0'/>
+          <minimalMovePoints type='integer' value='0'/>
+          <movementType type='string' value='Walker'/>
+          <attackUsageMode type='string' value='CloseCombat'/>
+          <attackPower type='integer' value='2'/>
+          <attackRange type='integer' value='0'/>
+          <races>
+          </races>
+          <perks>
+          </perks>
+          <spells>
+          </spells>
+        </Unit>
+        <Unit>
+          <stage type='2d_point_i' x='1' y='3'/>
+          <unitClass type='string' value='fighter'/>
+          <maximumProductionCost type='float' value='0.0'/>
+          <minimalSight type='integer' value='1'/>
+          <hitPoints type='integer' value='0'/>
+          <figureCount type='integer' value='0'/>
+          <defence type='integer' value='3'/>
+          <resistance type='integer' value='0'/>
+          <goldUpkeep type='integer' value='0'/>
+          <foodUpkeep type='integer' value='0'/>
+          <manaUpkeep type='integer' value='0'/>
+          <minimalMovePoints type='integer' value='0'/>
+          <movementType type='string' value='Walker'/>
+          <attackUsageMode type='string' value='CloseCombat'/>
+          <attackPower type='integer' value='2'/>
+          <attackRange type='integer' value='0'/>
+          <races>
+          </races>
+          <perks>
+          </perks>
+          <spells>
+          </spells>
+        </Unit>
+        <Unit>
+          <stage type='2d_point_i' x='1' y='3'/>
+          <unitClass type='string' value='fighter'/>
+          <maximumProductionCost type='float' value='0.0'/>
+          <minimalSight type='integer' value='1'/>
+          <hitPoints type='integer' value='0'/>
+          <figureCount type='integer' value='0'/>
+          <defence type='integer' value='3'/>
+          <resistance type='integer' value='0'/>
+          <goldUpkeep type='integer' value='0'/>
+          <foodUpkeep type='integer' value='0'/>
+          <manaUpkeep type='integer' value='0'/>
+          <minimalMovePoints type='integer' value='0'/>
+          <movementType type='string' value='Walker'/>
+          <attackUsageMode type='string' value='CloseCombat'/>
+          <attackPower type='integer' value='2'/>
+          <attackRange type='integer' value='0'/>
+          <races>
+          </races>
+          <perks>
+          </perks>
+          <spells>
+          </spells>
+        </Unit>
+        <Unit>
+          <stage type='2d_point_i' x='1' y='2'/>
+          <unitClass type='string' value='fighter'/>
+          <maximumProductionCost type='float' value='0.0'/>
+          <minimalSight type='integer' value='1'/>
+          <hitPoints type='integer' value='0'/>
+          <figureCount type='integer' value='0'/>
+          <defence type='integer' value='3'/>
+          <resistance type='integer' value='0'/>
+          <goldUpkeep type='integer' value='0'/>
+          <foodUpkeep type='integer' value='0'/>
+          <manaUpkeep type='integer' value='0'/>
+          <minimalMovePoints type='integer' value='0'/>
+          <movementType type='string' value='Walker'/>
+          <attackUsageMode type='string' value='CloseCombat'/>
+          <attackPower type='integer' value='2'/>
+          <attackRange type='integer' value='0'/>
+          <races>
+          </races>
+          <perks>
+          </perks>
+          <spells>
+          </spells>
+        </Unit>
+        <Unit>
+          <stage type='2d_point_i' x='1' y='3'/>
+          <unitClass type='string' value='fighter'/>
+          <maximumProductionCost type='float' value='0.0'/>
+          <minimalSight type='integer' value='1'/>
+          <hitPoints type='integer' value='0'/>
+          <figureCount type='integer' value='0'/>
+          <defence type='integer' value='3'/>
+          <resistance type='integer' value='0'/>
+          <goldUpkeep type='integer' value='0'/>
+          <foodUpkeep type='integer' value='0'/>
+          <manaUpkeep type='integer' value='0'/>
+          <minimalMovePoints type='integer' value='0'/>
+          <movementType type='string' value='Walker'/>
+          <attackUsageMode type='string' value='CloseCombat'/>
+          <attackPower type='integer' value='4'/>
+          <attackRange type='integer' value='0'/>
+          <races>
+          </races>
+          <perks>
+          </perks>
+          <spells>
+          </spells>
+        </Unit>
+        <Unit>
+          <stage type='2d_point_i' x='1' y='3'/>
+          <unitClass type='string' value=''/>
+          <maximumProductionCost type='float' value='0.0'/>
+          <minimalSight type='integer' value='1'/>
+          <hitPoints type='integer' value='0'/>
+          <figureCount type='integer' value='0'/>
+          <defence type='integer' value='3'/>
+          <resistance type='integer' value='0'/>
+          <goldUpkeep type='integer' value='0'/>
+          <foodUpkeep type='integer' value='0'/>
+          <manaUpkeep type='integer' value='0'/>
+          <minimalMovePoints type='integer' value='0'/>
+          <movementType type='string' value='Flyer'/>
+          <attackUsageMode type='string' value='CloseCombat'/>
+          <attackPower type='integer' value='4'/>
+          <attackRange type='integer' value='0'/>
+          <races>
+          </races>
+          <perks>
+          </perks>
+          <spells>
+          </spells>
+        </Unit>
+      </Units>
+    </ArmyPreset>
+    <ArmyPreset>
+      <name type='string' value='archeryLevel1'/>
+      <type type='string' value='Offensive'/>
+      <Units>
+        <Unit>
+          <stage type='2d_point_i' x='1' y='1'/>
+          <unitClass type='string' value='fighter'/>
+          <maximumProductionCost type='float' value='0.0'/>
+          <minimalSight type='integer' value='0'/>
+          <hitPoints type='integer' value='0'/>
+          <figureCount type='integer' value='0'/>
+          <defence type='integer' value='0'/>
+          <resistance type='integer' value='0'/>
+          <goldUpkeep type='integer' value='0'/>
+          <foodUpkeep type='integer' value='0'/>
+          <manaUpkeep type='integer' value='0'/>
+          <minimalMovePoints type='integer' value='0'/>
+          <movementType type='string' value='Walker'/>
+          <attackUsageMode type='string' value='CloseCombat'/>
+          <attackPower type='integer' value='2'/>
+          <attackRange type='integer' value='0'/>
+          <races>
+          </races>
+          <perks>
+          </perks>
+          <spells>
+          </spells>
+        </Unit>
+        <Unit>
+          <stage type='2d_point_i' x='1' y='1'/>
+          <unitClass type='string' value='fighter'/>
+          <maximumProductionCost type='float' value='0.0'/>
+          <minimalSight type='integer' value='0'/>
+          <hitPoints type='integer' value='0'/>
+          <figureCount type='integer' value='0'/>
+          <defence type='integer' value='0'/>
+          <resistance type='integer' value='0'/>
+          <goldUpkeep type='integer' value='0'/>
+          <foodUpkeep type='integer' value='0'/>
+          <manaUpkeep type='integer' value='0'/>
+          <minimalMovePoints type='integer' value='0'/>
+          <movementType type='string' value='Walker'/>
+          <attackUsageMode type='string' value='RangedCombat'/>
+          <attackPower type='integer' value='3'/>
+          <attackRange type='integer' value='0'/>
+          <races>
+          </races>
+          <perks>
+          </perks>
+          <spells>
+          </spells>
+        </Unit>
+        <Unit>
+          <stage type='2d_point_i' x='1' y='1'/>
+          <unitClass type='string' value='fighter'/>
+          <maximumProductionCost type='float' value='0.0'/>
+          <minimalSight type='integer' value='0'/>
+          <hitPoints type='integer' value='0'/>
+          <figureCount type='integer' value='0'/>
+          <defence type='integer' value='0'/>
+          <resistance type='integer' value='0'/>
+          <goldUpkeep type='integer' value='0'/>
+          <foodUpkeep type='integer' value='0'/>
+          <manaUpkeep type='integer' value='0'/>
+          <minimalMovePoints type='integer' value='0'/>
+          <movementType type='string' value='Walker'/>
+          <attackUsageMode type='string' value='RangedCombat'/>
+          <attackPower type='integer' value='3'/>
+          <attackRange type='integer' value='0'/>
+          <races>
+          </races>
+          <perks>
+          </perks>
+          <spells>
+          </spells>
+        </Unit>
+        <Unit>
+          <stage type='2d_point_i' x='1' y='1'/>
+          <unitClass type='string' value='fighter'/>
+          <maximumProductionCost type='float' value='0.0'/>
+          <minimalSight type='integer' value='0'/>
+          <hitPoints type='integer' value='0'/>
+          <figureCount type='integer' value='0'/>
+          <defence type='integer' value='0'/>
+          <resistance type='integer' value='0'/>
+          <goldUpkeep type='integer' value='0'/>
+          <foodUpkeep type='integer' value='0'/>
+          <manaUpkeep type='integer' value='0'/>
+          <minimalMovePoints type='integer' value='0'/>
+          <movementType type='string' value='Walker'/>
+          <attackUsageMode type='string' value='RangedCombat'/>
+          <attackPower type='integer' value='3'/>
+          <attackRange type='integer' value='0'/>
+          <races>
+          </races>
+          <perks>
+          </perks>
+          <spells>
+          </spells>
+        </Unit>
+      </Units>
+    </ArmyPreset>
+    <ArmyPreset>
+      <name type='string' value='exploreLevel1'/>
+      <type type='string' value='Explore'/>
+      <Units>
+        <Unit>
+          <stage type='2d_point_i' x='1' y='1'/>
+          <unitClass type='string' value=''/>
+          <maximumProductionCost type='float' value='0.0'/>
+          <minimalSight type='integer' value='1'/>
+          <hitPoints type='integer' value='0'/>
+          <figureCount type='integer' value='0'/>
+          <defence type='integer' value='0'/>
+          <resistance type='integer' value='0'/>
+          <goldUpkeep type='integer' value='0'/>
+          <foodUpkeep type='integer' value='0'/>
+          <manaUpkeep type='integer' value='0'/>
+          <minimalMovePoints type='integer' value='2'/>
+          <movementType type='string' value='Walker'/>
+          <attackUsageMode type='string' value='CloseCombat'/>
+          <attackPower type='integer' value='0'/>
+          <attackRange type='integer' value='0'/>
+          <races>
+          </races>
+          <perks>
+          </perks>
+          <spells>
+          </spells>
+        </Unit>
+      </Units>
+    </ArmyPreset>
+    <ArmyPreset>
+      <name type='string' value='guardsLevel1'/>
+      <type type='string' value='Defensive'/>
+      <Units>
+        <Unit>
+          <stage type='2d_point_i' x='1' y='1'/>
+          <unitClass type='string' value='fighter'/>
+          <maximumProductionCost type='float' value='0.0'/>
+          <minimalSight type='integer' value='0'/>
+          <hitPoints type='integer' value='0'/>
+          <figureCount type='integer' value='0'/>
+          <defence type='integer' value='3'/>
+          <resistance type='integer' value='0'/>
+          <goldUpkeep type='integer' value='0'/>
+          <foodUpkeep type='integer' value='0'/>
+          <manaUpkeep type='integer' value='0'/>
+          <minimalMovePoints type='integer' value='0'/>
+          <movementType type='string' value='Walker'/>
+          <attackUsageMode type='string' value='CloseCombat'/>
+          <attackPower type='integer' value='0'/>
+          <attackRange type='integer' value='0'/>
+          <races>
+          </races>
+          <perks>
+          </perks>
+          <spells>
+          </spells>
+        </Unit>
+        <Unit>
+          <stage type='2d_point_i' x='1' y='1'/>
+          <unitClass type='string' value='fighter'/>
+          <maximumProductionCost type='float' value='0.0'/>
+          <minimalSight type='integer' value='0'/>
+          <hitPoints type='integer' value='0'/>
+          <figureCount type='integer' value='0'/>
+          <defence type='integer' value='3'/>
+          <resistance type='integer' value='0'/>
+          <goldUpkeep type='integer' value='0'/>
+          <foodUpkeep type='integer' value='0'/>
+          <manaUpkeep type='integer' value='0'/>
+          <minimalMovePoints type='integer' value='0'/>
+          <movementType type='string' value='Walker'/>
+          <attackUsageMode type='string' value='CloseCombat'/>
+          <attackPower type='integer' value='0'/>
+          <attackRange type='integer' value='0'/>
+          <races>
+          </races>
+          <perks>
+          </perks>
+          <spells>
+          </spells>
+        </Unit>
+      </Units>
+    </ArmyPreset>
+  </Presets>
+</ArmyPresetDataList>

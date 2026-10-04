@@ -1,0 +1,52 @@
+<VideoQuality>
+  <Higest>
+    <waterQuality type='string' value='High'/>
+    <fxQuality type='string' value='High'/>
+    <landscapeQuality type='string' value='Higest'/>
+    <shadowQuality type='string' value='Higest'/>
+    <cloudsQuality type='string' value='Best'/>
+    <textureQuality type='string' value='High'/>
+    <modelQuality type='string' value='High'/>
+    <antiAlias type='bool' value='1'/>
+  </Higest>
+  <High>
+    <waterQuality type='string' value='High'/>
+    <fxQuality type='string' value='High'/>
+    <landscapeQuality type='string' value='High'/>
+    <shadowQuality type='string' value='High'/>
+    <cloudsQuality type='string' value='Best'/>
+    <textureQuality type='string' value='High'/>
+    <modelQuality type='string' value='High'/>
+    <antiAlias type='bool' value='1'/>
+  </High>
+  <Medium>
+    <waterQuality type='string' value='Medium'/>
+    <fxQuality type='string' value='Medium'/>
+    <landscapeQuality type='string' value='Medium'/>
+    <shadowQuality type='string' value='Medium'/>
+    <cloudsQuality type='string' value='Medium'/>
+    <textureQuality type='string' value='Medium'/>
+    <modelQuality type='string' value='Medium'/>
+    <antiAlias type='bool' value='0'/>
+  </Medium>
+  <Low>
+    <waterQuality type='string' value='Low'/>
+    <fxQuality type='string' value='Low'/>
+    <landscapeQuality type='string' value='Low'/>
+    <shadowQuality type='string' value='Low'/>
+    <cloudsQuality type='string' value='Medium'/>
+    <textureQuality type='string' value='Medium'/>
+    <modelQuality type='string' value='Medium'/>
+    <antiAlias type='bool' value='0'/>
+  </Low>
+  <Minimal>
+    <waterQuality type='string' value='Low'/>
+    <fxQuality type='string' value='Low'/>
+    <landscapeQuality type='string' value='Minimal'/>
+    <shadowQuality type='string' value='Off'/>
+    <cloudsQuality type='string' value='Low'/>
+    <textureQuality type='string' value='Low'/>
+    <modelQuality type='string' value='Low'/>
+    <antiAlias type='bool' value='0'/>
+  </Minimal>
+</VideoQuality>

@@ -1,0 +1,497 @@
+<Resources>
+  <resources>
+    <item>
+      <name type='string' value='res_adamantium'/>
+      <mapProbability type='integer' value='6'/>
+      <generationLand type='string' value='no_bad'/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='40'/>
+      <unitName type='string' value='s_dragon_two_head'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='3'/>
+        <Item type='integer' value='4'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_ancient_ruins'/>
+      <mapProbability type='integer' value='6'/>
+      <generationLand type='string' value=''/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='15'/>
+      <unitName type='string' value='u_ghost'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+        <Item type='integer' value='4'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_donkeys'/>
+      <mapProbability type='integer' value='9'/>
+      <generationLand type='string' value='no_bad'/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='10'/>
+      <unitName type='string' value='a_knight_donkey'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='1'/>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_dragon_eggs'/>
+      <mapProbability type='integer' value='12'/>
+      <generationLand type='string' value='no_bad'/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='40'/>
+      <unitName type='string' value='a_dragon_red'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='4'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_dwarves'/>
+      <mapProbability type='integer' value='10'/>
+      <generationLand type='string' value='no_bad'/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='20'/>
+      <unitName type='string' value='a_dwarf_war'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_elves'/>
+      <mapProbability type='integer' value='10'/>
+      <generationLand type='string' value='no_bad'/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='20'/>
+      <unitName type='string' value='a_elf_bow'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_gems'/>
+      <mapProbability type='integer' value='10'/>
+      <generationLand type='string' value=''/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='20'/>
+      <unitName type='string' value='s_elemental_earth_adv'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+        <Item type='integer' value='4'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_gold'/>
+      <mapProbability type='integer' value='10'/>
+      <generationLand type='string' value=''/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='10'/>
+      <unitName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+        <Item type='integer' value='4'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_gold_dragon_eggs'/>
+      <mapProbability type='integer' value='6'/>
+      <generationLand type='string' value='no_bad'/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='50'/>
+      <unitName type='string' value='a_dragon_gold'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='4'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_halberdhall'/>
+      <mapProbability type='integer' value='9'/>
+      <generationLand type='string' value='no_bad'/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='10'/>
+      <unitName type='string' value='a_halberdier'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='1'/>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_holy_ground'/>
+      <mapProbability type='integer' value='25'/>
+      <generationLand type='string' value=''/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='50'/>
+      <unitName type='string' value='s_elemental_fire_adv'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='1'/>
+      <stages>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+        <Item type='integer' value='4'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_inferno_rift'/>
+      <mapProbability type='integer' value='8'/>
+      <generationLand type='string' value=''/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='20'/>
+      <unitName type='string' value='s_imp_adv'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='1'/>
+      <stages>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+        <Item type='integer' value='4'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_iron'/>
+      <mapProbability type='integer' value='10'/>
+      <generationLand type='string' value=''/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='10'/>
+      <unitName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='1'/>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_lizardman'/>
+      <mapProbability type='integer' value='6'/>
+      <generationLand type='string' value='no_bad'/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='30'/>
+      <unitName type='string' value='a_lizardman_bow'/>
+      <dlcId type='integer' value='2'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='1'/>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+        <Item type='integer' value='4'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_magic_fields'/>
+      <mapProbability type='integer' value='10'/>
+      <generationLand type='string' value=''/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='20'/>
+      <unitName type='string' value='s_wolf_ghost'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='1'/>
+      <stages>
+        <Item type='integer' value='1'/>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+        <Item type='integer' value='4'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_magic_node'/>
+      <mapProbability type='integer' value='10'/>
+      <generationLand type='string' value=''/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='20'/>
+      <unitName type='string' value='w_serpent'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='1'/>
+      <stages>
+        <Item type='integer' value='1'/>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+        <Item type='integer' value='4'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_minotaur'/>
+      <mapProbability type='integer' value='6'/>
+      <generationLand type='string' value='no_bad'/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='20'/>
+      <unitName type='string' value='w_minotaur'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='1'/>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_nevril'/>
+      <mapProbability type='integer' value='5'/>
+      <generationLand type='string' value='no_bad'/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='30'/>
+      <unitName type='string' value='w_wolfman'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+        <Item type='integer' value='4'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_pigs'/>
+      <mapProbability type='integer' value='10'/>
+      <generationLand type='string' value=''/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='10'/>
+      <unitName type='string' value='w_wolf'/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='0'/>
+        <Item type='integer' value='1'/>
+        <Item type='integer' value='2'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_pumpkins'/>
+      <mapProbability type='integer' value='10'/>
+      <generationLand type='string' value=''/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='10'/>
+      <unitName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='0'/>
+        <Item type='integer' value='1'/>
+        <Item type='integer' value='2'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+    <item>
+      <name type='string' value='res_silver'/>
+      <mapProbability type='integer' value='10'/>
+      <generationLand type='string' value='no_bad'/>
+      <terraformingLand type='string' value=''/>
+      <weight type='integer' value='10'/>
+      <unitName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <stages>
+        <Item type='integer' value='0'/>
+        <Item type='integer' value='1'/>
+        <Item type='integer' value='2'/>
+        <Item type='integer' value='3'/>
+      </stages>
+      <worldPresets>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </worldPresets>
+    </item>
+  </resources>
+</Resources>

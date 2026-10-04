@@ -1,0 +1,3482 @@
+<StructureDataList>
+  <Cities>
+    <item>
+      <name type='string' value='ElvenCapital'/>
+      <stage type='integer' value='1'/>
+      <race type='string' value='elves'/>
+      <type type='string' value='Capital'/>
+      <population type='integer' value='4850'/>
+      <spawnPeriod type='2d_point_i' x='5' y='6'/>
+      <dlcId type='integer' value='4'/>
+      <buildings>
+        <Item type='string' value='bld_c_farm'/>
+        <Item type='string' value='bld_c_market'/>
+        <Item type='string' value='bld_e_guild_elf_archer'/>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='e_elf_archer'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='e_elf_lancer'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='e_elf_settler'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='ElvesTown01'/>
+      <stage type='integer' value='1'/>
+      <race type='string' value='elves'/>
+      <type type='string' value='Province'/>
+      <population type='integer' value='1000'/>
+      <spawnPeriod type='2d_point_i' x='10' y='15'/>
+      <dlcId type='integer' value='4'/>
+      <buildings>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='e_elf_archer'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='e_elf_lancer'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='ElvesTown02'/>
+      <stage type='integer' value='2'/>
+      <race type='string' value='elves'/>
+      <type type='string' value='Province'/>
+      <population type='integer' value='5100'/>
+      <spawnPeriod type='2d_point_i' x='10' y='15'/>
+      <dlcId type='integer' value='4'/>
+      <buildings>
+        <Item type='string' value='bld_c_farm'/>
+        <Item type='string' value='bld_e_guild_elf_archer'/>
+        <Item type='string' value='bld_c_smithy'/>
+        <Item type='string' value='bld_e_tower_guard'/>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='e_elf_knight'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='e_elf_archer'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='ElvesTown03'/>
+      <stage type='integer' value='2'/>
+      <race type='string' value='elves'/>
+      <type type='string' value='Province'/>
+      <population type='integer' value='5100'/>
+      <spawnPeriod type='2d_point_i' x='12' y='15'/>
+      <dlcId type='integer' value='4'/>
+      <buildings>
+        <Item type='string' value='bld_c_magic_receiver'/>
+        <Item type='string' value='bld_e_alchemy_masters'/>
+        <Item type='string' value='bld_e_guild_elf_warlock'/>
+        <Item type='string' value='bld_e_tower_magic'/>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='e_elf_lancer_adv'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='e_elf_warlock'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='HumanCapital'/>
+      <stage type='integer' value='1'/>
+      <race type='string' value='humans'/>
+      <type type='string' value='Capital'/>
+      <population type='integer' value='4850'/>
+      <spawnPeriod type='2d_point_i' x='5' y='6'/>
+      <dlcId type='integer' value='0'/>
+      <buildings>
+        <Item type='string' value='bld_c_farm'/>
+        <Item type='string' value='bld_c_market'/>
+        <Item type='string' value='bld_h_guild_warrior'/>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='h_rogue'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='h_ranger'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='h_settler_peasant'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='HumanTown01'/>
+      <stage type='integer' value='1'/>
+      <race type='string' value='humans'/>
+      <type type='string' value='Province'/>
+      <population type='integer' value='1000'/>
+      <spawnPeriod type='2d_point_i' x='10' y='15'/>
+      <dlcId type='integer' value='0'/>
+      <buildings>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='h_warrior'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='h_rogue'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='HumanTown02'/>
+      <stage type='integer' value='2'/>
+      <race type='string' value='humans'/>
+      <type type='string' value='Province'/>
+      <population type='integer' value='5100'/>
+      <spawnPeriod type='2d_point_i' x='10' y='15'/>
+      <dlcId type='integer' value='0'/>
+      <buildings>
+        <Item type='string' value='bld_c_farm'/>
+        <Item type='string' value='bld_h_guild_warrior'/>
+        <Item type='string' value='bld_c_smithy'/>
+        <Item type='string' value='bld_h_tower_guard'/>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='h_warrior_adv'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='h_ranger'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='HumanTown03'/>
+      <stage type='integer' value='2'/>
+      <race type='string' value='humans'/>
+      <type type='string' value='Province'/>
+      <population type='integer' value='5100'/>
+      <spawnPeriod type='2d_point_i' x='10' y='15'/>
+      <dlcId type='integer' value='0'/>
+      <buildings>
+        <Item type='string' value='bld_c_magic_receiver'/>
+        <Item type='string' value='bld_h_library'/>
+        <Item type='string' value='bld_h_guild_mage'/>
+        <Item type='string' value='bld_h_tower_magic'/>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='h_warrior_adv'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='h_mage'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='MonsterCapital'/>
+      <stage type='integer' value='1'/>
+      <race type='string' value='monsters'/>
+      <type type='string' value='Capital'/>
+      <population type='integer' value='4850'/>
+      <spawnPeriod type='2d_point_i' x='5' y='6'/>
+      <dlcId type='integer' value='0'/>
+      <buildings>
+        <Item type='string' value='bld_c_farm'/>
+        <Item type='string' value='bld_c_market'/>
+        <Item type='string' value='bld_m_guild_goblin_spearmen'/>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='m_ratman'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='m_goblin_bow'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='m_settler_gnomes'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='MonsterTown01'/>
+      <stage type='integer' value='1'/>
+      <race type='string' value='monsters'/>
+      <type type='string' value='Province'/>
+      <population type='integer' value='1000'/>
+      <spawnPeriod type='2d_point_i' x='10' y='15'/>
+      <dlcId type='integer' value='0'/>
+      <buildings>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='m_ratman'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='m_goblin_spear'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='MonsterTown02'/>
+      <stage type='integer' value='2'/>
+      <race type='string' value='monsters'/>
+      <type type='string' value='Province'/>
+      <population type='integer' value='5100'/>
+      <spawnPeriod type='2d_point_i' x='10' y='15'/>
+      <dlcId type='integer' value='0'/>
+      <buildings>
+        <Item type='string' value='bld_c_farm'/>
+        <Item type='string' value='bld_m_guild_goblin_spearmen'/>
+        <Item type='string' value='bld_c_smithy'/>
+        <Item type='string' value='bld_m_tower_guard'/>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='m_werewolf'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='m_goblin_bow'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='MonsterTown03'/>
+      <stage type='integer' value='2'/>
+      <race type='string' value='monsters'/>
+      <type type='string' value='Province'/>
+      <population type='integer' value='5100'/>
+      <spawnPeriod type='2d_point_i' x='10' y='15'/>
+      <dlcId type='integer' value='0'/>
+      <buildings>
+        <Item type='string' value='bld_c_magic_receiver'/>
+        <Item type='string' value='bld_m_laboratory'/>
+        <Item type='string' value='bld_m_guild_shaman'/>
+        <Item type='string' value='bld_m_tower_magic'/>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='m_troll'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='m_goblin_shaman'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='UndeadCapital'/>
+      <stage type='integer' value='1'/>
+      <race type='string' value='undead'/>
+      <type type='string' value='Capital'/>
+      <population type='integer' value='4850'/>
+      <spawnPeriod type='2d_point_i' x='5' y='6'/>
+      <dlcId type='integer' value='0'/>
+      <buildings>
+        <Item type='string' value='bld_c_magic_receiver'/>
+        <Item type='string' value='bld_c_market'/>
+        <Item type='string' value='bld_u_guild_skeleton_war'/>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_skeleton_war'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_skeleton_bow'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_settler_skeleton'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='UndeadTown01'/>
+      <stage type='integer' value='1'/>
+      <race type='string' value='undead'/>
+      <type type='string' value='Province'/>
+      <population type='integer' value='1000'/>
+      <spawnPeriod type='2d_point_i' x='10' y='15'/>
+      <dlcId type='integer' value='0'/>
+      <buildings>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_skeleton_war'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_skeleton_bow'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='UndeadTown02'/>
+      <stage type='integer' value='2'/>
+      <race type='string' value='undead'/>
+      <type type='string' value='Province'/>
+      <population type='integer' value='5100'/>
+      <spawnPeriod type='2d_point_i' x='10' y='15'/>
+      <dlcId type='integer' value='0'/>
+      <buildings>
+        <Item type='string' value='bld_c_magic_receiver'/>
+        <Item type='string' value='bld_u_guild_skeleton_war'/>
+        <Item type='string' value='bld_c_smithy'/>
+        <Item type='string' value='bld_u_tower_magic'/>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_ghost'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_skeleton_bow'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='UndeadTown03'/>
+      <stage type='integer' value='2'/>
+      <race type='string' value='undead'/>
+      <type type='string' value='Province'/>
+      <population type='integer' value='5100'/>
+      <spawnPeriod type='2d_point_i' x='10' y='15'/>
+      <dlcId type='integer' value='0'/>
+      <buildings>
+        <Item type='string' value='bld_c_market'/>
+        <Item type='string' value='bld_c_tax_collector'/>
+        <Item type='string' value='bld_u_guild_vampire'/>
+        <Item type='string' value='bld_u_tower_guard'/>
+      </buildings>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_skeleton_war_adv'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_vampire'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+  </Cities>
+  <Locations>
+    <item>
+      <name type='string' value='bld_w_bear_cave'/>
+      <stage type='integer' value='5'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='25' y='45'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='100' y='250'/>
+          <research type='2d_point_i' x='100' y='250'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='10'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_bear_cave'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_bear_den'/>
+      <stage type='integer' value='2'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='7' y='14'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='50' y='90'/>
+          <research type='2d_point_i' x='50' y='130'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='monsters'/>
+          <probability type='integer' value='20'/>
+          <stage type='integer' value='1'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_bear'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_bear_adv'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_bearman'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_big_spider_den'/>
+      <stage type='integer' value='2'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='7' y='14'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='99'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='30' y='60'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='66'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='lord'/>
+          <probability type='integer' value='20'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='30'/>
+          <stage type='integer' value='1'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_spider'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_spider_adv'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_skeleton'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_chest'/>
+      <stage type='integer' value='1'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='40'/>
+      <rndEventProbability type='integer' value='4'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='chest'/>
+      <spawnPeriod type='2d_point_i' x='5' y='10'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='30' y='60'/>
+          <research type='2d_point_i' x='30' y='60'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='30'/>
+          <stage type='integer' value='1'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_chest_art'/>
+      <stage type='integer' value='2'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='5'/>
+      <rndEventProbability type='integer' value='5'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='chest'/>
+      <spawnPeriod type='2d_point_i' x='30' y='50'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_chest_art'/>
+      <stage type='integer' value='3'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='3'/>
+      <rndEventProbability type='integer' value='3'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='chest'/>
+      <spawnPeriod type='2d_point_i' x='30' y='50'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='3'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_cockroach_hell'/>
+      <stage type='integer' value='5'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='25' y='45'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='200' y='250'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_cockroach_hell'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_crypt'/>
+      <stage type='integer' value='3'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='necros'/>
+      <spawnPeriod type='2d_point_i' x='9' y='18'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='100' y='150'/>
+          <research type='2d_point_i' x='100' y='250'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='50' y='75'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='undead'/>
+          <probability type='integer' value='40'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='30'/>
+          <stage type='integer' value='3'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='20'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_vampire'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_scout'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_skeleton_war_adv'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_skeleton_bow_adv'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_demons_hell'/>
+      <stage type='integer' value='3'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='demon'/>
+      <spawnPeriod type='2d_point_i' x='9' y='18'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='50' y='100'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='80'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='20'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='lord'/>
+          <probability type='integer' value='20'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_imp'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_imp_adv'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_elemental_fire_adv'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_dragon_nest'/>
+      <stage type='integer' value='4'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='fly'/>
+      <spawnPeriod type='2d_point_i' x='9' y='18'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='200' y='300'/>
+          <research type='2d_point_i' x='200' y='500'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='200' y='350'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='50'/>
+          <stage type='integer' value='3'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='40'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='lord'/>
+          <probability type='integer' value='10'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='a_dragon_red'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_dragon_two_head'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='a_dragon_gold'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_dump'/>
+      <stage type='integer' value='1'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='5' y='10'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='30' y='60'/>
+          <research type='2d_point_i' x='30' y='60'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='20'/>
+          <stage type='integer' value='1'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_cockroach'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_cockroach_adv'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_ratman_wild'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_elemental_diamond'/>
+      <stage type='integer' value='5'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='elemental'/>
+      <spawnPeriod type='2d_point_i' x='25' y='45'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='400' y='600'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_elemental_diamond'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_elemental_portal'/>
+      <stage type='integer' value='4'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='elemental'/>
+      <spawnPeriod type='2d_point_i' x='9' y='18'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='100' y='150'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='summoned'/>
+          <probability type='integer' value='40'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='30'/>
+          <stage type='integer' value='3'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='20'/>
+          <stage type='integer' value='3'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_elemental_fire'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_elemental_earth'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_elemental_fire_adv'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_elemental_earth_adv'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_elemental_water'/>
+      <stage type='integer' value='5'/>
+      <type type='string' value='WaterLocation'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='25' y='45'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='300' y='500'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='50'/>
+          <stage type='integer' value='3'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_elemental_water'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_graveyard'/>
+      <stage type='integer' value='2'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='necros'/>
+      <spawnPeriod type='2d_point_i' x='7' y='14'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='50' y='90'/>
+          <research type='2d_point_i' x='50' y='130'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='undead'/>
+          <probability type='integer' value='50'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='10'/>
+          <stage type='integer' value='1'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='2'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_skeleton_war'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_skeleton_bow'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_skeleton_war_adv'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='u_skeleton_bow_adv'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_imp_portal'/>
+      <stage type='integer' value='2'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='demon'/>
+      <spawnPeriod type='2d_point_i' x='7' y='14'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='50' y='75'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='20'/>
+          <stage type='integer' value='1'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_imp'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_imp_adv'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_logovo_rogue'/>
+      <stage type='integer' value='2'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='rogue'/>
+      <spawnPeriod type='2d_point_i' x='7' y='14'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='50' y='90'/>
+          <research type='2d_point_i' x='50' y='130'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='10'/>
+          <stage type='integer' value='1'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='humans'/>
+          <probability type='integer' value='20'/>
+          <stage type='integer' value='1'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='h_rogue'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='h_ranger'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='h_rogue_adv'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='h_ranger_adv'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_mage_evil'/>
+      <stage type='integer' value='5'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='rogue'/>
+      <spawnPeriod type='2d_point_i' x='25' y='45'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='100' y='250'/>
+          <research type='2d_point_i' x='100' y='250'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='100' y='250'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_mage_evil'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_magic_glade'/>
+      <stage type='integer' value='3'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='elemental'/>
+      <spawnPeriod type='2d_point_i' x='9' y='18'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='100' y='225'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='50'/>
+          <stage type='integer' value='3'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='10'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='elves'/>
+          <probability type='integer' value='20'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_treant'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_elemental_earth_adv'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_elemental_earth'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_ogre_cave'/>
+      <stage type='integer' value='2'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='elemental'/>
+      <spawnPeriod type='2d_point_i' x='7' y='14'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='50' y='90'/>
+          <research type='2d_point_i' x='50' y='130'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='50'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='20'/>
+          <stage type='integer' value='1'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='lord'/>
+          <probability type='integer' value='10'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_ogre'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_peasant_mad'/>
+      <stage type='integer' value='5'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='rogue'/>
+      <spawnPeriod type='2d_point_i' x='25' y='45'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='100' y='250'/>
+          <research type='2d_point_i' x='100' y='250'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='lord'/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='50'/>
+          <stage type='integer' value='3'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_peasant_mad'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_ratman_den'/>
+      <stage type='integer' value='1'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='5' y='10'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='30' y='60'/>
+          <research type='2d_point_i' x='30' y='60'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='monsters'/>
+          <probability type='integer' value='30'/>
+          <stage type='integer' value='1'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_ratman_wild'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='m_rat'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='m_rat_adv'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_sea_bigfish_nest'/>
+      <stage type='integer' value='2'/>
+      <type type='string' value='WaterLocation'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='15'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='25' y='45'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='75' y='100'/>
+          <research type='2d_point_i' x='100' y='250'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='sea_bigfish'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_sea_chest'/>
+      <stage type='integer' value='1'/>
+      <type type='string' value='WaterLocation'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='7' y='14'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='30' y='60'/>
+          <research type='2d_point_i' x='30' y='60'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_sea_kraken_nest'/>
+      <stage type='integer' value='2'/>
+      <type type='string' value='WaterLocation'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='5'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='9' y='18'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='125' y='200'/>
+          <research type='2d_point_i' x='100' y='250'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='sea_kraken'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_sea_serpent_nest'/>
+      <stage type='integer' value='2'/>
+      <type type='string' value='WaterLocation'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='9' y='18'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='100' y='125'/>
+          <research type='2d_point_i' x='100' y='250'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='50' y='130'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='sea_serpent'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_serpent_nest'/>
+      <stage type='integer' value='2'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='fly'/>
+      <spawnPeriod type='2d_point_i' x='7' y='14'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='25' y='50'/>
+          <research type='2d_point_i' x='50' y='130'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='50'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='30' y='60'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='20'/>
+          <stage type='integer' value='1'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_serpent'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='a_dragon_red'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_spider_hole'/>
+      <stage type='integer' value='1'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='5' y='10'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='50' y='130'/>
+          <research type='2d_point_i' x='50' y='130'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='30' y='60'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='30'/>
+          <stage type='integer' value='1'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_spider'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_spider_adv'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_spider_red'/>
+      <stage type='integer' value='5'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='25' y='45'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='200' y='350'/>
+          <research type='2d_point_i' x='200' y='350'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='60'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='100' y='200'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='lord'/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='60'/>
+          <stage type='integer' value='3'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_spider_red'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_treant_dry'/>
+      <stage type='integer' value='5'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='elemental'/>
+      <spawnPeriod type='2d_point_i' x='25' y='45'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='100' y='250'/>
+          <research type='2d_point_i' x='100' y='250'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='100' y='250'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='lord'/>
+          <probability type='integer' value='60'/>
+          <stage type='integer' value='3'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_treant_dry'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_troll_big'/>
+      <stage type='integer' value='5'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='25' y='45'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='800' y='1200'/>
+          <research type='2d_point_i' x='800' y='1200'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='80'/>
+          <stage type='integer' value='3'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='lord'/>
+          <probability type='integer' value='60'/>
+          <stage type='integer' value='3'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_troll_big'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_wolf_den'/>
+      <stage type='integer' value='1'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='5' y='10'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='30' y='60'/>
+          <research type='2d_point_i' x='30' y='60'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='monsters'/>
+          <probability type='integer' value='30'/>
+          <stage type='integer' value='1'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_wolf'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_wolf_adv'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_wolfman'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_wolf_nightmare'/>
+      <stage type='integer' value='5'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='demon'/>
+      <spawnPeriod type='2d_point_i' x='25' y='45'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='100' y='250'/>
+          <research type='2d_point_i' x='100' y='250'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='50'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='50' y='130'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='30'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_wolf_nightmare'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_wolfman_den'/>
+      <stage type='integer' value='3'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='9' y='18'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='100' y='250'/>
+          <research type='2d_point_i' x='100' y='250'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='40'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='monsters'/>
+          <probability type='integer' value='40'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='10'/>
+          <stage type='integer' value='2'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_wolf_adv'/>
+          <fractionLevel type='float' value='0.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_wolfman'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='m_werewolf_adv'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_wolf_ghost'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_w_zombie_mindless'/>
+      <stage type='integer' value='5'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='10'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='necros'/>
+      <spawnPeriod type='2d_point_i' x='25' y='45'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='200' y='500'/>
+          <research type='2d_point_i' x='200' y='500'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='75'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='200' y='300'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Unit'/>
+          <race type='string' value='undead'/>
+          <probability type='integer' value='30'/>
+          <stage type='integer' value='3'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='50'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='50'/>
+          <stage type='integer' value='3'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_ghost_bad'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='w_zombie_mindless'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_z_evil_castle'/>
+      <stage type='integer' value='3'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='0'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='evil'/>
+      <spawnPeriod type='2d_point_i' x='12' y='15'/>
+      <building type='string' value='bld_z_evil_castle_tower'/>
+      <dlcId type='integer' value='5'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='100' y='150'/>
+          <research type='2d_point_i' x='100' y='250'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Random'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='2'/>
+          <race type='string' value='dremers'/>
+          <name type='string' value=''/>
+          <fractionLevel type='float' value='0.5'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Random'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='3'/>
+          <race type='string' value='dremers'/>
+          <name type='string' value=''/>
+          <fractionLevel type='float' value='1.5'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Random'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='4'/>
+          <race type='string' value='dremers'/>
+          <name type='string' value=''/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_z_evil_gate'/>
+      <stage type='integer' value='3'/>
+      <type type='string' value='Epicenter'/>
+      <mapProbability type='integer' value='0'/>
+      <rndEventProbability type='integer' value='10'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='5' y='10'/>
+      <building type='string' value='bld_z_evil_tower'/>
+      <dlcId type='integer' value='5'/>
+      <fixedTerrain type='bool' value='0'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='100' y='150'/>
+          <research type='2d_point_i' x='100' y='200'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='50'/>
+          <stage type='integer' value='3'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Mana'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='50'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='50' y='130'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='z_evil_brute'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='75.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='z_evil_thrower'/>
+          <fractionLevel type='float' value='1.0'/>
+          <spawnProbability type='float' value='40.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='z_flying_monster'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='40.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='z_evil_mage'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='40.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='z_evil_sturdy'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='40.0'/>
+        </ArmyPreset>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='0' y='0'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='z_evil_brute_adv'/>
+          <fractionLevel type='float' value='3.0'/>
+          <spawnProbability type='float' value='40.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='bld_z_evil_key'/>
+      <stage type='integer' value='3'/>
+      <type type='string' value='Location'/>
+      <mapProbability type='integer' value='0'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='evil'/>
+      <spawnPeriod type='2d_point_i' x='25' y='45'/>
+      <building type='string' value='bld_z_evil_key_tower'/>
+      <dlcId type='integer' value='5'/>
+      <fixedTerrain type='bool' value='1'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+        <LootPreset version='2'>
+          <lootType type='string' value='Money'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='100'/>
+          <stage type='integer' value='0'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='100' y='250'/>
+          <research type='2d_point_i' x='100' y='250'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Artifact'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='30'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+        <LootPreset version='2'>
+          <lootType type='string' value='Spell'/>
+          <race type='string' value=''/>
+          <probability type='integer' value='30'/>
+          <stage type='integer' value='4'/>
+          <mana type='2d_point_i' x='0' y='0'/>
+          <money type='2d_point_i' x='0' y='0'/>
+          <research type='2d_point_i' x='0' y='0'/>
+          <spellGodType type='string' value=''/>
+        </LootPreset>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Random'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='3'/>
+          <race type='string' value='dremers'/>
+          <name type='string' value=''/>
+          <fractionLevel type='float' value='5.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='tel_teleport1'/>
+      <stage type='integer' value='2'/>
+      <type type='string' value='Teleport'/>
+      <mapProbability type='integer' value='0'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='9' y='18'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='1'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_elemental_earth'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+    <item>
+      <name type='string' value='tel_teleport2'/>
+      <stage type='integer' value='2'/>
+      <type type='string' value='Teleport'/>
+      <mapProbability type='integer' value='0'/>
+      <rndEventProbability type='integer' value='0'/>
+      <magicPower type='integer' value='0'/>
+      <randomEventType type='string' value='beast'/>
+      <spawnPeriod type='2d_point_i' x='9' y='18'/>
+      <building type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <fixedTerrain type='bool' value='1'/>
+      <presetNameList>
+        <Item type='string' value='Ardania'/>
+        <Item type='string' value='Desert'/>
+        <Item type='string' value='Evil'/>
+        <Item type='string' value='Ice'/>
+        <Item type='string' value='Lava'/>
+        <Item type='string' value='Moon'/>
+        <Item type='string' value='Myrra'/>
+        <Item type='string' value='Outlands'/>
+      </presetNameList>
+      <Loot>
+      </Loot>
+      <Defenders>
+        <ArmyPreset>
+          <armyType type='string' value='Specified'/>
+          <count type='2d_point_i' x='1' y='1'/>
+          <stage type='integer' value='0'/>
+          <race type='string' value=''/>
+          <name type='string' value='s_elemental_fire'/>
+          <fractionLevel type='float' value='2.0'/>
+          <spawnProbability type='float' value='100.0'/>
+        </ArmyPreset>
+      </Defenders>
+    </item>
+  </Locations>
+</StructureDataList>

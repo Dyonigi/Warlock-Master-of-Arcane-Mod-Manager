@@ -1,0 +1,481 @@
+<LandscapeSounds>
+  <eventGroupName type='string' value='moar_project/Landscape'/>
+  <windEventName type='string' value='Altitude Wind'/>
+  <maxDistance type='float' value='40.0'/>
+  <LandSoundEventList>
+    <LandSoundEvent>
+      <tileType type='string' value='FogOfWar'/>
+      <eventName type='string' value='landscape fog of war'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='Unknown'/>
+      <eventName type='string' value='landscape plains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='ash_desert'/>
+      <eventName type='string' value='landscape ashes'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='ash_forest'/>
+      <eventName type='string' value='landscape ash forest'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='barrens_dry_trees'/>
+      <eventName type='string' value='landscape dry trees'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='barrens_hills'/>
+      <eventName type='string' value='landscape hills'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='barrens_plains'/>
+      <eventName type='string' value='landscape desert'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='barrens_tree_hills'/>
+      <eventName type='string' value='landscape dry trees'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='dead_hills'/>
+      <eventName type='string' value='landscape dead plains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='dead_hills_trees'/>
+      <eventName type='string' value='landscape dead forest'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='dead_mounts'/>
+      <eventName type='string' value='landscape dead mounts'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='dead_plains'/>
+      <eventName type='string' value='landscape dead plains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='dead_plains_trees'/>
+      <eventName type='string' value='landscape dead forest'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='deep'/>
+      <eventName type='string' value='landscape sea deep'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='desert_cactus'/>
+      <eventName type='string' value='landscape desert'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='desert_cracked'/>
+      <eventName type='string' value='landscape desert'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='desert_hills_brown'/>
+      <eventName type='string' value='landscape desert'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='desert_hills_cactus'/>
+      <eventName type='string' value='landscape desert'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='desert_hills_stone'/>
+      <eventName type='string' value='landscape desert'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='desert_mountains_snow'/>
+      <eventName type='string' value='landscape mountains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='desert_sand'/>
+      <eventName type='string' value='landscape desert'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='green_forest'/>
+      <eventName type='string' value='landscape forest'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='green_forest_hills'/>
+      <eventName type='string' value='landscape forest'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='green_grassland'/>
+      <eventName type='string' value='landscape plains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='green_hills'/>
+      <eventName type='string' value='landscape hills'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='green_mountains'/>
+      <eventName type='string' value='landscape mountains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='green_mountains_snow'/>
+      <eventName type='string' value='landscape mountains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='green_swamp'/>
+      <eventName type='string' value='landscape swamp'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='green_tundra'/>
+      <eventName type='string' value='landscape tundra'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='hills_burned'/>
+      <eventName type='string' value='landscape burned mountains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='hills_burned_trees'/>
+      <eventName type='string' value='landscape burned forest'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='hills_corrupt'/>
+      <eventName type='string' value='landscape corrupted'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='hills_corrupt_trees'/>
+      <eventName type='string' value='landscape corrupted'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='hills_destroyed'/>
+      <eventName type='string' value='landscape destroyed plains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='hills_evil'/>
+      <eventName type='string' value='landscape evil plains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='hills_magication'/>
+      <eventName type='string' value='landscape magication'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='hills_magication_trees'/>
+      <eventName type='string' value='landscape magication forest'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='jungle'/>
+      <eventName type='string' value='landscape jungle'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='lava_hills'/>
+      <eventName type='string' value='landscape lava hills'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='lava_mountains'/>
+      <eventName type='string' value='landscape lava hills'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='lava_plains'/>
+      <eventName type='string' value='landscape lava'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='life_hills'/>
+      <eventName type='string' value='landscape life hills'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='life_hills_trees'/>
+      <eventName type='string' value='landscape life forest'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='life_mounts'/>
+      <eventName type='string' value='landscape life mountains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='life_plains'/>
+      <eventName type='string' value='landscape life plains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='life_plains_trees'/>
+      <eventName type='string' value='landscape life forest'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='moon_forest'/>
+      <eventName type='string' value='landscape moon plains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='moon_hills'/>
+      <eventName type='string' value='landscape moon hills'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='moon_hills_forest'/>
+      <eventName type='string' value='landscape moon hills'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='moon_mounts'/>
+      <eventName type='string' value='landscape moon hills'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='moon_plains'/>
+      <eventName type='string' value='landscape moon plains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='mounts_burned'/>
+      <eventName type='string' value='landscape burned mountains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='mounts_corrupt'/>
+      <eventName type='string' value='landscape corrupted'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='mounts_destroyed'/>
+      <eventName type='string' value='landscape destroyed mounts'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='mounts_evil'/>
+      <eventName type='string' value='landscape evil mountains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='mounts_magication'/>
+      <eventName type='string' value='landscape magication'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='plains_burned'/>
+      <eventName type='string' value='landscape burned plains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='plains_burned_trees'/>
+      <eventName type='string' value='landscape burned forest'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='plains_corrupt'/>
+      <eventName type='string' value='landscape corrupted'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='plains_corrupt_trees'/>
+      <eventName type='string' value='landscape corrupted'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='plains_destroyed'/>
+      <eventName type='string' value='landscape destroyed plains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='plains_evil'/>
+      <eventName type='string' value='landscape evil plains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='plains_magication'/>
+      <eventName type='string' value='landscape magication'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='plains_magication_trees'/>
+      <eventName type='string' value='landscape magication forest'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='red_deep'/>
+      <eventName type='string' value='landscape redsea deep'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='red_forest'/>
+      <eventName type='string' value='landscape red forest'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='red_forest_hills'/>
+      <eventName type='string' value='landscape red forest'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='red_forest_pink'/>
+      <eventName type='string' value='landscape pink forest'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='red_hills'/>
+      <eventName type='string' value='landscape red plains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='red_mountains'/>
+      <eventName type='string' value='landscape red mountains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='red_plains'/>
+      <eventName type='string' value='landscape red plains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='red_shallow'/>
+      <eventName type='string' value='landscape redsea shallow'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='red_swamp'/>
+      <eventName type='string' value='landscape red swamp'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='shallow'/>
+      <eventName type='string' value='landscape sea shallow'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='tundra_forest'/>
+      <eventName type='string' value='landscape winter forest'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='tundra_hills'/>
+      <eventName type='string' value='landscape tundra'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='tundra_mountains'/>
+      <eventName type='string' value='landscape mountains'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='tundra_plains'/>
+      <eventName type='string' value='landscape tundra'/>
+    </LandSoundEvent>
+  </LandSoundEventList>
+  <LandSoundEventList2>
+    <LandSoundEvent>
+      <tileType type='string' value='barrens_plains'/>
+      <eventName type='string' value='desert 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='dau_forest'/>
+      <eventName type='string' value='green forest 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='dau_forest_hills'/>
+      <eventName type='string' value='green forest 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='dau_hills'/>
+      <eventName type='string' value='mountains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='dau_mountains'/>
+      <eventName type='string' value='mountains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='dau_plains'/>
+      <eventName type='string' value='green plains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='deep'/>
+      <eventName type='string' value='water deep 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='desert_cracked'/>
+      <eventName type='string' value='desert 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='desert_hills_brown'/>
+      <eventName type='string' value='desert 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='desert_hills_stone'/>
+      <eventName type='string' value='desert 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='desert_mountains_snow'/>
+      <eventName type='string' value='mountains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='desert_sand'/>
+      <eventName type='string' value='desert 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='green_forest'/>
+      <eventName type='string' value='green forest 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='green_forest_hills'/>
+      <eventName type='string' value='green forest 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='green_grassland'/>
+      <eventName type='string' value='green plains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='green_hills'/>
+      <eventName type='string' value='green plains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='green_mountains'/>
+      <eventName type='string' value='mountains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='green_mountains_snow'/>
+      <eventName type='string' value='mountains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='hills_evil'/>
+      <eventName type='string' value='evil 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='hills_magication_trees'/>
+      <eventName type='string' value='magication 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='jungle'/>
+      <eventName type='string' value='jungle 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='life_hills'/>
+      <eventName type='string' value='green plains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='life_hills_trees'/>
+      <eventName type='string' value='green forest 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='life_mounts'/>
+      <eventName type='string' value='mountains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='life_plains'/>
+      <eventName type='string' value='green plains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='life_plains_trees'/>
+      <eventName type='string' value='green forest 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='plains_evil'/>
+      <eventName type='string' value='evil 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='plains_magication_trees'/>
+      <eventName type='string' value='magication 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='red_forest'/>
+      <eventName type='string' value='red plains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='red_forest_hills'/>
+      <eventName type='string' value='red plains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='red_forest_pink'/>
+      <eventName type='string' value='red plains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='red_hills'/>
+      <eventName type='string' value='red plains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='red_mountains'/>
+      <eventName type='string' value='red mountains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='red_plains'/>
+      <eventName type='string' value='red plains 3d'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='res_donkeys'/>
+      <eventName type='string' value='resource donkeys'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='res_holy_ground'/>
+      <eventName type='string' value='resource holyground'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='res_inferno_rift'/>
+      <eventName type='string' value='resource infernorift'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='res_magic_node'/>
+      <eventName type='string' value='resource magic node'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='res_pigs'/>
+      <eventName type='string' value='resource pigs'/>
+    </LandSoundEvent>
+    <LandSoundEvent>
+      <tileType type='string' value='shallow'/>
+      <eventName type='string' value='water shallow 3d'/>
+    </LandSoundEvent>
+  </LandSoundEventList2>
+</LandscapeSounds>

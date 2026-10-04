@@ -1,0 +1,114 @@
+<Races>
+  <Races>
+    <RaceInfo>
+      <name type='string' value='allied'/>
+      <icon type='string' value=''/>
+      <buildingTreeName type='string' value=''/>
+      <populationChange type='integer' value='0'/>
+      <populationUpkeep type='string' value='Food'/>
+      <predefined type='bool' value='0'/>
+      <waterTransport type='string' value='m_ship_cargo'/>
+      <dlcId type='integer' value='0'/>
+      <perks>
+      </perks>
+    </RaceInfo>
+    <RaceInfo>
+      <name type='string' value='dremers'/>
+      <icon type='string' value=''/>
+      <buildingTreeName type='string' value=''/>
+      <populationChange type='integer' value='0'/>
+      <populationUpkeep type='string' value='Mana'/>
+      <predefined type='bool' value='0'/>
+      <waterTransport type='string' value='m_ship_cargo'/>
+      <dlcId type='integer' value='5'/>
+      <perks>
+      </perks>
+    </RaceInfo>
+    <RaceInfo>
+      <name type='string' value='elves'/>
+      <icon type='string' value=''/>
+      <buildingTreeName type='string' value='elvenTree.graphml'/>
+      <populationChange type='integer' value='0'/>
+      <populationUpkeep type='string' value='Food'/>
+      <predefined type='bool' value='1'/>
+      <waterTransport type='string' value='e_ship_cargo'/>
+      <dlcId type='integer' value='4'/>
+      <perks>
+      </perks>
+    </RaceInfo>
+    <RaceInfo>
+      <name type='string' value='humans'/>
+      <icon type='string' value=''/>
+      <buildingTreeName type='string' value='humansTree.graphml'/>
+      <populationChange type='integer' value='0'/>
+      <populationUpkeep type='string' value='Food'/>
+      <predefined type='bool' value='1'/>
+      <waterTransport type='string' value='h_ship_cargo'/>
+      <dlcId type='integer' value='0'/>
+      <perks>
+      </perks>
+    </RaceInfo>
+    <RaceInfo>
+      <name type='string' value='monsters'/>
+      <icon type='string' value=''/>
+      <buildingTreeName type='string' value='monstersTree.graphml'/>
+      <populationChange type='integer' value='0'/>
+      <populationUpkeep type='string' value='Food'/>
+      <predefined type='bool' value='1'/>
+      <waterTransport type='string' value='m_ship_cargo'/>
+      <dlcId type='integer' value='0'/>
+      <perks>
+        <Item type='string' value='racePerk_Farmers'/>
+      </perks>
+    </RaceInfo>
+    <RaceInfo>
+      <name type='string' value='norace'/>
+      <icon type='string' value=''/>
+      <buildingTreeName type='string' value=''/>
+      <populationChange type='integer' value='0'/>
+      <populationUpkeep type='string' value='Food'/>
+      <predefined type='bool' value='0'/>
+      <waterTransport type='string' value='m_ship_cargo'/>
+      <dlcId type='integer' value='0'/>
+      <perks>
+      </perks>
+    </RaceInfo>
+    <RaceInfo>
+      <name type='string' value='summoned'/>
+      <icon type='string' value=''/>
+      <buildingTreeName type='string' value=''/>
+      <populationChange type='integer' value='0'/>
+      <populationUpkeep type='string' value='Mana'/>
+      <predefined type='bool' value='0'/>
+      <waterTransport type='string' value='m_ship_cargo'/>
+      <dlcId type='integer' value='0'/>
+      <perks>
+      </perks>
+    </RaceInfo>
+    <RaceInfo>
+      <name type='string' value='undead'/>
+      <icon type='string' value=''/>
+      <buildingTreeName type='string' value='undeadsTree.graphml'/>
+      <populationChange type='integer' value='0'/>
+      <populationUpkeep type='string' value='Mana'/>
+      <predefined type='bool' value='1'/>
+      <waterTransport type='string' value='u_ship_cargo'/>
+      <dlcId type='integer' value='0'/>
+      <perks>
+        <Item type='string' value='racePerk_Scientists'/>
+      </perks>
+    </RaceInfo>
+    <RaceInfo>
+      <name type='string' value='wild'/>
+      <icon type='string' value=''/>
+      <buildingTreeName type='string' value=''/>
+      <populationChange type='integer' value='0'/>
+      <populationUpkeep type='string' value='Food'/>
+      <predefined type='bool' value='0'/>
+      <waterTransport type='string' value='m_ship_cargo'/>
+      <dlcId type='integer' value='0'/>
+      <perks>
+      </perks>
+    </RaceInfo>
+  </Races>
+</Races>

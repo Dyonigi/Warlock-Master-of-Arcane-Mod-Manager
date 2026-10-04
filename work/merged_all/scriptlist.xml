@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ScriptList>
+    <!--внимание! порядок скриптов важен!-->
+    <!--системные скрипты-->
+    <s_script>CheckGlobals.lua</s_script>
+    <s_script>System.lua</s_script>
+    <!--пользовательские скрипты-->
+    <s_script>Utils.lua</s_script>
+    <s_script>Battle.lua</s_script>
+    <s_script>Generator.lua</s_script>
+    <s_script>combos.lua</s_script>
+    <s_script>ai.lua</s_script>
+</ScriptList>

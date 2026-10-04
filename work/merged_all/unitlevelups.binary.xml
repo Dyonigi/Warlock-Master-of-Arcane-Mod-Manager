@@ -1,0 +1,4275 @@
+<LevelupsData>
+  <levelUps>
+    <item>
+      <name type='string' value='biter'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_learners'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_invisibility'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='biter-dremer'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_learners'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_invisibility'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='biter-rat'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_small_target'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_small_target'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_invisibility'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='caster'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pala_teleport'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_summon_bats'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_physical_shield'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pala_teleport'/>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='caster-dremer'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='construct'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_heavy_stones'/>
+            <Item type='string' value='perk_lvl_armor_plates'/>
+            <Item type='string' value='perk_lvl_panelboard_armor'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_flaming_rocks'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_armor_plated'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_heavy_stones'/>
+            <Item type='string' value='perk_lvl_cover'/>
+            <Item type='string' value='perk_highlander'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_flaming_rocks'/>
+            <Item type='string' value='perk_lvl_armor_plates'/>
+            <Item type='string' value='perk_lvl_stinky_shots'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_warlock_amulet'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_panelboard_armor'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_expert_gunlayer'/>
+            <Item type='string' value='perk_lvl_cover'/>
+            <Item type='string' value='perk_lvl_armor_plated'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_repair'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_highlander'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_warlock_amulet'/>
+            <Item type='string' value='perk_lvl_repair'/>
+            <Item type='string' value='perk_lvl_stinky_shots'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_expert_gunlayer'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='elf_archer'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_spreading'/>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_true_sight'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_spreading'/>
+            <Item type='string' value='perk_lvl_punched_arrow'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_dodge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_punched_arrow'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_city_destroyer'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='elf_healer'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_aoe_heal'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_aoe_heal'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='elf_island'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_heavy_stones'/>
+            <Item type='string' value='perk_lvl_armor_plates'/>
+            <Item type='string' value='perk_lvl_panelboard_armor'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_flaming_rocks'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_armor_plated'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_heavy_stones'/>
+            <Item type='string' value='perk_lvl_recon'/>
+            <Item type='string' value='perk_lvl_pala_teleport'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_flaming_rocks'/>
+            <Item type='string' value='perk_lvl_armor_plates'/>
+            <Item type='string' value='perk_lvl_stinky_shots'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_warlock_amulet'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_panelboard_armor'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_expert_gunlayer'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+            <Item type='string' value='perk_lvl_armor_plated'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_repair'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_pala_teleport'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_warlock_amulet'/>
+            <Item type='string' value='perk_lvl_repair'/>
+            <Item type='string' value='perk_lvl_stinky_shots'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_expert_gunlayer'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='elf_knight'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_knight_control'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_magic_blade'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_knight_control'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_magic_blade'/>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='elf_phoenix'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_learners'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_phoenix_meteor'/>
+            <Item type='string' value='perk_lvl_aura_suppression'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+            <Item type='string' value='perk_lvl_phoenix_meteor'/>
+            <Item type='string' value='perk_lvl_learners'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_aura_suppression'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_invisibility'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='elf_warlock'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_warlock_curse'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pala_teleport'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_warlock_curse'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_summon_fire_elem'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='fighter'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_turtle'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_turtle'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='fighter-dremer'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_knight_control'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_knight_control'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='fighter_gob'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_turtle'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_poisoned_pike'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_turtle'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='fighter_rat'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_ratsbane'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_ratsbane'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='fort'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_turtle'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_turtle'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='healer'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_healer_power'/>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_death_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_resi'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_life_attack'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_healer_power'/>
+            <Item type='string' value='perk_lvl_elem_aura_resi'/>
+            <Item type='string' value='perk_lvl_death_aura_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_resi'/>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_aura_healing'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_death_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_great_healer'/>
+            <Item type='string' value='perk_lvl_elem_aura_resi'/>
+            <Item type='string' value='perk_lvl_life_attack'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_war_medicine'/>
+            <Item type='string' value='perk_lvl_fear'/>
+            <Item type='string' value='perk_lvl_death_aura_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_war_medicine'/>
+            <Item type='string' value='perk_lvl_aura_healing'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_great_healer'/>
+            <Item type='string' value='perk_lvl_fear'/>
+            <Item type='string' value='perk_lvl_no_cd'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='healers'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_healer_power'/>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_death_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_resi'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_life_attack'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_healer_power'/>
+            <Item type='string' value='perk_lvl_elem_aura_resi'/>
+            <Item type='string' value='perk_lvl_death_aura_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_resi'/>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_aura_healing'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_death_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_great_healer'/>
+            <Item type='string' value='perk_lvl_elem_aura_resi'/>
+            <Item type='string' value='perk_lvl_life_attack'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_war_medicine'/>
+            <Item type='string' value='perk_lvl_fear'/>
+            <Item type='string' value='perk_lvl_death_aura_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_war_medicine'/>
+            <Item type='string' value='perk_lvl_aura_healing'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_great_healer'/>
+            <Item type='string' value='perk_lvl_fear'/>
+            <Item type='string' value='perk_lvl_no_cd'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='ghost'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_death_mystery'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_learners'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_death_mystery'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_strengthened_ghost'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+            <Item type='string' value='perk_lvl_strengthened_ghost'/>
+            <Item type='string' value='perk_lvl_learners'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_invisibility'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lizard_fighter'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_waterwalking'/>
+            <Item type='string' value='perk_lvl_turtle'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_waterwalking'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_turtle'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lizard_shooter'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_spreading'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_waterwalking'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_spreading'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_dodge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_city_destroyer'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_barlog'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_demon_power'/>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_hell_power'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_demon_power'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_aura_impious_fire'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_hell_power'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_barlog_stone_hit'/>
+            <Item type='string' value='perk_lvl_barlog_fire_wall'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_summon_old_imp'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_aura_impious_fire'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_barlog_fire_wall'/>
+            <Item type='string' value='perk_lvl_barlog_teleport'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_barlog_stone_hit'/>
+            <Item type='string' value='perk_lvl_summon_old_imp'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_aura_impious_fire'/>
+            <Item type='string' value='perk_lvl_hell_might'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_blademaster'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_furious_temper'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_furious_temper'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_magic_blade'/>
+            <Item type='string' value='perk_lvl_enchanted_armor'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_blademaster_bonesetter'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_blademaster_heavy_hit'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_enchanted_armor'/>
+            <Item type='string' value='perk_lvl_aura_madness'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_magic_blade'/>
+            <Item type='string' value='perk_lvl_blademaster_bonesetter'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_blademaster_heavy_hit'/>
+            <Item type='string' value='perk_lvl_blademaster_invincible'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_cleric'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_healer_power'/>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_death_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_footed'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_cleric_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_resi'/>
+            <Item type='string' value='perk_lvl_life_attack'/>
+            <Item type='string' value='perk_lvl_death_aura_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_healer_power'/>
+            <Item type='string' value='perk_lvl_elem_aura_resi'/>
+            <Item type='string' value='perk_lvl_aura_healing'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_star_of_medicine'/>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_great_healer'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_resi'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_death_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_life_attack'/>
+            <Item type='string' value='perk_lvl_cleric_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_blessing'/>
+            <Item type='string' value='perk_lvl_elem_aura_resi'/>
+            <Item type='string' value='perk_lvl_death_aura_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cleric_breathe'/>
+            <Item type='string' value='perk_lvl_healer_secret'/>
+            <Item type='string' value='perk_lvl_aura_healing'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_war_medicine'/>
+            <Item type='string' value='perk_lvl_healer_sympathy'/>
+            <Item type='string' value='perk_lvl_great_healer'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_waterwalking'/>
+            <Item type='string' value='perk_lvl_no_cd'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_blessing'/>
+            <Item type='string' value='perk_lvl_healer_secret'/>
+            <Item type='string' value='perk_lvl_cleric_no_cd'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cleric_breathe'/>
+            <Item type='string' value='perk_lvl_healer_sympathy'/>
+            <Item type='string' value='perk_lvl_no_cd'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_war_medicine'/>
+            <Item type='string' value='perk_lvl_waterwalking'/>
+            <Item type='string' value='perk_lvl_cleric_aoe_heal'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_dark_elf'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_footed'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_elven_magic'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_footed'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_dodge'/>
+            <Item type='string' value='perk_lvl_elven_magic'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sag_one_shot'/>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+            <Item type='string' value='perk_lvl_city_destroyer'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_sag_magic_arrow'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sag_one_shot'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_brave_warrior'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+            <Item type='string' value='perk_lvl_sag_explosive_arrow'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_donkey_knight'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_enchanted_shield'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_tough_armor'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_enchanted_shield'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_armor_hartred'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+            <Item type='string' value='perk_lvl_tough_armor'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_knight_cleave'/>
+            <Item type='string' value='perk_lvl_hit_with_swoop'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_master_warrior'/>
+            <Item type='string' value='perk_lvl_armor_hartred'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_faith_in_healer'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_hit_with_swoop'/>
+            <Item type='string' value='perk_lvl_fire_sword'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_knight_cleave'/>
+            <Item type='string' value='perk_lvl_master_warrior'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_faith_in_healer'/>
+            <Item type='string' value='perk_lvl_brave_warrior'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_elf_bow'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_footed'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_elven_magic'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_footed'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_dodge'/>
+            <Item type='string' value='perk_lvl_elven_magic'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elf_magic_arrow'/>
+            <Item type='string' value='perk_lvl_elf_armor_penetrate'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+            <Item type='string' value='perk_lvl_teleporter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_elf_armor_penetrate'/>
+            <Item type='string' value='perk_lvl_elf_aoe_roots'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elf_magic_arrow'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_city_destroyer'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+            <Item type='string' value='perk_lvl_elf_aoe_arrows'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_ghost'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_strengthened_ghost'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_supreme_ghost'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_skeleton_sound_blast'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_death_mystery'/>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_strengthened_ghost'/>
+            <Item type='string' value='perk_lvl_supreme_vampire'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_supreme_ghost'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_death_mystery'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_powerful_ghost'/>
+            <Item type='string' value='perk_lvl_dark_soul'/>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_gift_of_darkness'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_ghost_transformation'/>
+            <Item type='string' value='perk_lvl_invisibility'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_dark_soul'/>
+            <Item type='string' value='perk_lvl_death_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_powerful_ghost'/>
+            <Item type='string' value='perk_lvl_gift_of_darkness'/>
+            <Item type='string' value='perk_lvl_invisibility'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+            <Item type='string' value='perk_lvl_ghost_transformation'/>
+            <Item type='string' value='perk_lvl_unworldly'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_goblin_bow'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_aura_suppression'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_goblin_dark_arrow'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_goblin_dark_arrow'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_goblin_acid_arrow'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_dodge'/>
+            <Item type='string' value='perk_lvl_aura_suppression'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_goblin_paralyze'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_poisoned_pike'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_carbuncle'/>
+            <Item type='string' value='perk_lvl_city_destroyer'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_goblin_paralyze'/>
+            <Item type='string' value='perk_lvl_goblin_super_shot'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_goblin_acid_arrow'/>
+            <Item type='string' value='perk_lvl_poisoned_pike'/>
+            <Item type='string' value='perk_lvl_city_destroyer'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_carbuncle'/>
+            <Item type='string' value='perk_lvl_goblin_aoe_shot'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_imp'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elemental_shield'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_physical_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elemental_shield'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_impious_fire'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+            <Item type='string' value='perk_lvl_physical_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_imp_fireball'/>
+            <Item type='string' value='perk_lvl_imp_summon'/>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_demonic_power'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_imp_weak_healer'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_imp_summon'/>
+            <Item type='string' value='perk_lvl_imp_fire_ring'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_imp_fireball'/>
+            <Item type='string' value='perk_lvl_demonic_power'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_imp_weak_healer'/>
+            <Item type='string' value='perk_lvl_demonic_skin'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_koatl_warlock'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_slow_dot'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_fast_dot'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_slow_dot'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+            <Item type='string' value='perk_lvl_fast_dot'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_university_education'/>
+            <Item type='string' value='perk_lvl_turtle_summon'/>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_dark_soul'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_power_of_night'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_turtle_summon'/>
+            <Item type='string' value='perk_lvl_warlock_curse'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_university_education'/>
+            <Item type='string' value='perk_lvl_dark_soul'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_power_of_night'/>
+            <Item type='string' value='perk_lvl_aoe_death'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_mage_black'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_fire_school'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_death_school'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_fire_school'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+            <Item type='string' value='perk_lvl_death_school'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_mage_fireball'/>
+            <Item type='string' value='perk_lvl_mage_shadowball'/>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_dark_shield'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_mage_summon'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_mage_shadowball'/>
+            <Item type='string' value='perk_lvl_mage_fire_aoe'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_mage_fireball'/>
+            <Item type='string' value='perk_lvl_dark_shield'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_mage_summon'/>
+            <Item type='string' value='perk_lvl_mage_death_aoe'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_ogre'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_madness'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_ogre_strength'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_innate_resistance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_madness'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_ogre_strength'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+            <Item type='string' value='perk_lvl_innate_resistance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_ogre_curveball'/>
+            <Item type='string' value='perk_lvl_cane_training'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_impenetrable_skin'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_ogre_sleepiness'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_cane_training'/>
+            <Item type='string' value='perk_lvl_ogre_magic'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_ogre_curveball'/>
+            <Item type='string' value='perk_lvl_impenetrable_skin'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_ogre_sleepiness'/>
+            <Item type='string' value='perk_lvl_aura_destroyers'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_paladin_spirit'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_goodness_and_justice'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_true_sight'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_turtle'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_goodness_and_justice'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_turtle'/>
+            <Item type='string' value='perk_lvl_true_sight'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_blessing'/>
+            <Item type='string' value='perk_lvl_aura_trusty'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_high_defence'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_pala_ring_attack'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_aura_trusty'/>
+            <Item type='string' value='perk_lvl_unconquerable_spirit'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_blessing'/>
+            <Item type='string' value='perk_lvl_high_defence'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_pala_ring_attack'/>
+            <Item type='string' value='perk_lvl_pala_teleport'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_rabbit'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_rabbit_cleave'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_aura_suppression'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_rabbit_cleave'/>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_aura_suppression'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_blurry'/>
+            <Item type='string' value='perk_lvl_sound_speed'/>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_rabbit_super_hit'/>
+            <Item type='string' value='perk_lvl_invisibility'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_sound_speed'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_blurry'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_invisibility'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_rabbit_super_hit'/>
+            <Item type='string' value='perk_lvl_munchkin'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_ratman'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_hawkeye'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_ratsbane'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_hawkeye'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_ratsbane'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_ratman_attack'/>
+            <Item type='string' value='perk_lvl_ratman_frostbolt'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_lubricity'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_comfortable_shoes'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_ratman_frostbolt'/>
+            <Item type='string' value='perk_lvl_excellent_reaction'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_ratman_attack'/>
+            <Item type='string' value='perk_lvl_lubricity'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_comfortable_shoes'/>
+            <Item type='string' value='perk_lvl_ratman_teleport'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_shaman'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_healer_power'/>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_death_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_star_of_medicine'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_shaman_monstrous'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_resi'/>
+            <Item type='string' value='perk_lvl_life_attack'/>
+            <Item type='string' value='perk_lvl_death_aura_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_healer_power'/>
+            <Item type='string' value='perk_lvl_elem_aura_resi'/>
+            <Item type='string' value='perk_lvl_aura_healing'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_star_of_medicine'/>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_great_healer'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_resi'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_death_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_life_attack'/>
+            <Item type='string' value='perk_lvl_shaman_monstrous'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shaman_dispell'/>
+            <Item type='string' value='perk_lvl_elem_aura_resi'/>
+            <Item type='string' value='perk_lvl_death_aura_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cleric_breathe'/>
+            <Item type='string' value='perk_lvl_healer_secret'/>
+            <Item type='string' value='perk_lvl_aura_healing'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_war_medicine'/>
+            <Item type='string' value='perk_lvl_healer_sympathy'/>
+            <Item type='string' value='perk_lvl_great_healer'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_waterwalking'/>
+            <Item type='string' value='perk_lvl_no_cd'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shaman_dispell'/>
+            <Item type='string' value='perk_lvl_healer_secret'/>
+            <Item type='string' value='perk_lvl_cleric_no_cd'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cleric_breathe'/>
+            <Item type='string' value='perk_lvl_healer_sympathy'/>
+            <Item type='string' value='perk_lvl_no_cd'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_war_medicine'/>
+            <Item type='string' value='perk_lvl_waterwalking'/>
+            <Item type='string' value='perk_lvl_shaman_aoe_heal'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_skeleton'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_death_protection'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_death_strenght'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_death_protection'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_death_strenght'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_skeleton_sound_blast'/>
+            <Item type='string' value='perk_lvl_skeleton_cleave'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_skeleton_berserk'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_skeleton_march'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_skeleton_cleave'/>
+            <Item type='string' value='perk_lvl_aura_life_resi'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_skeleton_sound_blast'/>
+            <Item type='string' value='perk_lvl_skeleton_berserk'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_skeleton_march'/>
+            <Item type='string' value='perk_lvl_skeleton_ring_hit'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_vampire'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_vamp_mind_blast'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_aura_of_vampirism'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_vamp_mind_blast'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+            <Item type='string' value='perk_lvl_aura_of_vampirism'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_university_education'/>
+            <Item type='string' value='perk_lvl_supreme_vampire'/>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_vamp_reconstruction'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_power_of_night'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_supreme_vampire'/>
+            <Item type='string' value='perk_lvl_summon_bats'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_university_education'/>
+            <Item type='string' value='perk_lvl_vamp_reconstruction'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_power_of_night'/>
+            <Item type='string' value='perk_lvl_summon_vampire'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_warrior'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_enchanted_shield'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_tough_armor'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_enchanted_shield'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_suppression'/>
+            <Item type='string' value='perk_lvl_improved_armor'/>
+            <Item type='string' value='perk_lvl_tough_armor'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shield_cover'/>
+            <Item type='string' value='perk_lvl_shield_bash'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_master_warrior'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_faith_in_healer'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_shield_bash'/>
+            <Item type='string' value='perk_lvl_fire_sword'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shield_cover'/>
+            <Item type='string' value='perk_lvl_master_warrior'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_faith_in_healer'/>
+            <Item type='string' value='perk_lvl_brave_warrior'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_werewolf_dragon'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_adamantite_claws'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_werewolf_elem_hit'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_adamantite_claws'/>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_werewolf_elem_hit'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_dragon_armor'/>
+            <Item type='string' value='perk_lvl_silver_scale'/>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_nevril_scale'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_acid_explosion'/>
+            <Item type='string' value='perk_lvl_invisibility'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_silver_scale'/>
+            <Item type='string' value='perk_lvl_werewolf_alchemy'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_dragon_armor'/>
+            <Item type='string' value='perk_lvl_nevril_scale'/>
+            <Item type='string' value='perk_lvl_invisibility'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_acid_explosion'/>
+            <Item type='string' value='perk_lvl_diamond_scale'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='lord_wizard'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_fire_shield'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_wizard_fireball'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_fire_shield'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+            <Item type='string' value='perk_lvl_wizard_fireball'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_stone_hit'/>
+            <Item type='string' value='perk_lvl_wizard_fire_launcher'/>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_wizard_fire_lasso'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_wizard_fire_ring'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_wizard_fire_launcher'/>
+            <Item type='string' value='perk_lvl_improved_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_stone_hit'/>
+            <Item type='string' value='perk_lvl_wizard_fire_lasso'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_wizard_fire_ring'/>
+            <Item type='string' value='perk_lvl_summon_fire_elem'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='noncombat'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_turtle'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_bladewall'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_furious_charge'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_turtle'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_evasion'/>
+            <Item type='string' value='perk_lvl_first_aid'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_finishers'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_blademasters'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='seabiter'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_learners'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_finishers'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_invisibility'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_invisibility'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='ship'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_accurate_shot'/>
+            <Item type='string' value='perk_lvl_thick_board'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_fiery_core'/>
+            <Item type='string' value='perk_lvl_city_destroyer'/>
+            <Item type='string' value='perk_lvl_oak_paneling'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_accurate_shot'/>
+            <Item type='string' value='perk_lvl_skilled_navigator'/>
+            <Item type='string' value='perk_lvl_skilled_carpenter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_fiery_core'/>
+            <Item type='string' value='perk_lvl_thick_board'/>
+            <Item type='string' value='perk_lvl_magic_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_expert_gunners'/>
+            <Item type='string' value='perk_lvl_city_destroyer'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cursed_cannonballs'/>
+            <Item type='string' value='perk_lvl_skilled_navigator'/>
+            <Item type='string' value='perk_lvl_oak_paneling'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_expert_carpenter'/>
+            <Item type='string' value='perk_lvl_skilled_carpenter'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_expert_gunners'/>
+            <Item type='string' value='perk_lvl_wizard_fire_launcher'/>
+            <Item type='string' value='perk_lvl_magic_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cursed_cannonballs'/>
+            <Item type='string' value='perk_lvl_expert_carpenter'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='shooter'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_spreading'/>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_true_sight'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_goblin_aoe_shot'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_city_destroyer'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='shooter-dremer'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_spreading'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_goblin_dark_arrow'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_samurai_soul'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_city_destroyer'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='shooter-temple'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_spreading'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_dodge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_shooting'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_spreading'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_cover'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_shooter_power'/>
+            <Item type='string' value='perk_lvl_dodge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_pathfinders'/>
+            <Item type='string' value='perk_lvl_cityfighter'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_fire_arrow'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='skybiter'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_learners'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_sharp_tooth'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_aura_suppression'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_first_aid'/>
+            <Item type='string' value='perk_lvl_sound_speed'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_recon'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+            <Item type='string' value='perk_lvl_avoidance'/>
+            <Item type='string' value='perk_lvl_learners'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_aura_suppression'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_true_sight'/>
+            <Item type='string' value='perk_lvl_frenzy'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_poisonous_bite'/>
+            <Item type='string' value='perk_lvl_flee'/>
+            <Item type='string' value='perk_lvl_invisibility'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='u_bomber'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_heavy_stones'/>
+            <Item type='string' value='perk_lvl_armor_plates'/>
+            <Item type='string' value='perk_lvl_panelboard_armor'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_flaming_rocks'/>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_armor_plated'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_heavy_stones'/>
+            <Item type='string' value='perk_lvl_recon'/>
+            <Item type='string' value='perk_lvl_pala_teleport'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_flaming_rocks'/>
+            <Item type='string' value='perk_lvl_armor_plates'/>
+            <Item type='string' value='perk_lvl_stinky_shots'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_warlock_amulet'/>
+            <Item type='string' value='perk_lvl_mage_death_aoe'/>
+            <Item type='string' value='perk_lvl_panelboard_armor'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_expert_gunlayer'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+            <Item type='string' value='perk_lvl_armor_plated'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_repair'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_pala_teleport'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_warlock_amulet'/>
+            <Item type='string' value='perk_lvl_repair'/>
+            <Item type='string' value='perk_lvl_stinky_shots'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_expert_gunlayer'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_hit_and_run'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+    <item>
+      <name type='string' value='uniq_mage'/>
+      <perksForLevelUps>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_wind_shield'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_learners'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_elem_wrath'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_imp_summon'/>
+            <Item type='string' value='perk_lvl_endurance'/>
+            <Item type='string' value='perk_lvl_mage_fireball'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_summon_old_imp'/>
+            <Item type='string' value='perk_lvl_forcemarch'/>
+            <Item type='string' value='perk_lvl_pala_teleport'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+            <Item type='string' value='perk_lvl_aura_wind'/>
+            <Item type='string' value='perk_lvl_death_attack'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_secret_knowledge'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_mage_summon'/>
+            <Item type='string' value='perk_lvl_wizards_power'/>
+            <Item type='string' value='perk_lvl_mage_fireball'/>
+          </perksForLevel>
+        </Item>
+        <Item>
+          <perksForLevel>
+            <Item type='string' value='perk_lvl_adv_endurance'/>
+            <Item type='string' value='perk_lvl_aura_damage'/>
+            <Item type='string' value='perk_lvl_levitate'/>
+          </perksForLevel>
+        </Item>
+      </perksForLevelUps>
+    </item>
+  </levelUps>
+</LevelupsData>

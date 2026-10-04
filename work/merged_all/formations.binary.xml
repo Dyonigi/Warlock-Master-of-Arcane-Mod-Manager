@@ -1,0 +1,634 @@
+<Formations>
+  <List>
+    <formation>
+      <name type='string' value='Default'/>
+      <points>
+        <Item type='2d_point_f' x='0.125' y='-0.125'/>
+        <Item type='2d_point_f' x='-0.25' y='-0.125'/>
+        <Item type='2d_point_f' x='0.5' y='-0.125'/>
+        <Item type='2d_point_f' x='-0.625' y='-0.125'/>
+        <Item type='2d_point_f' x='0.875' y='-0.125'/>
+        <Item type='2d_point_f' x='0.0' y='0.25'/>
+        <Item type='2d_point_f' x='-0.375' y='0.25'/>
+        <Item type='2d_point_f' x='0.375' y='0.25'/>
+        <Item type='2d_point_f' x='0.75' y='0.25'/>
+        <Item type='2d_point_f' x='-0.75' y='0.25'/>
+        <Item type='2d_point_f' x='-0.125' y='-0.5'/>
+        <Item type='2d_point_f' x='0.25' y='-0.5'/>
+        <Item type='2d_point_f' x='-0.5' y='-0.5'/>
+        <Item type='2d_point_f' x='0.625' y='-0.5'/>
+        <Item type='2d_point_f' x='-0.875' y='-0.5'/>
+        <Item type='2d_point_f' x='0.0' y='0.625'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Default_old'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.0'/>
+        <Item type='2d_point_f' x='-0.375' y='-0.375'/>
+        <Item type='2d_point_f' x='0.375' y='-0.375'/>
+        <Item type='2d_point_f' x='-0.375' y='0.0'/>
+        <Item type='2d_point_f' x='0.375' y='0.0'/>
+        <Item type='2d_point_f' x='0.0' y='-0.375'/>
+        <Item type='2d_point_f' x='0.0' y='0.375'/>
+        <Item type='2d_point_f' x='-0.375' y='0.375'/>
+        <Item type='2d_point_f' x='0.375' y='0.375'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.75'/>
+        <Item type='2d_point_f' x='0.75' y='-0.75'/>
+        <Item type='2d_point_f' x='0.0' y='-0.75'/>
+        <Item type='2d_point_f' x='-0.375' y='-0.75'/>
+        <Item type='2d_point_f' x='0.375' y='-0.75'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.375'/>
+        <Item type='2d_point_f' x='0.75' y='-0.375'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Phalanx'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.25'/>
+        <Item type='2d_point_f' x='-0.375' y='0.25'/>
+        <Item type='2d_point_f' x='0.375' y='0.25'/>
+        <Item type='2d_point_f' x='0.75' y='0.25'/>
+        <Item type='2d_point_f' x='-0.75' y='0.25'/>
+        <Item type='2d_point_f' x='0.125' y='-0.125'/>
+        <Item type='2d_point_f' x='-0.25' y='-0.125'/>
+        <Item type='2d_point_f' x='0.5' y='-0.125'/>
+        <Item type='2d_point_f' x='-0.625' y='-0.125'/>
+        <Item type='2d_point_f' x='0.875' y='-0.125'/>
+        <Item type='2d_point_f' x='-0.125' y='-0.5'/>
+        <Item type='2d_point_f' x='0.25' y='-0.5'/>
+        <Item type='2d_point_f' x='-0.5' y='-0.5'/>
+        <Item type='2d_point_f' x='0.625' y='-0.5'/>
+        <Item type='2d_point_f' x='-0.875' y='-0.5'/>
+        <Item type='2d_point_f' x='0.0' y='-0.875'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Skirmish'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.0'/>
+        <Item type='2d_point_f' x='0.375' y='-0.125'/>
+        <Item type='2d_point_f' x='-0.375' y='-0.375'/>
+        <Item type='2d_point_f' x='-0.625' y='0.125'/>
+        <Item type='2d_point_f' x='0.75' y='0.125'/>
+        <Item type='2d_point_f' x='0.25' y='0.375'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.25'/>
+        <Item type='2d_point_f' x='0.625' y='-0.5'/>
+        <Item type='2d_point_f' x='-0.25' y='0.25'/>
+        <Item type='2d_point_f' x='0.125' y='-0.375'/>
+        <Item type='2d_point_f' x='0.625' y='0.5'/>
+        <Item type='2d_point_f' x='-0.25' y='-0.75'/>
+        <Item type='2d_point_f' x='0.875' y='-0.25'/>
+        <Item type='2d_point_f' x='-0.5' y='0.5'/>
+        <Item type='2d_point_f' x='-0.625' y='-0.625'/>
+        <Item type='2d_point_f' x='0.25' y='-0.75'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Skirmish_wide'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.0'/>
+        <Item type='2d_point_f' x='0.5' y='0.25'/>
+        <Item type='2d_point_f' x='-0.625' y='0.125'/>
+        <Item type='2d_point_f' x='0.25' y='-0.5'/>
+        <Item type='2d_point_f' x='-0.5' y='-0.375'/>
+        <Item type='2d_point_f' x='0.75' y='-0.25'/>
+        <Item type='2d_point_f' x='-0.25' y='-0.75'/>
+        <Item type='2d_point_f' x='0.625' y='-0.75'/>
+        <Item type='2d_point_f' x='-0.25' y='0.5'/>
+        <Item type='2d_point_f' x='0.625' y='0.75'/>
+        <Item type='2d_point_f' x='-0.75' y='0.625'/>
+        <Item type='2d_point_f' x='0.375' y='-0.125'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.625'/>
+        <Item type='2d_point_f' x='0.125' y='0.625'/>
+        <Item type='2d_point_f' x='-0.125' y='-0.375'/>
+        <Item type='2d_point_f' x='0.0' y='0.25'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Pig'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.5'/>
+        <Item type='2d_point_f' x='-0.375' y='0.0'/>
+        <Item type='2d_point_f' x='0.375' y='0.0'/>
+        <Item type='2d_point_f' x='-0.625' y='-0.5'/>
+        <Item type='2d_point_f' x='0.625' y='-0.5'/>
+        <Item type='2d_point_f' x='0.0' y='-0.5'/>
+        <Item type='2d_point_f' x='-0.25' y='-0.75'/>
+        <Item type='2d_point_f' x='0.625' y='-0.75'/>
+        <Item type='2d_point_f' x='-0.25' y='0.5'/>
+        <Item type='2d_point_f' x='0.625' y='0.75'/>
+        <Item type='2d_point_f' x='-0.75' y='0.625'/>
+        <Item type='2d_point_f' x='0.375' y='-0.125'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.625'/>
+        <Item type='2d_point_f' x='0.125' y='0.625'/>
+        <Item type='2d_point_f' x='-0.125' y='-0.375'/>
+        <Item type='2d_point_f' x='0.0' y='0.25'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Pentagram'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.0'/>
+        <Item type='2d_point_f' x='-0.625' y='0.125'/>
+        <Item type='2d_point_f' x='0.625' y='0.125'/>
+        <Item type='2d_point_f' x='-0.375' y='-0.5'/>
+        <Item type='2d_point_f' x='0.375' y='-0.5'/>
+        <Item type='2d_point_f' x='0.0' y='0.625'/>
+        <Item type='2d_point_f' x='-0.25' y='-0.75'/>
+        <Item type='2d_point_f' x='0.625' y='-0.75'/>
+        <Item type='2d_point_f' x='-0.25' y='0.5'/>
+        <Item type='2d_point_f' x='0.625' y='0.75'/>
+        <Item type='2d_point_f' x='-0.75' y='0.625'/>
+        <Item type='2d_point_f' x='0.375' y='-0.125'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.625'/>
+        <Item type='2d_point_f' x='0.125' y='0.625'/>
+        <Item type='2d_point_f' x='-0.125' y='-0.375'/>
+        <Item type='2d_point_f' x='0.0' y='0.25'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Diamond'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.375'/>
+        <Item type='2d_point_f' x='-0.625' y='-0.125'/>
+        <Item type='2d_point_f' x='0.625' y='-0.125'/>
+        <Item type='2d_point_f' x='0.0' y='-0.5'/>
+        <Item type='2d_point_f' x='0.0' y='0.0'/>
+        <Item type='2d_point_f' x='0.0' y='0.625'/>
+        <Item type='2d_point_f' x='0.0' y='0.0'/>
+        <Item type='2d_point_f' x='0.625' y='-0.75'/>
+        <Item type='2d_point_f' x='-0.25' y='0.5'/>
+        <Item type='2d_point_f' x='0.625' y='0.75'/>
+        <Item type='2d_point_f' x='-0.75' y='0.625'/>
+        <Item type='2d_point_f' x='0.375' y='-0.125'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.625'/>
+        <Item type='2d_point_f' x='0.125' y='0.625'/>
+        <Item type='2d_point_f' x='-0.125' y='-0.375'/>
+        <Item type='2d_point_f' x='0.0' y='0.25'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Giants'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.0'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.5'/>
+        <Item type='2d_point_f' x='0.625' y='-0.625'/>
+        <Item type='2d_point_f' x='-0.625' y='0.125'/>
+        <Item type='2d_point_f' x='0.75' y='0.125'/>
+        <Item type='2d_point_f' x='0.25' y='0.375'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.25'/>
+        <Item type='2d_point_f' x='0.625' y='-0.5'/>
+        <Item type='2d_point_f' x='-0.25' y='0.25'/>
+        <Item type='2d_point_f' x='0.125' y='-0.375'/>
+        <Item type='2d_point_f' x='0.625' y='0.5'/>
+        <Item type='2d_point_f' x='-0.25' y='-0.75'/>
+        <Item type='2d_point_f' x='0.875' y='-0.25'/>
+        <Item type='2d_point_f' x='-0.5' y='0.5'/>
+        <Item type='2d_point_f' x='-0.625' y='-0.625'/>
+        <Item type='2d_point_f' x='0.25' y='-0.75'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Small_Attack_Small'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.75'/>
+        <Item type='2d_point_f' x='-0.375' y='0.875'/>
+        <Item type='2d_point_f' x='0.375' y='0.875'/>
+        <Item type='2d_point_f' x='-0.75' y='0.75'/>
+        <Item type='2d_point_f' x='0.75' y='1.0'/>
+        <Item type='2d_point_f' x='0.125' y='1.125'/>
+        <Item type='2d_point_f' x='-0.25' y='1.125'/>
+        <Item type='2d_point_f' x='0.5' y='1.25'/>
+        <Item type='2d_point_f' x='-0.625' y='1.125'/>
+        <Item type='2d_point_f' x='0.875' y='1.375'/>
+        <Item type='2d_point_f' x='0.0' y='1.5'/>
+        <Item type='2d_point_f' x='0.375' y='1.625'/>
+        <Item type='2d_point_f' x='-0.375' y='1.5'/>
+        <Item type='2d_point_f' x='0.75' y='1.75'/>
+        <Item type='2d_point_f' x='-0.75' y='1.5'/>
+        <Item type='2d_point_f' x='0.0' y='1.875'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Small_Defense_Small'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.25'/>
+        <Item type='2d_point_f' x='-0.375' y='0.375'/>
+        <Item type='2d_point_f' x='0.375' y='0.375'/>
+        <Item type='2d_point_f' x='-0.75' y='0.25'/>
+        <Item type='2d_point_f' x='0.75' y='0.5'/>
+        <Item type='2d_point_f' x='0.125' y='0.0'/>
+        <Item type='2d_point_f' x='-0.25' y='0.0'/>
+        <Item type='2d_point_f' x='0.5' y='0.0'/>
+        <Item type='2d_point_f' x='-0.625' y='-0.125'/>
+        <Item type='2d_point_f' x='0.875' y='0.125'/>
+        <Item type='2d_point_f' x='-0.125' y='-0.375'/>
+        <Item type='2d_point_f' x='0.25' y='-0.375'/>
+        <Item type='2d_point_f' x='-0.5' y='-0.5'/>
+        <Item type='2d_point_f' x='0.625' y='-0.375'/>
+        <Item type='2d_point_f' x='-0.875' y='-0.375'/>
+        <Item type='2d_point_f' x='0.0' y='-0.75'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Small_Attack_Medium'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='1.125'/>
+        <Item type='2d_point_f' x='0.375' y='1.25'/>
+        <Item type='2d_point_f' x='-0.375' y='1.0'/>
+        <Item type='2d_point_f' x='0.75' y='1.125'/>
+        <Item type='2d_point_f' x='-0.75' y='1.25'/>
+        <Item type='2d_point_f' x='-0.125' y='1.5'/>
+        <Item type='2d_point_f' x='0.25' y='1.625'/>
+        <Item type='2d_point_f' x='-0.5' y='1.5'/>
+        <Item type='2d_point_f' x='0.625' y='1.625'/>
+        <Item type='2d_point_f' x='-0.875' y='1.75'/>
+        <Item type='2d_point_f' x='0.125' y='2.0'/>
+        <Item type='2d_point_f' x='-0.25' y='1.875'/>
+        <Item type='2d_point_f' x='0.5' y='2.0'/>
+        <Item type='2d_point_f' x='-0.625' y='2.125'/>
+        <Item type='2d_point_f' x='0.875' y='2.0'/>
+        <Item type='2d_point_f' x='0.0' y='2.375'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Medium_Defense_Small'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.5'/>
+        <Item type='2d_point_f' x='0.5' y='0.75'/>
+        <Item type='2d_point_f' x='-0.625' y='0.625'/>
+        <Item type='2d_point_f' x='0.375' y='0.125'/>
+        <Item type='2d_point_f' x='-0.375' y='0.125'/>
+        <Item type='2d_point_f' x='0.875' y='0.375'/>
+        <Item type='2d_point_f' x='-0.25' y='-0.25'/>
+        <Item type='2d_point_f' x='0.625' y='-0.25'/>
+        <Item type='2d_point_f' x='-0.25' y='0.5'/>
+        <Item type='2d_point_f' x='0.625' y='0.75'/>
+        <Item type='2d_point_f' x='-0.75' y='0.625'/>
+        <Item type='2d_point_f' x='0.375' y='0.375'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.125'/>
+        <Item type='2d_point_f' x='0.125' y='0.625'/>
+        <Item type='2d_point_f' x='-0.125' y='0.125'/>
+        <Item type='2d_point_f' x='0.0' y='0.25'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Small_Attack_Large'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.75'/>
+        <Item type='2d_point_f' x='-0.375' y='0.75'/>
+        <Item type='2d_point_f' x='0.375' y='0.75'/>
+        <Item type='2d_point_f' x='-0.75' y='0.5'/>
+        <Item type='2d_point_f' x='0.75' y='0.5'/>
+        <Item type='2d_point_f' x='-0.125' y='1.125'/>
+        <Item type='2d_point_f' x='-0.5' y='1.125'/>
+        <Item type='2d_point_f' x='0.25' y='1.125'/>
+        <Item type='2d_point_f' x='-0.875' y='0.875'/>
+        <Item type='2d_point_f' x='0.75' y='0.875'/>
+        <Item type='2d_point_f' x='0.125' y='1.5'/>
+        <Item type='2d_point_f' x='-0.25' y='1.5'/>
+        <Item type='2d_point_f' x='0.5' y='1.5'/>
+        <Item type='2d_point_f' x='-0.625' y='1.5'/>
+        <Item type='2d_point_f' x='0.875' y='1.5'/>
+        <Item type='2d_point_f' x='0.0' y='1.875'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Large_Defense_Small'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.0'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.5'/>
+        <Item type='2d_point_f' x='0.625' y='-0.625'/>
+        <Item type='2d_point_f' x='-0.625' y='0.125'/>
+        <Item type='2d_point_f' x='0.75' y='0.125'/>
+        <Item type='2d_point_f' x='0.25' y='0.375'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.25'/>
+        <Item type='2d_point_f' x='0.625' y='-0.5'/>
+        <Item type='2d_point_f' x='-0.25' y='0.25'/>
+        <Item type='2d_point_f' x='0.125' y='-0.375'/>
+        <Item type='2d_point_f' x='0.625' y='0.5'/>
+        <Item type='2d_point_f' x='-0.25' y='-0.75'/>
+        <Item type='2d_point_f' x='0.875' y='-0.25'/>
+        <Item type='2d_point_f' x='-0.5' y='0.5'/>
+        <Item type='2d_point_f' x='-0.625' y='-0.625'/>
+        <Item type='2d_point_f' x='0.25' y='-0.75'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Medium_Attack_Small'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='1.125'/>
+        <Item type='2d_point_f' x='-0.5' y='0.875'/>
+        <Item type='2d_point_f' x='0.625' y='1.0'/>
+        <Item type='2d_point_f' x='-0.375' y='1.5'/>
+        <Item type='2d_point_f' x='0.375' y='1.5'/>
+        <Item type='2d_point_f' x='-0.875' y='1.25'/>
+        <Item type='2d_point_f' x='0.375' y='2.5'/>
+        <Item type='2d_point_f' x='-0.375' y='2.5'/>
+        <Item type='2d_point_f' x='0.0' y='1.5'/>
+        <Item type='2d_point_f' x='-0.875' y='1.625'/>
+        <Item type='2d_point_f' x='0.875' y='1.625'/>
+        <Item type='2d_point_f' x='-0.875' y='2.75'/>
+        <Item type='2d_point_f' x='0.875' y='2.75'/>
+        <Item type='2d_point_f' x='-0.375' y='1.875'/>
+        <Item type='2d_point_f' x='0.375' y='1.875'/>
+        <Item type='2d_point_f' x='0.0' y='2.75'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Small_Defense_Medium'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.5'/>
+        <Item type='2d_point_f' x='-0.375' y='0.375'/>
+        <Item type='2d_point_f' x='0.375' y='0.625'/>
+        <Item type='2d_point_f' x='-0.75' y='0.5'/>
+        <Item type='2d_point_f' x='0.75' y='0.375'/>
+        <Item type='2d_point_f' x='0.125' y='0.125'/>
+        <Item type='2d_point_f' x='-0.25' y='0.0'/>
+        <Item type='2d_point_f' x='0.5' y='0.125'/>
+        <Item type='2d_point_f' x='-0.625' y='0.0'/>
+        <Item type='2d_point_f' x='0.875' y='-0.125'/>
+        <Item type='2d_point_f' x='-0.125' y='-0.375'/>
+        <Item type='2d_point_f' x='0.25' y='-0.25'/>
+        <Item type='2d_point_f' x='-0.5' y='-0.375'/>
+        <Item type='2d_point_f' x='0.625' y='-0.5'/>
+        <Item type='2d_point_f' x='-0.875' y='-0.375'/>
+        <Item type='2d_point_f' x='0.0' y='-0.75'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Medium_Attack_Medium'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='1.25'/>
+        <Item type='2d_point_f' x='0.625' y='1.5'/>
+        <Item type='2d_point_f' x='-0.625' y='1.375'/>
+        <Item type='2d_point_f' x='-0.375' y='1.75'/>
+        <Item type='2d_point_f' x='0.375' y='1.875'/>
+        <Item type='2d_point_f' x='-0.875' y='1.875'/>
+        <Item type='2d_point_f' x='0.375' y='2.5'/>
+        <Item type='2d_point_f' x='-0.375' y='2.5'/>
+        <Item type='2d_point_f' x='0.0' y='1.5'/>
+        <Item type='2d_point_f' x='-0.875' y='1.625'/>
+        <Item type='2d_point_f' x='0.875' y='1.625'/>
+        <Item type='2d_point_f' x='-0.875' y='2.75'/>
+        <Item type='2d_point_f' x='0.875' y='2.75'/>
+        <Item type='2d_point_f' x='-0.375' y='1.875'/>
+        <Item type='2d_point_f' x='0.375' y='1.875'/>
+        <Item type='2d_point_f' x='0.0' y='2.75'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Medium_Defense_Medium'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.5'/>
+        <Item type='2d_point_f' x='0.625' y='0.75'/>
+        <Item type='2d_point_f' x='-0.625' y='0.625'/>
+        <Item type='2d_point_f' x='0.375' y='0.125'/>
+        <Item type='2d_point_f' x='-0.375' y='0.125'/>
+        <Item type='2d_point_f' x='0.875' y='0.375'/>
+        <Item type='2d_point_f' x='-0.25' y='-0.25'/>
+        <Item type='2d_point_f' x='0.625' y='-0.25'/>
+        <Item type='2d_point_f' x='-0.25' y='0.5'/>
+        <Item type='2d_point_f' x='0.625' y='0.75'/>
+        <Item type='2d_point_f' x='-0.75' y='0.625'/>
+        <Item type='2d_point_f' x='0.375' y='0.375'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.125'/>
+        <Item type='2d_point_f' x='0.125' y='0.625'/>
+        <Item type='2d_point_f' x='-0.125' y='0.125'/>
+        <Item type='2d_point_f' x='0.0' y='0.25'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Medium_Attack_Large'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.875'/>
+        <Item type='2d_point_f' x='-0.75' y='0.625'/>
+        <Item type='2d_point_f' x='0.75' y='0.625'/>
+        <Item type='2d_point_f' x='-0.375' y='1.25'/>
+        <Item type='2d_point_f' x='0.5' y='1.125'/>
+        <Item type='2d_point_f' x='-0.875' y='1.125'/>
+        <Item type='2d_point_f' x='0.375' y='2.5'/>
+        <Item type='2d_point_f' x='-0.375' y='2.5'/>
+        <Item type='2d_point_f' x='0.0' y='1.5'/>
+        <Item type='2d_point_f' x='-0.875' y='1.625'/>
+        <Item type='2d_point_f' x='0.875' y='1.625'/>
+        <Item type='2d_point_f' x='-0.875' y='2.75'/>
+        <Item type='2d_point_f' x='0.875' y='2.75'/>
+        <Item type='2d_point_f' x='-0.375' y='1.875'/>
+        <Item type='2d_point_f' x='0.375' y='1.875'/>
+        <Item type='2d_point_f' x='0.0' y='2.75'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Large_Defense_Medium'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.0'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.5'/>
+        <Item type='2d_point_f' x='0.625' y='-0.625'/>
+        <Item type='2d_point_f' x='-0.625' y='0.125'/>
+        <Item type='2d_point_f' x='0.75' y='0.125'/>
+        <Item type='2d_point_f' x='0.25' y='0.375'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.25'/>
+        <Item type='2d_point_f' x='0.625' y='-0.5'/>
+        <Item type='2d_point_f' x='-0.25' y='0.25'/>
+        <Item type='2d_point_f' x='0.125' y='-0.375'/>
+        <Item type='2d_point_f' x='0.625' y='0.5'/>
+        <Item type='2d_point_f' x='-0.25' y='-0.75'/>
+        <Item type='2d_point_f' x='0.875' y='-0.25'/>
+        <Item type='2d_point_f' x='-0.5' y='0.5'/>
+        <Item type='2d_point_f' x='-0.625' y='-0.625'/>
+        <Item type='2d_point_f' x='0.25' y='-0.75'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Large_Attack_Small'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='1.375'/>
+        <Item type='2d_point_f' x='-0.75' y='1.75'/>
+        <Item type='2d_point_f' x='0.75' y='1.75'/>
+        <Item type='2d_point_f' x='0.0' y='2.0'/>
+        <Item type='2d_point_f' x='-0.75' y='2.125'/>
+        <Item type='2d_point_f' x='0.75' y='2.125'/>
+        <Item type='2d_point_f' x='0.375' y='2.5'/>
+        <Item type='2d_point_f' x='-0.375' y='2.5'/>
+        <Item type='2d_point_f' x='0.0' y='1.5'/>
+        <Item type='2d_point_f' x='-0.875' y='1.625'/>
+        <Item type='2d_point_f' x='0.875' y='1.625'/>
+        <Item type='2d_point_f' x='-0.875' y='2.75'/>
+        <Item type='2d_point_f' x='0.875' y='2.75'/>
+        <Item type='2d_point_f' x='-0.375' y='1.875'/>
+        <Item type='2d_point_f' x='0.375' y='1.875'/>
+        <Item type='2d_point_f' x='0.0' y='2.75'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Small_Defense_Large'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.625'/>
+        <Item type='2d_point_f' x='-0.375' y='0.625'/>
+        <Item type='2d_point_f' x='0.375' y='0.625'/>
+        <Item type='2d_point_f' x='-0.75' y='0.875'/>
+        <Item type='2d_point_f' x='0.75' y='0.875'/>
+        <Item type='2d_point_f' x='0.125' y='0.25'/>
+        <Item type='2d_point_f' x='-0.25' y='0.25'/>
+        <Item type='2d_point_f' x='0.5' y='0.25'/>
+        <Item type='2d_point_f' x='-0.75' y='0.5'/>
+        <Item type='2d_point_f' x='0.875' y='0.5'/>
+        <Item type='2d_point_f' x='-0.125' y='-0.125'/>
+        <Item type='2d_point_f' x='0.25' y='-0.125'/>
+        <Item type='2d_point_f' x='-0.5' y='-0.125'/>
+        <Item type='2d_point_f' x='0.625' y='-0.125'/>
+        <Item type='2d_point_f' x='-0.875' y='-0.125'/>
+        <Item type='2d_point_f' x='0.0' y='-0.5'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Large_Attack_Medium'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='1.375'/>
+        <Item type='2d_point_f' x='0.75' y='2.0'/>
+        <Item type='2d_point_f' x='-0.75' y='1.875'/>
+        <Item type='2d_point_f' x='0.0' y='2.0'/>
+        <Item type='2d_point_f' x='-0.75' y='2.125'/>
+        <Item type='2d_point_f' x='0.75' y='2.125'/>
+        <Item type='2d_point_f' x='0.375' y='2.5'/>
+        <Item type='2d_point_f' x='-0.375' y='2.5'/>
+        <Item type='2d_point_f' x='0.0' y='1.5'/>
+        <Item type='2d_point_f' x='-0.875' y='1.625'/>
+        <Item type='2d_point_f' x='0.875' y='1.625'/>
+        <Item type='2d_point_f' x='-0.875' y='2.75'/>
+        <Item type='2d_point_f' x='0.875' y='2.75'/>
+        <Item type='2d_point_f' x='-0.375' y='1.875'/>
+        <Item type='2d_point_f' x='0.375' y='1.875'/>
+        <Item type='2d_point_f' x='0.0' y='2.75'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Medium_Defense_Large'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.5'/>
+        <Item type='2d_point_f' x='0.75' y='0.75'/>
+        <Item type='2d_point_f' x='-0.75' y='0.75'/>
+        <Item type='2d_point_f' x='0.375' y='0.125'/>
+        <Item type='2d_point_f' x='-0.5' y='0.25'/>
+        <Item type='2d_point_f' x='0.875' y='0.25'/>
+        <Item type='2d_point_f' x='-0.25' y='-0.25'/>
+        <Item type='2d_point_f' x='0.625' y='-0.25'/>
+        <Item type='2d_point_f' x='-0.25' y='0.5'/>
+        <Item type='2d_point_f' x='0.625' y='0.75'/>
+        <Item type='2d_point_f' x='-0.75' y='0.625'/>
+        <Item type='2d_point_f' x='0.375' y='0.375'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.125'/>
+        <Item type='2d_point_f' x='0.125' y='0.625'/>
+        <Item type='2d_point_f' x='-0.125' y='0.125'/>
+        <Item type='2d_point_f' x='0.0' y='0.25'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Large_Attack_Large'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='1.25'/>
+        <Item type='2d_point_f' x='-0.75' y='1.25'/>
+        <Item type='2d_point_f' x='0.75' y='1.0'/>
+        <Item type='2d_point_f' x='0.0' y='2.0'/>
+        <Item type='2d_point_f' x='-0.75' y='2.125'/>
+        <Item type='2d_point_f' x='0.75' y='2.125'/>
+        <Item type='2d_point_f' x='0.375' y='2.5'/>
+        <Item type='2d_point_f' x='-0.375' y='2.5'/>
+        <Item type='2d_point_f' x='0.0' y='1.5'/>
+        <Item type='2d_point_f' x='-0.875' y='1.625'/>
+        <Item type='2d_point_f' x='0.875' y='1.625'/>
+        <Item type='2d_point_f' x='-0.875' y='2.75'/>
+        <Item type='2d_point_f' x='0.875' y='2.75'/>
+        <Item type='2d_point_f' x='-0.375' y='1.875'/>
+        <Item type='2d_point_f' x='0.375' y='1.875'/>
+        <Item type='2d_point_f' x='0.0' y='2.75'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Large_Defense_Large'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='0.0'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.125'/>
+        <Item type='2d_point_f' x='0.75' y='-0.25'/>
+        <Item type='2d_point_f' x='-0.625' y='0.125'/>
+        <Item type='2d_point_f' x='0.75' y='0.125'/>
+        <Item type='2d_point_f' x='0.25' y='0.375'/>
+        <Item type='2d_point_f' x='-0.75' y='-0.25'/>
+        <Item type='2d_point_f' x='0.625' y='-0.5'/>
+        <Item type='2d_point_f' x='-0.25' y='0.25'/>
+        <Item type='2d_point_f' x='0.125' y='-0.375'/>
+        <Item type='2d_point_f' x='0.625' y='0.5'/>
+        <Item type='2d_point_f' x='-0.25' y='-0.75'/>
+        <Item type='2d_point_f' x='0.875' y='-0.25'/>
+        <Item type='2d_point_f' x='-0.5' y='0.5'/>
+        <Item type='2d_point_f' x='-0.625' y='-0.625'/>
+        <Item type='2d_point_f' x='0.25' y='-0.75'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Small_Attack_Building'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='1.0'/>
+        <Item type='2d_point_f' x='-0.375' y='1.0'/>
+        <Item type='2d_point_f' x='0.375' y='1.0'/>
+        <Item type='2d_point_f' x='-0.75' y='0.75'/>
+        <Item type='2d_point_f' x='0.75' y='0.75'/>
+        <Item type='2d_point_f' x='-0.125' y='1.375'/>
+        <Item type='2d_point_f' x='-0.5' y='1.375'/>
+        <Item type='2d_point_f' x='0.25' y='1.375'/>
+        <Item type='2d_point_f' x='-0.875' y='1.125'/>
+        <Item type='2d_point_f' x='0.75' y='1.125'/>
+        <Item type='2d_point_f' x='0.125' y='1.75'/>
+        <Item type='2d_point_f' x='-0.25' y='1.75'/>
+        <Item type='2d_point_f' x='0.5' y='1.75'/>
+        <Item type='2d_point_f' x='-0.625' y='1.75'/>
+        <Item type='2d_point_f' x='0.875' y='1.75'/>
+        <Item type='2d_point_f' x='0.0' y='2.125'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Medium_Attack_Building'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='1.25'/>
+        <Item type='2d_point_f' x='-0.75' y='1.0'/>
+        <Item type='2d_point_f' x='0.75' y='1.0'/>
+        <Item type='2d_point_f' x='-0.375' y='1.625'/>
+        <Item type='2d_point_f' x='0.5' y='1.5'/>
+        <Item type='2d_point_f' x='-0.875' y='1.5'/>
+        <Item type='2d_point_f' x='0.375' y='2.875'/>
+        <Item type='2d_point_f' x='-0.375' y='2.875'/>
+        <Item type='2d_point_f' x='0.0' y='1.875'/>
+        <Item type='2d_point_f' x='-0.875' y='2.0'/>
+        <Item type='2d_point_f' x='0.875' y='2.0'/>
+        <Item type='2d_point_f' x='-0.875' y='3.125'/>
+        <Item type='2d_point_f' x='0.875' y='3.125'/>
+        <Item type='2d_point_f' x='-0.375' y='2.25'/>
+        <Item type='2d_point_f' x='0.375' y='2.25'/>
+        <Item type='2d_point_f' x='0.0' y='3.125'/>
+      </points>
+    </formation>
+    <formation>
+      <name type='string' value='Large_Attack_Building'/>
+      <points>
+        <Item type='2d_point_f' x='0.0' y='1.25'/>
+        <Item type='2d_point_f' x='-0.75' y='1.25'/>
+        <Item type='2d_point_f' x='0.75' y='1.0'/>
+        <Item type='2d_point_f' x='0.0' y='2.0'/>
+        <Item type='2d_point_f' x='-0.75' y='2.125'/>
+        <Item type='2d_point_f' x='0.75' y='2.125'/>
+        <Item type='2d_point_f' x='0.375' y='2.5'/>
+        <Item type='2d_point_f' x='-0.375' y='2.5'/>
+        <Item type='2d_point_f' x='0.0' y='1.5'/>
+        <Item type='2d_point_f' x='-0.875' y='1.625'/>
+        <Item type='2d_point_f' x='0.875' y='1.625'/>
+        <Item type='2d_point_f' x='-0.875' y='2.75'/>
+        <Item type='2d_point_f' x='0.875' y='2.75'/>
+        <Item type='2d_point_f' x='-0.375' y='1.875'/>
+        <Item type='2d_point_f' x='0.375' y='1.875'/>
+        <Item type='2d_point_f' x='0.0' y='2.75'/>
+      </points>
+    </formation>
+  </List>
+</Formations>

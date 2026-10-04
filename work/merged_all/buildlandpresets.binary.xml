@@ -1,0 +1,116 @@
+<LandPresets>
+  <item>
+    <name type='string' value=''/>
+    <logicTiles>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='193'/>
+    </logicTiles>
+    <landStatuses>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='131072'/>
+    </landStatuses>
+    <adjacentTiles>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='0'/>
+    </adjacentTiles>
+    <adjacentStatuses>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='0'/>
+    </adjacentStatuses>
+  </item>
+  <item>
+    <name type='string' value='flat'/>
+    <logicTiles>
+      <positive type='integer' value='10'/>
+      <negative type='integer' value='0'/>
+    </logicTiles>
+    <landStatuses>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='0'/>
+    </landStatuses>
+    <adjacentTiles>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='0'/>
+    </adjacentTiles>
+    <adjacentStatuses>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='0'/>
+    </adjacentStatuses>
+  </item>
+  <item>
+    <name type='string' value='near_mountain'/>
+    <logicTiles>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='193'/>
+    </logicTiles>
+    <landStatuses>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='131072'/>
+    </landStatuses>
+    <adjacentTiles>
+      <positive type='integer' value='64'/>
+      <negative type='integer' value='0'/>
+    </adjacentTiles>
+    <adjacentStatuses>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='131072'/>
+    </adjacentStatuses>
+  </item>
+  <item>
+    <name type='string' value='near_water'/>
+    <logicTiles>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='193'/>
+    </logicTiles>
+    <landStatuses>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='131072'/>
+    </landStatuses>
+    <adjacentTiles>
+      <positive type='integer' value='1'/>
+      <negative type='integer' value='0'/>
+    </adjacentTiles>
+    <adjacentStatuses>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='0'/>
+    </adjacentStatuses>
+  </item>
+  <item>
+    <name type='string' value='no_bad'/>
+    <logicTiles>
+      <positive type='integer' value='30'/>
+      <negative type='integer' value='0'/>
+    </logicTiles>
+    <landStatuses>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='131072'/>
+    </landStatuses>
+    <adjacentTiles>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='0'/>
+    </adjacentTiles>
+    <adjacentStatuses>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='0'/>
+    </adjacentStatuses>
+  </item>
+  <item>
+    <name type='string' value='water'/>
+    <logicTiles>
+      <positive type='integer' value='1'/>
+      <negative type='integer' value='0'/>
+    </logicTiles>
+    <landStatuses>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='0'/>
+    </landStatuses>
+    <adjacentTiles>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='0'/>
+    </adjacentTiles>
+    <adjacentStatuses>
+      <positive type='integer' value='0'/>
+      <negative type='integer' value='0'/>
+    </adjacentStatuses>
+  </item>
+</LandPresets>

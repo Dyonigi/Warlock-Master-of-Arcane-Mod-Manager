@@ -1,0 +1,52 @@
+<Gods>
+  <Gods>
+    <item version='2'>
+      <name type='string' value='god_dauros'/>
+      <icon type='string' value='icon_god_dauros'/>
+      <position type='2d_point_f' x='-1.0' y='-8.742277657347586e-08'/>
+      <avatar type='string' value='g_dauros'/>
+    </item>
+    <item version='2'>
+      <name type='string' value='god_agrela'/>
+      <icon type='string' value='icon_god_agrela'/>
+      <position type='2d_point_f' x='-0.7071068286895752' y='-0.7071067094802856'/>
+      <avatar type='string' value='g_agrela'/>
+    </item>
+    <item version='2'>
+      <name type='string' value='god_grumgog'/>
+      <icon type='string' value='icon_god_grumgog'/>
+      <position type='2d_point_f' x='1.1924880638503055e-08' y='-1.0'/>
+      <avatar type='string' value='g_grumgog'/>
+    </item>
+    <item version='2'>
+      <name type='string' value='god_lunord'/>
+      <icon type='string' value='icon_god_lunord'/>
+      <position type='2d_point_f' x='0.7071066498756409' y='-0.70710688829422'/>
+      <avatar type='string' value='g_lunord'/>
+    </item>
+    <item version='2'>
+      <name type='string' value='god_krypta'/>
+      <icon type='string' value='icon_god_krypta'/>
+      <position type='2d_point_f' x='0.7071067690849304' y='0.7071067690849304'/>
+      <avatar type='string' value='g_krypta'/>
+    </item>
+    <item version='2'>
+      <name type='string' value='god_krolm'/>
+      <icon type='string' value='icon_god_krolm'/>
+      <position type='2d_point_f' x='-4.371138828673793e-08' y='1.0'/>
+      <avatar type='string' value='g_krolm'/>
+    </item>
+    <item version='2'>
+      <name type='string' value='god_fervus'/>
+      <icon type='string' value='icon_god_fervus'/>
+      <position type='2d_point_f' x='1.0' y='0.0'/>
+      <avatar type='string' value='g_fervus'/>
+    </item>
+    <item version='2'>
+      <name type='string' value='god_helia'/>
+      <icon type='string' value='icon_god_helia'/>
+      <position type='2d_point_f' x='-0.7071067690849304' y='0.7071067690849304'/>
+      <avatar type='string' value='g_helia'/>
+    </item>
+  </Gods>
+</Gods>

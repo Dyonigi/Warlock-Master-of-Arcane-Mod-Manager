@@ -1,0 +1,2666 @@
+<LogicTileDataList>
+  <tiles>
+    <tile>
+      <foodBonus type='float' value='0.0'/>
+      <productionBonus type='float' value='0.0'/>
+      <goldBonus type='float' value='0.0'/>
+      <scienceBonus type='float' value='0.0'/>
+      <moveCost>
+        <item type='float' value='0.0'/>
+        <item type='float' value='1.0'/>
+        <item type='float' value='1.0'/>
+        <item type='float' value='1.0'/>
+        <item type='float' value='0.0'/>
+      </moveCost>
+    </tile>
+    <tile>
+      <foodBonus type='float' value='0.0'/>
+      <productionBonus type='float' value='0.0'/>
+      <goldBonus type='float' value='0.0'/>
+      <scienceBonus type='float' value='0.0'/>
+      <moveCost>
+        <item type='float' value='1.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='1.0'/>
+        <item type='float' value='1.0'/>
+        <item type='float' value='1.0'/>
+      </moveCost>
+    </tile>
+    <tile>
+      <foodBonus type='float' value='0.0'/>
+      <productionBonus type='float' value='0.0'/>
+      <goldBonus type='float' value='0.0'/>
+      <scienceBonus type='float' value='0.0'/>
+      <moveCost>
+        <item type='float' value='2.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='1.0'/>
+        <item type='float' value='2.0'/>
+        <item type='float' value='1.0'/>
+      </moveCost>
+    </tile>
+    <tile>
+      <foodBonus type='float' value='0.0'/>
+      <productionBonus type='float' value='0.0'/>
+      <goldBonus type='float' value='0.0'/>
+      <scienceBonus type='float' value='0.0'/>
+      <moveCost>
+        <item type='float' value='2.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='1.0'/>
+        <item type='float' value='2.0'/>
+        <item type='float' value='1.0'/>
+      </moveCost>
+    </tile>
+    <tile>
+      <foodBonus type='float' value='0.0'/>
+      <productionBonus type='float' value='0.0'/>
+      <goldBonus type='float' value='0.0'/>
+      <scienceBonus type='float' value='0.0'/>
+      <moveCost>
+        <item type='float' value='2.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='1.0'/>
+        <item type='float' value='2.0'/>
+        <item type='float' value='1.0'/>
+      </moveCost>
+    </tile>
+    <tile>
+      <foodBonus type='float' value='0.0'/>
+      <productionBonus type='float' value='0.0'/>
+      <goldBonus type='float' value='0.0'/>
+      <scienceBonus type='float' value='0.0'/>
+      <moveCost>
+        <item type='float' value='3.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='1.0'/>
+        <item type='float' value='1.0'/>
+        <item type='float' value='1.0'/>
+      </moveCost>
+    </tile>
+    <tile>
+      <foodBonus type='float' value='0.0'/>
+      <productionBonus type='float' value='0.0'/>
+      <goldBonus type='float' value='0.0'/>
+      <scienceBonus type='float' value='0.0'/>
+      <moveCost>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='1.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </moveCost>
+    </tile>
+    <tile>
+      <foodBonus type='float' value='0.0'/>
+      <productionBonus type='float' value='0.0'/>
+      <goldBonus type='float' value='0.0'/>
+      <scienceBonus type='float' value='0.0'/>
+      <moveCost>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </moveCost>
+    </tile>
+  </tiles>
+  <statuses>
+    <status>
+      <movementTypePriority type='integer' value='2'/>
+      <movementTypeAffect type='string' value='all'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='ElementalMagic'/>
+      <damageByStatusDefault type='float' value='0.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='0.5'/>
+        <item type='float' value='100.0'/>
+        <item type='float' value='0.5'/>
+        <item type='float' value='0.5'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='0'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='2'/>
+      <movementTypeAffect type='string' value='all'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='ElementalMagic'/>
+      <damageByStatusDefault type='float' value='0.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='0.20000000298023224'/>
+        <item type='float' value='100.0'/>
+        <item type='float' value='0.20000000298023224'/>
+        <item type='float' value='0.20000000298023224'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='0'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='1'/>
+      <movementTypeAffect type='string' value='all'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='ElementalMagic'/>
+      <damageByStatusDefault type='float' value='0.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='3.0'/>
+        <item type='float' value='100.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='0'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='3'/>
+      <movementTypeAffect type='string' value='other'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='ElementalMagic'/>
+      <damageByStatusDefault type='float' value='0.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='0'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='2'/>
+      <movementTypeAffect type='string' value='self'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='ElementalMagic'/>
+      <damageByStatusDefault type='float' value='0.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='0.5'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='0.5'/>
+        <item type='float' value='0.5'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='0'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='2'/>
+      <movementTypeAffect type='string' value='self'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='ElementalMagic'/>
+      <damageByStatusDefault type='float' value='0.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='0.5'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='0.5'/>
+        <item type='float' value='0.5'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='0'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='1'/>
+      <movementTypeAffect type='string' value='all'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='ElementalMagic'/>
+      <damageByStatusDefault type='float' value='0.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='0'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='0'/>
+      <movementTypeAffect type='string' value='all'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='ElementalMagic'/>
+      <damageByStatusDefault type='float' value='0.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='0'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='20.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='-20.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='0'/>
+      <movementTypeAffect type='string' value='all'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='ElementalMagic'/>
+      <damageByStatusDefault type='float' value='0.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='0'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='-20.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='20.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='4'/>
+      <movementTypeAffect type='string' value='all'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='ElementalMagic'/>
+      <damageByStatusDefault type='float' value='2.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='0'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='-50.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='-50.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='-50.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='1'/>
+      <movementTypeAffect type='string' value='all'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='ElementalMagic'/>
+      <damageByStatusDefault type='float' value='0.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='0'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='-20.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='1'/>
+      <movementTypeAffect type='string' value='all'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='ElementalMagic'/>
+      <damageByStatusDefault type='float' value='2.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='3.0'/>
+        <item type='float' value='100.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='3.0'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='3'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='-50.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='-50.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='-50.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='1'/>
+      <movementTypeAffect type='string' value='all'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='DeathMagic'/>
+      <damageByStatusDefault type='float' value='3.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='-3.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='0'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='-50.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='50.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='1'/>
+      <movementTypeAffect type='string' value='all'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='LifeMagic'/>
+      <damageByStatusDefault type='float' value='-4.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='2.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='0'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='50.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='1'/>
+      <movementTypeAffect type='string' value='all'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='ElementalMagic'/>
+      <damageByStatusDefault type='float' value='0.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='0'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='20.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='1'/>
+      <movementTypeAffect type='string' value='all'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='SpiritMagic'/>
+      <damageByStatusDefault type='float' value='4.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='-4.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='1'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='-50.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='-50.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='-50.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='1'/>
+      <movementTypeAffect type='string' value='all'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='ElementalMagic'/>
+      <damageByStatusDefault type='float' value='0.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='1'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+    <status>
+      <movementTypePriority type='integer' value='5'/>
+      <movementTypeAffect type='string' value='all'/>
+      <moveCostByUnitStatusDefault type='float' value='1.0'/>
+      <damageEffect type='string' value='SpiritMagic'/>
+      <damageByStatusDefault type='float' value='6.0'/>
+      <buffByStatusDefault type='string' value=''/>
+      <moveCostByMovementType>
+        <item type='float' value='100.0'/>
+        <item type='float' value='100.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='100.0'/>
+        <item type='float' value='100.0'/>
+      </moveCostByMovementType>
+      <moveCostByUnitStatus>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+        <item type='float' value='-1.0'/>
+      </moveCostByUnitStatus>
+      <damageByStatus>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='-4.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+        <item type='float' value='0.0'/>
+      </damageByStatus>
+      <buffByStatus>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+        <Item type='string' value=''/>
+      </buffByStatus>
+      <upkeepDataMod>
+        <upkeepGold type='integer' value='0'/>
+        <upkeepFood type='integer' value='0'/>
+        <upkeepMana type='integer' value='0'/>
+        <bonusGold>
+          <mul type='float' value='-50.0'/>
+          <add type='integer' value='0'/>
+        </bonusGold>
+        <bonusFood>
+          <mul type='float' value='-50.0'/>
+          <add type='integer' value='0'/>
+        </bonusFood>
+        <bonusMana>
+          <mul type='float' value='-50.0'/>
+          <add type='integer' value='0'/>
+        </bonusMana>
+        <bonusResearch>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusResearch>
+        <bonusGrowth>
+          <mul type='float' value='0.0'/>
+          <add type='integer' value='0'/>
+        </bonusGrowth>
+      </upkeepDataMod>
+    </status>
+  </statuses>
+</LogicTileDataList>

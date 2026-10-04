@@ -1,0 +1,3107 @@
+<Quests>
+  <Templates>
+    <QuestTemplate>
+      <name type='string' value='q_common_kill_lair_1'/>
+      <minReqFrLevel type='float' value='0.10000000149011612'/>
+      <maxReqFrLevel type='float' value='2.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetLocation>
+          <stage type='integer' value='1'/>
+          <TypeNames>
+          </TypeNames>
+        </TargetLocation>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='40'/>
+          <max type='integer' value='60'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='25'/>
+          <max type='integer' value='75'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_common_kill_lair_2'/>
+      <minReqFrLevel type='float' value='1.5'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetLocation>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+          </TypeNames>
+        </TargetLocation>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='40'/>
+          <max type='integer' value='60'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='25'/>
+          <max type='integer' value='75'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_common_kill_wild_1'/>
+      <minReqFrLevel type='float' value='0.20000000298023224'/>
+      <maxReqFrLevel type='float' value='2.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='1'/>
+          <TypeNames>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='40'/>
+          <max type='integer' value='60'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='25'/>
+          <max type='integer' value='75'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_common_kill_wild_2'/>
+      <minReqFrLevel type='float' value='0.6000000238418579'/>
+      <maxReqFrLevel type='float' value='2.5'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestUnit>
+          <race type='string' value='monsters'/>
+          <stage type='integer' value='1'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestUnit>
+        <QuestMoney>
+          <min type='integer' value='75'/>
+          <max type='integer' value='125'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_common_kill_wild_3'/>
+      <minReqFrLevel type='float' value='1.399999976158142'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='125'/>
+          <max type='integer' value='150'/>
+        </QuestMoney>
+        <QuestArtifact>
+          <stage type='integer' value='1'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestArtifact>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='100'/>
+          <max type='integer' value='200'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_common_kill_wild_4'/>
+      <minReqFrLevel type='float' value='2.5'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='4'/>
+          <TypeNames>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='200'/>
+          <max type='integer' value='300'/>
+        </QuestMoney>
+        <QuestMana>
+          <min type='integer' value='100'/>
+          <max type='integer' value='200'/>
+        </QuestMana>
+        <QuestArtifact>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestArtifact>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='200'/>
+          <max type='integer' value='400'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_common_capture_city_l'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Capture'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetCity>
+          <type type='string' value='NearestNeutral'/>
+        </TargetCity>
+      </Target>
+      <Reward>
+        <QuestUnit>
+          <race type='string' value='lord'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestUnit>
+        <QuestMoney>
+          <min type='integer' value='100'/>
+          <max type='integer' value='200'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='150'/>
+          <max type='integer' value='250'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value=' q_common_capture_city_n '/>
+      <minReqFrLevel type='float' value='0.6000000238418579'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Capture'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetCity>
+          <type type='string' value='NearestNeutral'/>
+        </TargetCity>
+      </Target>
+      <Reward>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='e_elf_settler'/>
+            <name type='string' value='h_settler_peasant'/>
+            <name type='string' value='m_settler_gnomes'/>
+            <name type='string' value='u_settler_skeleton'/>
+          </TypeNames>
+        </QuestUnit>
+        <QuestMoney>
+          <min type='integer' value='100'/>
+          <max type='integer' value='200'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='150'/>
+          <max type='integer' value='250'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value=' q_common_capture_city_enemy '/>
+      <minReqFrLevel type='float' value='1.100000023841858'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Capture'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetCity>
+          <type type='string' value='NearestEnemyMage'/>
+        </TargetCity>
+      </Target>
+      <Reward>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='e_elf_settler'/>
+            <name type='string' value='h_settler_peasant'/>
+            <name type='string' value='m_settler_gnomes'/>
+            <name type='string' value='u_settler_skeleton'/>
+          </TypeNames>
+        </QuestUnit>
+        <QuestMoney>
+          <min type='integer' value='150'/>
+          <max type='integer' value='200'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='150'/>
+          <max type='integer' value='250'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_common_build_city'/>
+      <minReqFrLevel type='float' value='0.20000000298023224'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetCity>
+          <type type='string' value='Any'/>
+        </TargetCity>
+      </Target>
+      <Reward>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='e_elf_settler'/>
+            <name type='string' value='h_settler_peasant'/>
+            <name type='string' value='m_settler_gnomes'/>
+            <name type='string' value='u_settler_skeleton'/>
+          </TypeNames>
+        </QuestUnit>
+        <QuestMoney>
+          <min type='integer' value='25'/>
+          <max type='integer' value='75'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_common_build_farm'/>
+      <minReqFrLevel type='float' value='0.20000000298023224'/>
+      <maxReqFrLevel type='float' value='2.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_farm'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='30'/>
+          <max type='integer' value='50'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_common_build_market'/>
+      <minReqFrLevel type='float' value='0.20000000298023224'/>
+      <maxReqFrLevel type='float' value='1.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_market'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='40'/>
+          <max type='integer' value='60'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_bear_1'/>
+      <minReqFrLevel type='float' value='0.699999988079071'/>
+      <maxReqFrLevel type='float' value='2.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='15'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value='q_kill_bear_2'/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='1'/>
+          <TypeNames>
+            <name type='string' value='w_bear'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='30'/>
+          <max type='integer' value='50'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='25'/>
+          <max type='integer' value='75'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_bear_2'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='2.5'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value='q_kill_bear_3'/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='1'/>
+          <TypeNames>
+            <name type='string' value='w_bear_adv'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='75'/>
+          <max type='integer' value='100'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_bear_3'/>
+      <minReqFrLevel type='float' value='1.5500000715255737'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value='q_kill_bear_4'/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+            <name type='string' value='s_bearman'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='125'/>
+          <max type='integer' value='150'/>
+        </QuestMoney>
+        <QuestMana>
+          <min type='integer' value='50'/>
+          <max type='integer' value='70'/>
+        </QuestMana>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='100'/>
+          <max type='integer' value='200'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_bear_4'/>
+      <minReqFrLevel type='float' value='2.0999999046325684'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+            <name type='string' value='w_bear_cave'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='200'/>
+          <max type='integer' value='250'/>
+        </QuestMoney>
+        <QuestArtifact>
+          <stage type='integer' value='4'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestArtifact>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='100'/>
+          <max type='integer' value='200'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_drañolich'/>
+      <minReqFrLevel type='float' value='1.1999999284744263'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+            <name type='string' value='u_dragon_bone_twohead'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='150'/>
+          <max type='integer' value='250'/>
+        </QuestMoney>
+        <QuestArtifact>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestArtifact>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='300'/>
+          <max type='integer' value='500'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_vendral'/>
+      <minReqFrLevel type='float' value='1.1999999284744263'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+            <name type='string' value='s_dragon_two_head'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='150'/>
+          <max type='integer' value='250'/>
+        </QuestMoney>
+        <QuestArtifact>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestArtifact>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='300'/>
+          <max type='integer' value='500'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_dragon'/>
+      <minReqFrLevel type='float' value='1.1999999284744263'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+            <name type='string' value='a_dragon_red'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='250'/>
+          <max type='integer' value='300'/>
+        </QuestMoney>
+        <QuestArtifact>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestArtifact>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='300'/>
+          <max type='integer' value='500'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_dremer'/>
+      <minReqFrLevel type='float' value='1.399999976158142'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='dremers'/>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+            <name type='string' value='z_evil_brute_adv'/>
+            <name type='string' value='z_evil_sturdy'/>
+            <name type='string' value='z_sea_behemoth'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='250'/>
+          <max type='integer' value='300'/>
+        </QuestMoney>
+        <QuestArtifact>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestArtifact>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='300'/>
+          <max type='integer' value='500'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_barsil'/>
+      <minReqFrLevel type='float' value='1.5999993085861206'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+            <name type='string' value='lord_barlog'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='lord_barlog'/>
+          </TypeNames>
+        </QuestUnit>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='300'/>
+          <max type='integer' value='500'/>
+        </QuestMoney>
+        <QuestMana>
+          <min type='integer' value='500'/>
+          <max type='integer' value='700'/>
+        </QuestMana>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_rogue_1'/>
+      <minReqFrLevel type='float' value='0.20000000298023224'/>
+      <maxReqFrLevel type='float' value='2.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value='q_kill_rogue_2'/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='1'/>
+          <TypeNames>
+            <name type='string' value='h_rogue'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='30'/>
+          <max type='integer' value='50'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='25'/>
+          <max type='integer' value='75'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_rogue_2'/>
+      <minReqFrLevel type='float' value='0.6000000238418579'/>
+      <maxReqFrLevel type='float' value='2.5'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value='q_kill_rogue_3'/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+            <name type='string' value='h_rogue_adv'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='75'/>
+          <max type='integer' value='125'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_rogue_3'/>
+      <minReqFrLevel type='float' value='1.399999976158142'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+            <name type='string' value='h_assassin'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='125'/>
+          <max type='integer' value='150'/>
+        </QuestMoney>
+        <QuestArtifact>
+          <stage type='integer' value='1'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestArtifact>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='100'/>
+          <max type='integer' value='200'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_vampire_1'/>
+      <minReqFrLevel type='float' value='0.800000011920929'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value='q_kill_vampire_2'/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='1'/>
+          <TypeNames>
+            <name type='string' value='u_vampire'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='100'/>
+          <max type='integer' value='150'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='125'/>
+          <max type='integer' value='175'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_vampire_2'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='3.5'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value='q_kill_vampire_3'/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+            <name type='string' value='u_vampire_adv'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='150'/>
+          <max type='integer' value='200'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='175'/>
+          <max type='integer' value='225'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_vampire_3'/>
+      <minReqFrLevel type='float' value='1.399999976158142'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+            <name type='string' value='lord_vampire'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='200'/>
+          <max type='integer' value='300'/>
+        </QuestMoney>
+        <QuestArtifact>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestArtifact>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='250'/>
+          <max type='integer' value='350'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_wolf_1'/>
+      <minReqFrLevel type='float' value='0.699999988079071'/>
+      <maxReqFrLevel type='float' value='2.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='15'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value='q_kill_wolf_2'/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='1'/>
+          <TypeNames>
+            <name type='string' value='w_wolf'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='25'/>
+          <max type='integer' value='40'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='25'/>
+          <max type='integer' value='75'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_wolf_2'/>
+      <minReqFrLevel type='float' value='0.9000000357627869'/>
+      <maxReqFrLevel type='float' value='2.5'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value='q_kill_wolf_3'/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='1'/>
+          <TypeNames>
+            <name type='string' value='w_wolf_adv'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='40'/>
+          <max type='integer' value='80'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_wolf_3'/>
+      <minReqFrLevel type='float' value='1.1999999284744263'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value='q_kill_wolf_4'/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+            <name type='string' value='w_wolfman'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='100'/>
+          <max type='integer' value='125'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='100'/>
+          <max type='integer' value='200'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_wolf_4'/>
+      <minReqFrLevel type='float' value='1.399999976158142'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value='q_kill_wolf_5'/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+            <name type='string' value='m_werewolf_adv'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='150'/>
+          <max type='integer' value='200'/>
+        </QuestMoney>
+        <QuestArtifact>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestArtifact>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='150'/>
+          <max type='integer' value='200'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_kill_wolf_5'/>
+      <minReqFrLevel type='float' value='1.6999999284744263'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value='wild'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+            <name type='string' value='w_wolf_nightmare'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='200'/>
+          <max type='integer' value='250'/>
+        </QuestMoney>
+        <QuestArtifact>
+          <stage type='integer' value='4'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestArtifact>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='200'/>
+          <max type='integer' value='300'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_gold_mine'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_mine_gold'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='100'/>
+          <max type='integer' value='150'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_transmutation'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_u_silver_transmutation'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestSpell>
+          <godName type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='sp_arc_reconstruction'/>
+          </TypeNames>
+        </QuestSpell>
+        <QuestMana>
+          <min type='integer' value='50'/>
+          <max type='integer' value='70'/>
+        </QuestMana>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_trans_lab'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_e_transmutation_lab'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_tradepost'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_tradepost'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='e_elf_settler'/>
+            <name type='string' value='h_settler_peasant'/>
+            <name type='string' value='m_settler_gnomes'/>
+            <name type='string' value='u_settler_skeleton'/>
+          </TypeNames>
+        </QuestUnit>
+        <QuestMoney>
+          <min type='integer' value='50'/>
+          <max type='integer' value='70'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_shipyard'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_shipyard'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='100'/>
+          <max type='integer' value='150'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_pumpkin'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_farm_pumpkin'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestSpell>
+          <godName type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='sp_arc_summon_serpent'/>
+          </TypeNames>
+        </QuestSpell>
+        <QuestMoney>
+          <min type='integer' value='50'/>
+          <max type='integer' value='70'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_mine_silver'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_mine_silver'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='50'/>
+          <max type='integer' value='90'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_mine_gems'/>
+      <minReqFrLevel type='float' value='1.399999976158142'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_mine_gems'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestMoney>
+          <min type='integer' value='100'/>
+          <max type='integer' value='125'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_transmutation_lab'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_e_transmutation_lab'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestSpell>
+          <godName type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='sp_arc_teleportation'/>
+          </TypeNames>
+        </QuestSpell>
+        <QuestMana>
+          <min type='integer' value='50'/>
+          <max type='integer' value='70'/>
+        </QuestMana>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_mana_pump'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_mana_pump'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestSpell>
+          <godName type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='sp_arc_haste'/>
+          </TypeNames>
+        </QuestSpell>
+        <QuestMana>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMana>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_magic_tech'/>
+      <minReqFrLevel type='float' value='1.399999976158142'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_e_magic_technology'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestUnit>
+          <race type='string' value='elves'/>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestUnit>
+        <QuestMoney>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_magic_polygon'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_magic_polygon'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestSpell>
+          <godName type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='sp_arc_fr_magic_boost_les'/>
+          </TypeNames>
+        </QuestSpell>
+        <QuestMana>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMana>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_magic_farm'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_u_magic_farm'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='e_elf_settler'/>
+            <name type='string' value='u_settler_skeleton'/>
+          </TypeNames>
+        </QuestUnit>
+        <QuestMoney>
+          <min type='integer' value='50'/>
+          <max type='integer' value='70'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_m_dragon_farm'/>
+      <minReqFrLevel type='float' value='1.399999976158142'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_m_dragon_farm'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestSpell>
+          <godName type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='sp_arc_ct_population_growth'/>
+          </TypeNames>
+        </QuestSpell>
+        <QuestMoney>
+          <min type='integer' value='300'/>
+          <max type='integer' value='500'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_h_dragon_farm'/>
+      <minReqFrLevel type='float' value='1.399999976158142'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_h_dragon_farm'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestSpell>
+          <godName type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='sp_arc_ressurection'/>
+          </TypeNames>
+        </QuestSpell>
+        <QuestMoney>
+          <min type='integer' value='300'/>
+          <max type='integer' value='500'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_glasshouse'/>
+      <minReqFrLevel type='float' value='1.399999976158142'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_u_dragon_glasshouse'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestSpell>
+          <godName type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='sp_arc_ct_mana_growth'/>
+          </TypeNames>
+        </QuestSpell>
+        <QuestMoney>
+          <min type='integer' value='300'/>
+          <max type='integer' value='500'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_garden_magic'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_h_garden_magic'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestSpell>
+          <godName type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='sp_arc_ct_food_growth'/>
+          </TypeNames>
+        </QuestSpell>
+        <QuestMoney>
+          <min type='integer' value='100'/>
+          <max type='integer' value='200'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_farm_pig'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_farm_pig'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_settler_peasant'/>
+            <name type='string' value='m_settler_gnomes'/>
+          </TypeNames>
+        </QuestUnit>
+        <QuestMoney>
+          <min type='integer' value='40'/>
+          <max type='integer' value='70'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_excavations'/>
+      <minReqFrLevel type='float' value='1.2999999523162842'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_excavations'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestSpell>
+          <godName type='string' value=''/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestSpell>
+        <QuestUnit>
+          <race type='string' value='undead'/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='u_ghost'/>
+            <name type='string' value='u_skeleton_war_adv'/>
+            <name type='string' value='u_skeleton_bow_adv'/>
+          </TypeNames>
+        </QuestUnit>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_demonologist'/>
+      <minReqFrLevel type='float' value='1.2999999523162842'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_demonologist'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestSpell>
+          <godName type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='sp_arc_summon_imp'/>
+          </TypeNames>
+        </QuestSpell>
+        <QuestMana>
+          <min type='integer' value='20'/>
+          <max type='integer' value='60'/>
+        </QuestMana>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_random_build_butchery'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='3.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='25'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_m_butchery'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_settler_peasant'/>
+            <name type='string' value='m_settler_gnomes'/>
+          </TypeNames>
+        </QuestUnit>
+        <QuestMoney>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_common_build_harbor'/>
+      <minReqFrLevel type='float' value='0.20000000298023224'/>
+      <maxReqFrLevel type='float' value='2.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_harbor'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestMana>
+          <min type='integer' value='20'/>
+          <max type='integer' value='60'/>
+        </QuestMana>
+        <QuestMoney>
+          <min type='integer' value='40'/>
+          <max type='integer' value='60'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_common_destroy_faction'/>
+      <minReqFrLevel type='float' value='2.0'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='40'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetFraction>
+          <type type='string' value='RandomEnemy'/>
+        </TargetFraction>
+      </Target>
+      <Reward>
+        <QuestUnit>
+          <race type='string' value='lord'/>
+          <stage type='integer' value='3'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestUnit>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='150'/>
+          <max type='integer' value='250'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_common_make_peace_1'/>
+      <minReqFrLevel type='float' value='0.4000000059604645'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='7'/>
+      <questMaker type='string' value='trade_guild'/>
+      <action type='string' value='MakePeace'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetFraction>
+          <type type='string' value='RandomEnemy'/>
+        </TargetFraction>
+      </Target>
+      <Reward>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='e_elf_settler'/>
+            <name type='string' value='h_settler_peasant'/>
+            <name type='string' value='m_settler_gnomes'/>
+            <name type='string' value='u_settler_skeleton'/>
+          </TypeNames>
+        </QuestUnit>
+        <QuestMoney>
+          <min type='integer' value='100'/>
+          <max type='integer' value='150'/>
+        </QuestMoney>
+      </Reward>
+      <Penalty>
+        <QuestMoney>
+          <min type='integer' value='150'/>
+          <max type='integer' value='250'/>
+        </QuestMoney>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_agrela_kill_3'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='god_agrela'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_agrela'/>
+        <minGodRelation type='integer' value='4294967286'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_darkpriest'/>
+            <name type='string' value='e_spirit_of_death'/>
+            <name type='string' value='u_lich'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMana>
+          <min type='integer' value='100'/>
+          <max type='integer' value='150'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_agrela'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestSpell>
+          <godName type='string' value='god_agrela'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestSpell>
+      </Reward>
+      <Penalty>
+        <QuestMana>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_agrela'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_dauros_kill_3'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='god_dauros'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_dauros'/>
+        <minGodRelation type='integer' value='4294967286'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_beastmaster'/>
+            <name type='string' value='m_druid'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMana>
+          <min type='integer' value='100'/>
+          <max type='integer' value='150'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_dauros'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestSpell>
+          <godName type='string' value='god_dauros'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestSpell>
+      </Reward>
+      <Penalty>
+        <QuestMana>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_dauros'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_grumgog_kill_3'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='god_grumgog'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_grumgog'/>
+        <minGodRelation type='integer' value='4294967286'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_blademaster'/>
+            <name type='string' value='u_krolm_chosen'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMana>
+          <min type='integer' value='100'/>
+          <max type='integer' value='150'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_grumgog'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestSpell>
+          <godName type='string' value='god_grumgog'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestSpell>
+      </Reward>
+      <Penalty>
+        <QuestMana>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_grumgog'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_lunord_kill_3'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='god_lunord'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_lunord'/>
+        <minGodRelation type='integer' value='4294967286'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_marksman'/>
+            <name type='string' value='e_phoenix'/>
+            <name type='string' value='m_anubis'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMana>
+          <min type='integer' value='100'/>
+          <max type='integer' value='150'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_lunord'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestSpell>
+          <godName type='string' value='god_lunord'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestSpell>
+      </Reward>
+      <Penalty>
+        <QuestMana>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_lunord'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_krypta_kill_3'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='god_krypta'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_krypta'/>
+        <minGodRelation type='integer' value='4294967286'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_priest'/>
+            <name type='string' value='e_spirit_of_life'/>
+            <name type='string' value='m_ratman_paladin'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMana>
+          <min type='integer' value='100'/>
+          <max type='integer' value='150'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_krypta'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestSpell>
+          <godName type='string' value='god_krypta'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestSpell>
+      </Reward>
+      <Penalty>
+        <QuestMana>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_krypta'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_krolm_kill_3'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='god_krolm'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_krolm'/>
+        <minGodRelation type='integer' value='4294967286'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='m_goblin_champion'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMana>
+          <min type='integer' value='100'/>
+          <max type='integer' value='150'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_krolm'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestSpell>
+          <godName type='string' value='god_krolm'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestSpell>
+      </Reward>
+      <Penalty>
+        <QuestMana>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_krolm'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_fervus_kill_3'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='god_fervus'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_fervus'/>
+        <minGodRelation type='integer' value='4294967286'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_paladin'/>
+            <name type='string' value='u_dead_paladin_girl'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMana>
+          <min type='integer' value='100'/>
+          <max type='integer' value='150'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_fervus'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestSpell>
+          <godName type='string' value='god_fervus'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestSpell>
+      </Reward>
+      <Penalty>
+        <QuestMana>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_fervus'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_helia_kill_3'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='4.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='20'/>
+      <questMaker type='string' value='god_helia'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_helia'/>
+        <minGodRelation type='integer' value='4294967286'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_assassin'/>
+            <name type='string' value='u_adept'/>
+            <name type='string' value='e_dragon_rider'/>
+          </TypeNames>
+        </TargetUnit>
+      </Target>
+      <Reward>
+        <QuestMana>
+          <min type='integer' value='100'/>
+          <max type='integer' value='150'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_helia'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestSpell>
+          <godName type='string' value='god_helia'/>
+          <stage type='integer' value='2'/>
+          <TypeNames>
+          </TypeNames>
+        </QuestSpell>
+      </Reward>
+      <Penalty>
+        <QuestMana>
+          <min type='integer' value='50'/>
+          <max type='integer' value='100'/>
+        </QuestMana>
+        <QuestRelation>
+          <godName type='string' value='god_helia'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_agrela_build_temple'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='god_agrela'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_agrela'/>
+        <minGodRelation type='integer' value='25'/>
+        <maxGodRelation type='integer' value='80'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_temple_agrela'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestRelation>
+          <godName type='string' value='god_agrela'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_priest'/>
+            <name type='string' value='m_ratman_paladin'/>
+            <name type='string' value='e_spirit_of_life'/>
+          </TypeNames>
+        </QuestUnit>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_agrela'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_dauros_build_temple'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='god_dauros'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_dauros'/>
+        <minGodRelation type='integer' value='25'/>
+        <maxGodRelation type='integer' value='80'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_temple_dauros'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestRelation>
+          <godName type='string' value='god_dauros'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_paladin'/>
+            <name type='string' value='u_dead_paladin_girl'/>
+          </TypeNames>
+        </QuestUnit>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_dauros'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_fervus_build_temple'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='god_fervus'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_fervus'/>
+        <minGodRelation type='integer' value='25'/>
+        <maxGodRelation type='integer' value='80'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_temple_fervus'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestRelation>
+          <godName type='string' value='god_fervus'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_beastmaster'/>
+            <name type='string' value='m_druid'/>
+          </TypeNames>
+        </QuestUnit>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_fervus'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_grumgog_build_temple'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='god_grumgog'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_grumgog'/>
+        <minGodRelation type='integer' value='25'/>
+        <maxGodRelation type='integer' value='80'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_temple_grumgog'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestRelation>
+          <godName type='string' value='god_grumgog'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='m_goblin_champion'/>
+          </TypeNames>
+        </QuestUnit>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_grumgog'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_helia_build_temple'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='god_helia'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_helia'/>
+        <minGodRelation type='integer' value='25'/>
+        <maxGodRelation type='integer' value='80'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_temple_helia'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestRelation>
+          <godName type='string' value='god_helia'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_marksman'/>
+            <name type='string' value='e_phoenix'/>
+            <name type='string' value='m_anubis'/>
+          </TypeNames>
+        </QuestUnit>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_helia'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_krolm_build_temple'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='god_krolm'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_krolm'/>
+        <minGodRelation type='integer' value='25'/>
+        <maxGodRelation type='integer' value='80'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_temple_krolm'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestRelation>
+          <godName type='string' value='god_krolm'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_blademaster'/>
+            <name type='string' value='u_krolm_chosen'/>
+          </TypeNames>
+        </QuestUnit>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_krolm'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_krypta_build_temple'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='god_krypta'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_krypta'/>
+        <minGodRelation type='integer' value='25'/>
+        <maxGodRelation type='integer' value='80'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_temple_krypta'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestRelation>
+          <godName type='string' value='god_krypta'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_darkpriest'/>
+            <name type='string' value='e_spirit_of_death'/>
+            <name type='string' value='u_lich'/>
+          </TypeNames>
+        </QuestUnit>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_krypta'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_lunord_build_temple'/>
+      <minReqFrLevel type='float' value='1.2000000476837158'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='30'/>
+      <questMaker type='string' value='god_lunord'/>
+      <action type='string' value='Create'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_lunord'/>
+        <minGodRelation type='integer' value='25'/>
+        <maxGodRelation type='integer' value='80'/>
+      </ReqRelation>
+      <Target>
+        <TargetBuilding>
+          <typeName type='string' value='bld_c_temple_lunord'/>
+        </TargetBuilding>
+      </Target>
+      <Reward>
+        <QuestRelation>
+          <godName type='string' value='god_lunord'/>
+          <amount type='integer' value='10'/>
+        </QuestRelation>
+        <QuestUnit>
+          <race type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='h_assassin'/>
+            <name type='string' value='e_dragon_rider'/>
+            <name type='string' value='u_adept'/>
+          </TypeNames>
+        </QuestUnit>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_lunord'/>
+          <amount type='integer' value='4294967291'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_lunord_kill_helia'/>
+      <minReqFrLevel type='float' value='2.5'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='0'/>
+      <questMaker type='string' value='god_lunord'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_lunord'/>
+        <minGodRelation type='integer' value='95'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetGod>
+          <godName type='string' value='god_helia'/>
+        </TargetGod>
+      </Target>
+      <Reward>
+        <QuestWin>
+        </QuestWin>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_lunord'/>
+          <amount type='integer' value='4294967286'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_helia_kill_lunord'/>
+      <minReqFrLevel type='float' value='2.5'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='0'/>
+      <questMaker type='string' value='god_helia'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_helia'/>
+        <minGodRelation type='integer' value='95'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetGod>
+          <godName type='string' value='god_lunord'/>
+        </TargetGod>
+      </Target>
+      <Reward>
+        <QuestWin>
+        </QuestWin>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_helia'/>
+          <amount type='integer' value='4294967286'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_krolm_kill_grumgog'/>
+      <minReqFrLevel type='float' value='2.5'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='0'/>
+      <questMaker type='string' value='god_krolm'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_krolm'/>
+        <minGodRelation type='integer' value='95'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetGod>
+          <godName type='string' value='god_grumgog'/>
+        </TargetGod>
+      </Target>
+      <Reward>
+        <QuestWin>
+        </QuestWin>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_krolm'/>
+          <amount type='integer' value='4294967286'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_grumgog_kill_krolm'/>
+      <minReqFrLevel type='float' value='2.5'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='0'/>
+      <questMaker type='string' value='god_grumgog'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_grumgog'/>
+        <minGodRelation type='integer' value='95'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetGod>
+          <godName type='string' value='god_krolm'/>
+        </TargetGod>
+      </Target>
+      <Reward>
+        <QuestWin>
+        </QuestWin>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_grumgog'/>
+          <amount type='integer' value='4294967286'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_dauros_kill_fervus'/>
+      <minReqFrLevel type='float' value='2.5'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='0'/>
+      <questMaker type='string' value='god_dauros'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_dauros'/>
+        <minGodRelation type='integer' value='95'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetGod>
+          <godName type='string' value='god_fervus'/>
+        </TargetGod>
+      </Target>
+      <Reward>
+        <QuestWin>
+        </QuestWin>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_dauros'/>
+          <amount type='integer' value='4294967286'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_fervus_kill_dauros'/>
+      <minReqFrLevel type='float' value='2.5'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='0'/>
+      <questMaker type='string' value='god_fervus'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_fervus'/>
+        <minGodRelation type='integer' value='95'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetGod>
+          <godName type='string' value='god_dauros'/>
+        </TargetGod>
+      </Target>
+      <Reward>
+        <QuestWin>
+        </QuestWin>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_fervus'/>
+          <amount type='integer' value='4294967286'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_agrela_kill_krypta'/>
+      <minReqFrLevel type='float' value='2.5'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='0'/>
+      <questMaker type='string' value='god_agrela'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_agrela'/>
+        <minGodRelation type='integer' value='95'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetGod>
+          <godName type='string' value='god_krypta'/>
+        </TargetGod>
+      </Target>
+      <Reward>
+        <QuestWin>
+        </QuestWin>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_agrela'/>
+          <amount type='integer' value='4294967286'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_krypta_kill_agrela'/>
+      <minReqFrLevel type='float' value='2.5'/>
+      <maxReqFrLevel type='float' value='5.0'/>
+      <cancelable type='bool' value='1'/>
+      <timer type='integer' value='0'/>
+      <questMaker type='string' value='god_krypta'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value='god_krypta'/>
+        <minGodRelation type='integer' value='95'/>
+        <maxGodRelation type='integer' value='100'/>
+      </ReqRelation>
+      <Target>
+        <TargetGod>
+          <godName type='string' value='god_agrela'/>
+        </TargetGod>
+      </Target>
+      <Reward>
+        <QuestWin>
+        </QuestWin>
+      </Reward>
+      <Penalty>
+        <QuestRelation>
+          <godName type='string' value='god_krypta'/>
+          <amount type='integer' value='4294967286'/>
+        </QuestRelation>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_arma_kill_lock_1'/>
+      <minReqFrLevel type='float' value='0.0'/>
+      <maxReqFrLevel type='float' value='0.0'/>
+      <cancelable type='bool' value='0'/>
+      <timer type='integer' value='0'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value='q_arma_kill_boss'/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetLocations>
+          <locType type='string' value='bld_z_evil_key'/>
+        </TargetLocations>
+      </Target>
+      <Reward>
+        <QuestSpell>
+          <godName type='string' value=''/>
+          <stage type='integer' value='0'/>
+          <TypeNames>
+            <name type='string' value='sp_teleportation_evil'/>
+          </TypeNames>
+        </QuestSpell>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+    <QuestTemplate>
+      <name type='string' value='q_arma_kill_boss'/>
+      <minReqFrLevel type='float' value='0.0'/>
+      <maxReqFrLevel type='float' value='0.0'/>
+      <cancelable type='bool' value='0'/>
+      <timer type='integer' value='0'/>
+      <questMaker type='string' value='advisor'/>
+      <action type='string' value='Destroy'/>
+      <rewardQuest type='string' value=''/>
+      <ReqRelation>
+        <godName type='string' value=''/>
+        <minGodRelation type='integer' value='0'/>
+        <maxGodRelation type='integer' value='0'/>
+      </ReqRelation>
+      <Target>
+        <TargetArmaVillain>
+          <unitType type='string' value='z_villain_of_piece'/>
+        </TargetArmaVillain>
+      </Target>
+      <Reward>
+        <QuestWin>
+        </QuestWin>
+      </Reward>
+      <Penalty>
+      </Penalty>
+    </QuestTemplate>
+  </Templates>
+  <Options>
+    <countActiveQuests type='integer' value='3'/>
+    <probabilityFirstQuest type='float' value='25.0'/>
+    <probabilitySecondQuest type='float' value='15.0'/>
+    <probabilityThirdQuest type='float' value='5.0'/>
+    <probabilityFirstGodQuest type='float' value='30.0'/>
+    <probabilitySecondGodQuest type='float' value='10.0'/>
+    <minSpawnRadius type='integer' value='3'/>
+    <maxSpawnRadius type='integer' value='6'/>
+    <minSpawnLocRadius type='integer' value='3'/>
+    <maxSpawnLocRadius type='integer' value='6'/>
+    <minSpawnGodRadius type='integer' value='10'/>
+    <maxSpawnGodRadius type='integer' value='12'/>
+    <koeffGodWeight type='float' value='100.0'/>
+    <evilMainQuest type='string' value='q_arma_kill_lock_1'/>
+    <countTurnsEvilQuest type='integer' value='30'/>
+    <minReqLocksStage type='integer' value='3'/>
+    <minDistanceLocks type='integer' value='9'/>
+    <evilWorldLoc type='string' value='bld_z_evil_castle'/>
+    <evilLocDensity type='float' value='0.05000000074505806'/>
+    <minDistanceEvilLocs type='integer' value='3'/>
+    <LocationsExclude>
+      <name type='string' value='bld_w_chest'/>
+    </LocationsExclude>
+  </Options>
+</Quests>

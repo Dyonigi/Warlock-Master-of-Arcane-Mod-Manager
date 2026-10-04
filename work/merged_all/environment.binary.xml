@@ -1,0 +1,578 @@
+<Root>
+  <item>
+    <name type='string' value='Ardania'/>
+    <LightPreset>
+      <DirLight>
+        <dir type='3d_point_f' x='-1.0' y='-0.8999999761581421' z='0.4000000059604645'/>
+        <ambient type='color' r='B9' g='8A' b='83' a='FF'/>
+        <diffuse type='color' r='B8' g='DF' b='F3' a='FF'/>
+        <shadow type='color' r='82' g='5E' b='50' a='FF'/>
+        <shadowTransp type='float' value='0.6899999976158142'/>
+      </DirLight>
+      <Bloom>
+        <motion type='float' value='1.0'/>
+        <factor type='float' value='0.054999999701976776'/>
+        <threshold type='float' value='0.46000000834465027'/>
+      </Bloom>
+      <AOSettings>
+        <tint type='color' r='05' g='17' b='1A' a='FF'/>
+        <scale type='float' value='0.9599999785423279'/>
+        <depthStep type='float' value='0.06499999761581421'/>
+        <blurStrengh type='float' value='0.949999988079071'/>
+        <brightness type='float' value='1.0'/>
+        <contrast type='float' value='1.0'/>
+        <multiply type='bool' value='1'/>
+      </AOSettings>
+    </LightPreset>
+    <Water>
+      <skyName type='string' value='sky_cube_aivon.dds'/>
+      <diffuse type='color' r='FF' g='EB' b='EB' a='FF'/>
+      <ambient type='color' r='46' g='32' b='1E' a='FF'/>
+      <specColor type='color' r='FF' g='FF' b='FF' a='FF'/>
+      <specLevel type='float' value='52.0'/>
+      <glosiness type='float' value='0.20000000298023224'/>
+      <deepColor type='color' r='FF' g='8A' b='5A' a='FF'/>
+      <refPower type='float' value='1.0'/>
+      <waves0>
+        <texBump type='string' value='WaterPlain0008_2_S.dds'/>
+        <speed type='2d_point_f' x='-0.019999999552965164' y='-0.029999999329447746'/>
+        <scale type='float' value='2.0'/>
+        <power type='float' value='0.15000000596046448'/>
+      </waves0>
+      <waves1>
+        <texBump type='string' value='WaterPlain0012_2_S.dds'/>
+        <speed type='2d_point_f' x='-0.0010000000474974513' y='-0.0020000000949949026'/>
+        <scale type='float' value='0.5'/>
+        <power type='float' value='2.0'/>
+      </waves1>
+      <waves2>
+        <texBump type='string' value='WaterPlain0015_7_S.dds'/>
+        <speed type='2d_point_f' x='-0.009999999776482582' y='-0.019999999552965164'/>
+        <scale type='float' value='0.800000011920929'/>
+        <power type='float' value='1.0'/>
+      </waves2>
+    </Water>
+    <ShoreLine>
+      <texDiffuse type='string' value='shore_02.dds'/>
+      <texBump type='string' value='_void_bump.dds'/>
+    </ShoreLine>
+    <FoamLine>
+      <diffuse type='color' r='78' g='73' b='6E' a='64'/>
+      <ambient type='color' r='7F' g='6B' b='55' a='64'/>
+      <foam0>
+        <texDiffuse type='string' value='Foam01.dds'/>
+        <speed type='float' value='0.09000000357627869'/>
+        <scale type='2d_point_f' x='2.0' y='0.20000000298023224'/>
+      </foam0>
+      <foam1>
+        <texDiffuse type='string' value='Foam02.dds'/>
+        <speed type='float' value='0.05999999865889549'/>
+        <scale type='2d_point_f' x='1.0' y='0.30000001192092896'/>
+      </foam1>
+    </FoamLine>
+  </item>
+  <item>
+    <name type='string' value='Desert'/>
+    <LightPreset>
+      <DirLight>
+        <dir type='3d_point_f' x='0.30000001192092896' y='-0.8999999761581421' z='0.20000000298023224'/>
+        <ambient type='color' r='B9' g='8A' b='83' a='FF'/>
+        <diffuse type='color' r='B8' g='DF' b='F3' a='FF'/>
+        <shadow type='color' r='82' g='5E' b='50' a='FF'/>
+        <shadowTransp type='float' value='0.6899999976158142'/>
+      </DirLight>
+      <Bloom>
+        <motion type='float' value='1.0'/>
+        <factor type='float' value='0.054999999701976776'/>
+        <threshold type='float' value='0.4000000059604645'/>
+      </Bloom>
+      <AOSettings>
+        <tint type='color' r='05' g='17' b='1A' a='FF'/>
+        <scale type='float' value='0.9599999785423279'/>
+        <depthStep type='float' value='0.06499999761581421'/>
+        <blurStrengh type='float' value='0.949999988079071'/>
+        <brightness type='float' value='1.0'/>
+        <contrast type='float' value='1.0'/>
+        <multiply type='bool' value='1'/>
+      </AOSettings>
+    </LightPreset>
+    <Water>
+      <skyName type='string' value='sky_cube_aivon.dds'/>
+      <diffuse type='color' r='EB' g='EB' b='EB' a='FF'/>
+      <ambient type='color' r='14' g='00' b='00' a='FF'/>
+      <specColor type='color' r='FF' g='FF' b='FF' a='FF'/>
+      <specLevel type='float' value='52.0'/>
+      <glosiness type='float' value='0.20000000298023224'/>
+      <deepColor type='color' r='FF' g='8A' b='5A' a='FF'/>
+      <refPower type='float' value='1.0'/>
+      <waves0>
+        <texBump type='string' value='WaterPlain0008_2_S.dds'/>
+        <speed type='2d_point_f' x='-0.019999999552965164' y='-0.029999999329447746'/>
+        <scale type='float' value='2.0'/>
+        <power type='float' value='0.15000000596046448'/>
+      </waves0>
+      <waves1>
+        <texBump type='string' value='WaterPlain0012_2_S.dds'/>
+        <speed type='2d_point_f' x='-0.0010000000474974513' y='-0.0020000000949949026'/>
+        <scale type='float' value='0.5'/>
+        <power type='float' value='2.0'/>
+      </waves1>
+      <waves2>
+        <texBump type='string' value='WaterPlain0015_7_S.dds'/>
+        <speed type='2d_point_f' x='-0.009999999776482582' y='-0.019999999552965164'/>
+        <scale type='float' value='0.800000011920929'/>
+        <power type='float' value='1.0'/>
+      </waves2>
+    </Water>
+    <ShoreLine>
+      <texDiffuse type='string' value='shore_02.dds'/>
+      <texBump type='string' value='_void_bump.dds'/>
+    </ShoreLine>
+    <FoamLine>
+      <diffuse type='color' r='7F' g='7F' b='7F' a='FF'/>
+      <ambient type='color' r='7F' g='78' b='55' a='7F'/>
+      <foam0>
+        <texDiffuse type='string' value='Foam01.dds'/>
+        <speed type='float' value='0.10000000149011612'/>
+        <scale type='2d_point_f' x='2.0' y='0.30000001192092896'/>
+      </foam0>
+      <foam1>
+        <texDiffuse type='string' value='Foam02.dds'/>
+        <speed type='float' value='0.07000000029802322'/>
+        <scale type='2d_point_f' x='1.0' y='0.30000001192092896'/>
+      </foam1>
+    </FoamLine>
+  </item>
+  <item>
+    <name type='string' value='Evil'/>
+    <LightPreset>
+      <DirLight>
+        <dir type='3d_point_f' x='1.0' y='-0.8500000238418579' z='0.800000011920929'/>
+        <ambient type='color' r='7D' g='73' b='5A' a='FF'/>
+        <diffuse type='color' r='7C' g='AF' b='D2' a='FF'/>
+        <shadow type='color' r='82' g='5E' b='50' a='FF'/>
+        <shadowTransp type='float' value='0.550000011920929'/>
+      </DirLight>
+      <Bloom>
+        <motion type='float' value='1.0'/>
+        <factor type='float' value='0.07500000298023224'/>
+        <threshold type='float' value='0.27000001072883606'/>
+      </Bloom>
+      <AOSettings>
+        <tint type='color' r='9B' g='17' b='1A' a='FF'/>
+        <scale type='float' value='0.9599999785423279'/>
+        <depthStep type='float' value='0.06499999761581421'/>
+        <blurStrengh type='float' value='0.949999988079071'/>
+        <brightness type='float' value='1.0'/>
+        <contrast type='float' value='1.0'/>
+        <multiply type='bool' value='1'/>
+      </AOSettings>
+    </LightPreset>
+    <Water>
+      <skyName type='string' value='sky_cube_aivon.dds'/>
+      <diffuse type='color' r='87' g='EB' b='EB' a='FF'/>
+      <ambient type='color' r='14' g='28' b='64' a='FF'/>
+      <specColor type='color' r='FF' g='FF' b='FF' a='FF'/>
+      <specLevel type='float' value='62.0'/>
+      <glosiness type='float' value='0.10000000149011612'/>
+      <deepColor type='color' r='FF' g='8A' b='BE' a='FF'/>
+      <refPower type='float' value='0.6499999761581421'/>
+      <waves0>
+        <texBump type='string' value='WaterPlain0008_2_S.dds'/>
+        <speed type='2d_point_f' x='0.019999999552965164' y='0.029999999329447746'/>
+        <scale type='float' value='5.0'/>
+        <power type='float' value='0.15000000596046448'/>
+      </waves0>
+      <waves1>
+        <texBump type='string' value='WaterPlain0012_2_S.dds'/>
+        <speed type='2d_point_f' x='-0.0010000000474974513' y='-0.0020000000949949026'/>
+        <scale type='float' value='0.5'/>
+        <power type='float' value='2.0'/>
+      </waves1>
+      <waves2>
+        <texBump type='string' value='WaterPlain0015_7_S.dds'/>
+        <speed type='2d_point_f' x='-0.009999999776482582' y='0.019999999552965164'/>
+        <scale type='float' value='0.800000011920929'/>
+        <power type='float' value='1.0'/>
+      </waves2>
+    </Water>
+    <ShoreLine>
+      <texDiffuse type='string' value='shore_02.dds'/>
+      <texBump type='string' value='_void_bump.dds'/>
+    </ShoreLine>
+    <FoamLine>
+      <diffuse type='color' r='3C' g='3C' b='78' a='9B'/>
+      <ambient type='color' r='64' g='64' b='6E' a='6E'/>
+      <foam0>
+        <texDiffuse type='string' value='Foam01.dds'/>
+        <speed type='float' value='0.05999999865889549'/>
+        <scale type='2d_point_f' x='3.0' y='0.4000000059604645'/>
+      </foam0>
+      <foam1>
+        <texDiffuse type='string' value='Foam02.dds'/>
+        <speed type='float' value='0.03999999910593033'/>
+        <scale type='2d_point_f' x='0.75' y='0.30000001192092896'/>
+      </foam1>
+    </FoamLine>
+  </item>
+  <item>
+    <name type='string' value='Ice'/>
+    <LightPreset>
+      <DirLight>
+        <dir type='3d_point_f' x='1.399999976158142' y='-0.8999999761581421' z='0.4000000059604645'/>
+        <ambient type='color' r='CD' g='80' b='69' a='FF'/>
+        <diffuse type='color' r='9A' g='D2' b='FF' a='FF'/>
+        <shadow type='color' r='73' g='4A' b='32' a='FF'/>
+        <shadowTransp type='float' value='0.949999988079071'/>
+      </DirLight>
+      <Bloom>
+        <motion type='float' value='1.0'/>
+        <factor type='float' value='0.06199999898672104'/>
+        <threshold type='float' value='0.30000001192092896'/>
+      </Bloom>
+      <AOSettings>
+        <tint type='color' r='05' g='17' b='1A' a='FF'/>
+        <scale type='float' value='0.9599999785423279'/>
+        <depthStep type='float' value='0.06499999761581421'/>
+        <blurStrengh type='float' value='0.949999988079071'/>
+        <brightness type='float' value='1.0'/>
+        <contrast type='float' value='1.0'/>
+        <multiply type='bool' value='1'/>
+      </AOSettings>
+    </LightPreset>
+    <Water>
+      <skyName type='string' value='sky_cube_aivon.dds'/>
+      <diffuse type='color' r='EB' g='EB' b='EB' a='FF'/>
+      <ambient type='color' r='14' g='00' b='00' a='FF'/>
+      <specColor type='color' r='FF' g='FF' b='FF' a='FF'/>
+      <specLevel type='float' value='52.0'/>
+      <glosiness type='float' value='0.20000000298023224'/>
+      <deepColor type='color' r='FF' g='8A' b='5A' a='FF'/>
+      <refPower type='float' value='1.0'/>
+      <waves0>
+        <texBump type='string' value='WaterPlain0008_2_S.dds'/>
+        <speed type='2d_point_f' x='-0.019999999552965164' y='-0.029999999329447746'/>
+        <scale type='float' value='2.0'/>
+        <power type='float' value='0.15000000596046448'/>
+      </waves0>
+      <waves1>
+        <texBump type='string' value='WaterPlain0012_2_S.dds'/>
+        <speed type='2d_point_f' x='-0.0010000000474974513' y='-0.0020000000949949026'/>
+        <scale type='float' value='0.5'/>
+        <power type='float' value='2.0'/>
+      </waves1>
+      <waves2>
+        <texBump type='string' value='WaterPlain0015_7_S.dds'/>
+        <speed type='2d_point_f' x='-0.009999999776482582' y='-0.019999999552965164'/>
+        <scale type='float' value='0.800000011920929'/>
+        <power type='float' value='1.0'/>
+      </waves2>
+    </Water>
+    <ShoreLine>
+      <texDiffuse type='string' value='shore_02.dds'/>
+      <texBump type='string' value='_void_bump.dds'/>
+    </ShoreLine>
+    <FoamLine>
+      <diffuse type='color' r='7F' g='7F' b='7F' a='FF'/>
+      <ambient type='color' r='7F' g='78' b='55' a='7F'/>
+      <foam0>
+        <texDiffuse type='string' value='Foam01.dds'/>
+        <speed type='float' value='0.10000000149011612'/>
+        <scale type='2d_point_f' x='2.0' y='0.30000001192092896'/>
+      </foam0>
+      <foam1>
+        <texDiffuse type='string' value='Foam02.dds'/>
+        <speed type='float' value='0.07000000029802322'/>
+        <scale type='2d_point_f' x='1.0' y='0.30000001192092896'/>
+      </foam1>
+    </FoamLine>
+  </item>
+  <item>
+    <name type='string' value='Lava'/>
+    <LightPreset>
+      <DirLight>
+        <dir type='3d_point_f' x='1.0' y='-0.800000011920929' z='0.5'/>
+        <ambient type='color' r='A5' g='73' b='78' a='FF'/>
+        <diffuse type='color' r='7C' g='AF' b='FF' a='FF'/>
+        <shadow type='color' r='82' g='5E' b='50' a='FF'/>
+        <shadowTransp type='float' value='0.800000011920929'/>
+      </DirLight>
+      <Bloom>
+        <motion type='float' value='1.0'/>
+        <factor type='float' value='0.07000000029802322'/>
+        <threshold type='float' value='0.30000001192092896'/>
+      </Bloom>
+      <AOSettings>
+        <tint type='color' r='05' g='17' b='1A' a='FF'/>
+        <scale type='float' value='0.9599999785423279'/>
+        <depthStep type='float' value='0.06499999761581421'/>
+        <blurStrengh type='float' value='0.949999988079071'/>
+        <brightness type='float' value='1.0'/>
+        <contrast type='float' value='1.0'/>
+        <multiply type='bool' value='1'/>
+      </AOSettings>
+    </LightPreset>
+    <Water>
+      <skyName type='string' value='sky_cube_aivon.dds'/>
+      <diffuse type='color' r='EB' g='EB' b='EB' a='FF'/>
+      <ambient type='color' r='14' g='00' b='00' a='FF'/>
+      <specColor type='color' r='FF' g='FF' b='FF' a='FF'/>
+      <specLevel type='float' value='52.0'/>
+      <glosiness type='float' value='0.20000000298023224'/>
+      <deepColor type='color' r='FF' g='8A' b='5A' a='FF'/>
+      <refPower type='float' value='1.0'/>
+      <waves0>
+        <texBump type='string' value='WaterPlain0008_2_S.dds'/>
+        <speed type='2d_point_f' x='-0.019999999552965164' y='-0.029999999329447746'/>
+        <scale type='float' value='2.0'/>
+        <power type='float' value='0.15000000596046448'/>
+      </waves0>
+      <waves1>
+        <texBump type='string' value='WaterPlain0012_2_S.dds'/>
+        <speed type='2d_point_f' x='-0.0010000000474974513' y='-0.0020000000949949026'/>
+        <scale type='float' value='0.5'/>
+        <power type='float' value='2.0'/>
+      </waves1>
+      <waves2>
+        <texBump type='string' value='WaterPlain0015_7_S.dds'/>
+        <speed type='2d_point_f' x='-0.009999999776482582' y='-0.019999999552965164'/>
+        <scale type='float' value='0.800000011920929'/>
+        <power type='float' value='1.0'/>
+      </waves2>
+    </Water>
+    <ShoreLine>
+      <texDiffuse type='string' value='shore_02.dds'/>
+      <texBump type='string' value='_void_bump.dds'/>
+    </ShoreLine>
+    <FoamLine>
+      <diffuse type='color' r='7F' g='7F' b='7F' a='FF'/>
+      <ambient type='color' r='7F' g='78' b='55' a='7F'/>
+      <foam0>
+        <texDiffuse type='string' value='Foam01.dds'/>
+        <speed type='float' value='0.10000000149011612'/>
+        <scale type='2d_point_f' x='2.0' y='0.30000001192092896'/>
+      </foam0>
+      <foam1>
+        <texDiffuse type='string' value='Foam02.dds'/>
+        <speed type='float' value='0.07000000029802322'/>
+        <scale type='2d_point_f' x='1.0' y='0.30000001192092896'/>
+      </foam1>
+    </FoamLine>
+  </item>
+  <item>
+    <name type='string' value='Moon'/>
+    <LightPreset>
+      <DirLight>
+        <dir type='3d_point_f' x='-0.8999999761581421' y='-1.100000023841858' z='1.5'/>
+        <ambient type='color' r='7D' g='76' b='7D' a='FF'/>
+        <diffuse type='color' r='FF' g='CD' b='E9' a='FF'/>
+        <shadow type='color' r='82' g='5E' b='50' a='FF'/>
+        <shadowTransp type='float' value='2.0'/>
+      </DirLight>
+      <Bloom>
+        <motion type='float' value='0.800000011920929'/>
+        <factor type='float' value='0.0949999988079071'/>
+        <threshold type='float' value='0.2199999988079071'/>
+      </Bloom>
+      <AOSettings>
+        <tint type='color' r='05' g='17' b='1A' a='FF'/>
+        <scale type='float' value='0.9599999785423279'/>
+        <depthStep type='float' value='0.06499999761581421'/>
+        <blurStrengh type='float' value='0.949999988079071'/>
+        <brightness type='float' value='1.0'/>
+        <contrast type='float' value='1.0'/>
+        <multiply type='bool' value='1'/>
+      </AOSettings>
+    </LightPreset>
+    <Water>
+      <skyName type='string' value='sky_cube_aivon.dds'/>
+      <diffuse type='color' r='EB' g='EB' b='EB' a='FF'/>
+      <ambient type='color' r='14' g='00' b='00' a='FF'/>
+      <specColor type='color' r='FF' g='FF' b='FF' a='FF'/>
+      <specLevel type='float' value='52.0'/>
+      <glosiness type='float' value='0.20000000298023224'/>
+      <deepColor type='color' r='FF' g='8A' b='5A' a='FF'/>
+      <refPower type='float' value='1.0'/>
+      <waves0>
+        <texBump type='string' value='WaterPlain0008_2_S.dds'/>
+        <speed type='2d_point_f' x='-0.019999999552965164' y='-0.029999999329447746'/>
+        <scale type='float' value='2.0'/>
+        <power type='float' value='0.15000000596046448'/>
+      </waves0>
+      <waves1>
+        <texBump type='string' value='WaterPlain0012_2_S.dds'/>
+        <speed type='2d_point_f' x='-0.0010000000474974513' y='-0.0020000000949949026'/>
+        <scale type='float' value='0.5'/>
+        <power type='float' value='2.0'/>
+      </waves1>
+      <waves2>
+        <texBump type='string' value='WaterPlain0015_7_S.dds'/>
+        <speed type='2d_point_f' x='-0.009999999776482582' y='-0.019999999552965164'/>
+        <scale type='float' value='0.800000011920929'/>
+        <power type='float' value='1.0'/>
+      </waves2>
+    </Water>
+    <ShoreLine>
+      <texDiffuse type='string' value='shore_03_moon.dds'/>
+      <texBump type='string' value='_void_bump.dds'/>
+    </ShoreLine>
+    <FoamLine>
+      <diffuse type='color' r='7F' g='7F' b='7F' a='FF'/>
+      <ambient type='color' r='7F' g='78' b='55' a='7F'/>
+      <foam0>
+        <texDiffuse type='string' value='Foam01.dds'/>
+        <speed type='float' value='0.10000000149011612'/>
+        <scale type='2d_point_f' x='2.0' y='0.30000001192092896'/>
+      </foam0>
+      <foam1>
+        <texDiffuse type='string' value='Foam02.dds'/>
+        <speed type='float' value='0.07000000029802322'/>
+        <scale type='2d_point_f' x='1.0' y='0.30000001192092896'/>
+      </foam1>
+    </FoamLine>
+  </item>
+  <item>
+    <name type='string' value='Myrra'/>
+    <LightPreset>
+      <DirLight>
+        <dir type='3d_point_f' x='-0.699999988079071' y='-0.6000000238418579' z='0.6000000238418579'/>
+        <ambient type='color' r='94' g='B9' b='83' a='FF'/>
+        <diffuse type='color' r='F8' g='7C' b='DF' a='FF'/>
+        <shadow type='color' r='5E' g='82' b='50' a='FF'/>
+        <shadowTransp type='float' value='0.800000011920929'/>
+      </DirLight>
+      <Bloom>
+        <motion type='float' value='1.0'/>
+        <factor type='float' value='0.05999999865889549'/>
+        <threshold type='float' value='0.25999999046325684'/>
+      </Bloom>
+      <AOSettings>
+        <tint type='color' r='05' g='17' b='1A' a='FF'/>
+        <scale type='float' value='0.9599999785423279'/>
+        <depthStep type='float' value='0.06499999761581421'/>
+        <blurStrengh type='float' value='0.949999988079071'/>
+        <brightness type='float' value='1.0'/>
+        <contrast type='float' value='1.0'/>
+        <multiply type='bool' value='1'/>
+      </AOSettings>
+    </LightPreset>
+    <Water>
+      <skyName type='string' value='sky_cube_aivon.dds'/>
+      <diffuse type='color' r='EB' g='EB' b='EB' a='FF'/>
+      <ambient type='color' r='14' g='00' b='00' a='FF'/>
+      <specColor type='color' r='FF' g='FF' b='FF' a='FF'/>
+      <specLevel type='float' value='52.0'/>
+      <glosiness type='float' value='0.20000000298023224'/>
+      <deepColor type='color' r='FF' g='8A' b='5A' a='FF'/>
+      <refPower type='float' value='1.0'/>
+      <waves0>
+        <texBump type='string' value='WaterPlain0008_2_S.dds'/>
+        <speed type='2d_point_f' x='-0.019999999552965164' y='-0.029999999329447746'/>
+        <scale type='float' value='2.0'/>
+        <power type='float' value='0.15000000596046448'/>
+      </waves0>
+      <waves1>
+        <texBump type='string' value='WaterPlain0012_2_S.dds'/>
+        <speed type='2d_point_f' x='-0.0010000000474974513' y='-0.0020000000949949026'/>
+        <scale type='float' value='0.5'/>
+        <power type='float' value='2.0'/>
+      </waves1>
+      <waves2>
+        <texBump type='string' value='WaterPlain0015_7_S.dds'/>
+        <speed type='2d_point_f' x='-0.009999999776482582' y='-0.019999999552965164'/>
+        <scale type='float' value='0.800000011920929'/>
+        <power type='float' value='1.0'/>
+      </waves2>
+    </Water>
+    <ShoreLine>
+      <texDiffuse type='string' value='shore_04_myrra.dds'/>
+      <texBump type='string' value='_void_bump.dds'/>
+    </ShoreLine>
+    <FoamLine>
+      <diffuse type='color' r='7F' g='7F' b='7F' a='FF'/>
+      <ambient type='color' r='7F' g='78' b='55' a='7F'/>
+      <foam0>
+        <texDiffuse type='string' value='Foam01.dds'/>
+        <speed type='float' value='0.10000000149011612'/>
+        <scale type='2d_point_f' x='2.0' y='0.30000001192092896'/>
+      </foam0>
+      <foam1>
+        <texDiffuse type='string' value='Foam02.dds'/>
+        <speed type='float' value='0.07000000029802322'/>
+        <scale type='2d_point_f' x='1.0' y='0.30000001192092896'/>
+      </foam1>
+    </FoamLine>
+  </item>
+  <item>
+    <name type='string' value='Outlands'/>
+    <LightPreset>
+      <DirLight>
+        <dir type='3d_point_f' x='1.0' y='-0.800000011920929' z='0.4000000059604645'/>
+        <ambient type='color' r='B9' g='80' b='79' a='FF'/>
+        <diffuse type='color' r='AE' g='DF' b='FF' a='FF'/>
+        <shadow type='color' r='82' g='5E' b='50' a='FF'/>
+        <shadowTransp type='float' value='0.8899999856948853'/>
+      </DirLight>
+      <Bloom>
+        <motion type='float' value='1.0'/>
+        <factor type='float' value='0.06499999761581421'/>
+        <threshold type='float' value='0.36000001430511475'/>
+      </Bloom>
+      <AOSettings>
+        <tint type='color' r='05' g='17' b='1A' a='FF'/>
+        <scale type='float' value='0.9599999785423279'/>
+        <depthStep type='float' value='0.06499999761581421'/>
+        <blurStrengh type='float' value='0.949999988079071'/>
+        <brightness type='float' value='1.0'/>
+        <contrast type='float' value='1.0'/>
+        <multiply type='bool' value='1'/>
+      </AOSettings>
+    </LightPreset>
+    <Water>
+      <skyName type='string' value='sky_cube_aivon.dds'/>
+      <diffuse type='color' r='EB' g='E1' b='E1' a='FF'/>
+      <ambient type='color' r='0A' g='00' b='00' a='FF'/>
+      <specColor type='color' r='FF' g='FF' b='FF' a='FF'/>
+      <specLevel type='float' value='52.0'/>
+      <glosiness type='float' value='0.20000000298023224'/>
+      <deepColor type='color' r='FF' g='80' b='50' a='FF'/>
+      <refPower type='float' value='1.0'/>
+      <waves0>
+        <texBump type='string' value='WaterPlain0008_2_S.dds'/>
+        <speed type='2d_point_f' x='-0.019999999552965164' y='-0.029999999329447746'/>
+        <scale type='float' value='2.0'/>
+        <power type='float' value='0.15000000596046448'/>
+      </waves0>
+      <waves1>
+        <texBump type='string' value='WaterPlain0012_2_S.dds'/>
+        <speed type='2d_point_f' x='-0.0010000000474974513' y='-0.0020000000949949026'/>
+        <scale type='float' value='0.5'/>
+        <power type='float' value='2.0'/>
+      </waves1>
+      <waves2>
+        <texBump type='string' value='WaterPlain0015_7_S.dds'/>
+        <speed type='2d_point_f' x='-0.009999999776482582' y='-0.019999999552965164'/>
+        <scale type='float' value='0.800000011920929'/>
+        <power type='float' value='1.0'/>
+      </waves2>
+    </Water>
+    <ShoreLine>
+      <texDiffuse type='string' value='shore_02.dds'/>
+      <texBump type='string' value='_void_bump.dds'/>
+    </ShoreLine>
+    <FoamLine>
+      <diffuse type='color' r='7F' g='7F' b='7F' a='FF'/>
+      <ambient type='color' r='7F' g='78' b='55' a='7F'/>
+      <foam0>
+        <texDiffuse type='string' value='Foam01.dds'/>
+        <speed type='float' value='0.10000000149011612'/>
+        <scale type='2d_point_f' x='2.0' y='0.30000001192092896'/>
+      </foam0>
+      <foam1>
+        <texDiffuse type='string' value='Foam02.dds'/>
+        <speed type='float' value='0.07000000029802322'/>
+        <scale type='2d_point_f' x='1.0' y='0.30000001192092896'/>
+      </foam1>
+    </FoamLine>
+  </item>
+</Root>

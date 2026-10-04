@@ -1,0 +1,544 @@
+<Root>
+  <Unit>
+    <name type='string' value='s_imp'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='s_imp_fire'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='s_imp_adv'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='s_imp_fire'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='e_spirit_of_death'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='bld_imp_portal_fx'/>
+      </RefPoint>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='bld_w_demons_hell'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='e_phoenix'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_fx01'/>
+        <sfx type='string' value='sfx_volcano_sparks'/>
+      </RefPoint>
+      <RefPoint>
+        <name type='string' value='ref_fx02'/>
+        <sfx type='string' value='fx_res_inferno_rift'/>
+      </RefPoint>
+      <RefPoint>
+        <name type='string' value='ref_fx03'/>
+        <sfx type='string' value='sfx_volcano_heat'/>
+      </RefPoint>
+      <RefPoint>
+        <name type='string' value='ref_fx02'/>
+        <sfx type='string' value='sfx_volcano_sparks'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='u_bomber'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_p_fx01'/>
+        <sfx type='string' value='u_bomber_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='u_bomber_adv'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_p_fx01'/>
+        <sfx type='string' value='u_bomber_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='u_ship_cargo'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_p_fx01'/>
+        <sfx type='string' value='u_ship_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='u_ship_war'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_p_fx01'/>
+        <sfx type='string' value='u_ship_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='m_ship_war'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_p_torch01'/>
+        <sfx type='string' value='m_ship_torchlight'/>
+      </RefPoint>
+      <RefPoint>
+        <name type='string' value='ref_p_torch02'/>
+        <sfx type='string' value='m_ship_torchlight'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='m_ship_adv'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_p_torch01'/>
+        <sfx type='string' value='m_ship_torchlight'/>
+      </RefPoint>
+      <RefPoint>
+        <name type='string' value='ref_p_torch02'/>
+        <sfx type='string' value='m_ship_torchlight'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='u_ghost'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='u_ghost_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='u_lich'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='u_lich_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='u_lich_adv'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='u_lich_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='s_elemental_earth'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='s_elemental_lightning_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='s_elemental_earth_adv'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='s_elemental_lightning_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='s_elemental_fire'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='s_elemental_fire_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='s_elemental_fire_adv'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='s_elemental_fire_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='w_elemental_water'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='elemental_water_sfx'/>
+      </RefPoint>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='bld_c_temple_agrela_fx'/>
+      </RefPoint>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='bld_c_temple_agrela_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='w_elemental_diamond'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='elemental_diamond_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='u_adept'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='u_adept_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='u_adept_adv'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='u_adept_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='w_ghost_bad'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='ghost_bad_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='w_cockroach_hell'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='cockroach_hell_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='w_wolf_nightmare'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='wolf_nightmare_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='w_treant'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='w_treant_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='w_treant_dry'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='treant_dry_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='s_tree_agrelas'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='w_treant_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='g_helia'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='g_helia_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='g_krypta'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='g_krypta_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='g_lunord'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='g_lunord_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='g_agrela'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='g_agrela_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='g_fervus'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='g_fervus_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='g_dauros'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='g_dauros_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='g_grumgog'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='g_grumgog_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='g_krolm'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_p_weapon_R'/>
+        <sfx type='string' value='g_krolm_sfx'/>
+      </RefPoint>
+      <RefPoint>
+        <name type='string' value='ref_p_weapon_L'/>
+        <sfx type='string' value='g_krolm_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='s_totem'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='lizard_totem_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='lord_imp'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='lord_imp_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='lord_barlog'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_fx_arm_R'/>
+        <sfx type='string' value='s_imp_fire'/>
+      </RefPoint>
+      <RefPoint>
+        <name type='string' value='ref_fx_elbow_R'/>
+        <sfx type='string' value='s_imp_fire'/>
+      </RefPoint>
+      <RefPoint>
+        <name type='string' value='ref_fx_arm_L'/>
+        <sfx type='string' value='s_imp_fire'/>
+      </RefPoint>
+      <RefPoint>
+        <name type='string' value='ref_fx_elbow_L'/>
+        <sfx type='string' value='s_imp_fire'/>
+      </RefPoint>
+      <RefPoint>
+        <name type='string' value='ref_fx01'/>
+        <sfx type='string' value='barlog_stat_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='lord_paladin_spirit'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='lord_paladin_spirit_idle_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='lord_lich'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='lord_lich_idle_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='lord_ghost'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='lord_ghost_static_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='e_elf_settler'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_fx01'/>
+        <sfx type='string' value='e_spirit_of_life_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='e_spirit_of_life'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='e_spirit_of_life_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='e_spirit_of_death'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_fx01'/>
+        <sfx type='string' value='e_spirit_of_death_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='e_elf_lancer'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_fx01'/>
+        <sfx type='string' value='e_elf_lancer_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='e_elf_lancer_adv'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_fx01'/>
+        <sfx type='string' value='e_elf_lancer_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='e_flying_island'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_fx01'/>
+        <sfx type='string' value='e_flying_island_01_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='e_flying_island_adv'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_fx01'/>
+        <sfx type='string' value='e_flying_island_adv_01_sfx'/>
+      </RefPoint>
+      <RefPoint>
+        <name type='string' value='ref_fx02'/>
+        <sfx type='string' value='e_flying_island_adv_02_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='z_evil_mage'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='z_evil_mage_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='z_evil_sturdy'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='z_evil_sturdy_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='z_evil_thrower'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='ref_chest_fx_point'/>
+        <sfx type='string' value='z_evil_thrower_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='z_defeated_great_mage'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='z_defeated_great_mage_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='z_villain_of_piece'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='z_villain_of_piece_sfx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+  <Unit>
+    <name type='string' value='w_spider_red'/>
+    <RefPoints>
+      <RefPoint>
+        <name type='string' value='root'/>
+        <sfx type='string' value='spider_red_stat_fx'/>
+      </RefPoint>
+    </RefPoints>
+  </Unit>
+</Root>

@@ -1,0 +1,102 @@
+<RandomEventDataList>
+  <Events>
+    <RandomEventData>
+      <name type='string' value='SpawnLocations'/>
+      <frequency type='integer' value='20'/>
+      <firstTurn type='2d_point_i' x='4294967295' y='4294967295'/>
+      <armageddon type='bool' value='0'/>
+      <dlcs>
+        <dlcList>
+        </dlcList>
+      </dlcs>
+    </RandomEventData>
+    <RandomEventData>
+      <name type='string' value='HeroCome'/>
+      <frequency type='integer' value='9'/>
+      <firstTurn type='2d_point_i' x='4294967295' y='4294967295'/>
+      <armageddon type='bool' value='0'/>
+      <dlcs>
+        <dlcList>
+        </dlcList>
+      </dlcs>
+    </RandomEventData>
+    <RandomEventData>
+      <name type='string' value='ArtifactTrader'/>
+      <frequency type='integer' value='4'/>
+      <firstTurn type='2d_point_i' x='10' y='20'/>
+      <armageddon type='bool' value='0'/>
+      <dlcs>
+        <dlcList>
+        </dlcList>
+      </dlcs>
+    </RandomEventData>
+    <RandomEventData>
+      <name type='string' value='Terraforming'/>
+      <frequency type='integer' value='33'/>
+      <firstTurn type='2d_point_i' x='7' y='12'/>
+      <armageddon type='bool' value='1'/>
+      <dlcs>
+        <dlcList>
+          <Item type='integer' value='5'/>
+        </dlcList>
+      </dlcs>
+    </RandomEventData>
+    <RandomEventData>
+      <name type='string' value='Evil'/>
+      <frequency type='integer' value='10'/>
+      <firstTurn type='2d_point_i' x='22' y='33'/>
+      <armageddon type='bool' value='1'/>
+      <dlcs>
+        <dlcList>
+          <Item type='integer' value='5'/>
+        </dlcList>
+      </dlcs>
+    </RandomEventData>
+  </Events>
+  <TerrEvents>
+    <TerraformingEventData>
+      <name type='string' value='vulcano'/>
+      <weight type='integer' value='1'/>
+      <spellSubTile type='string' value='vulcano'/>
+      <cityDensity type='float' value='0.5'/>
+      <cityDistance type='2d_point_i' x='5' y='9'/>
+      <aoeType type='string' value='aoe_1'/>
+      <targetHexes type='2d_point_i' x='1' y='3'/>
+      <additionHexes type='2d_point_i' x='4' y='5'/>
+      <specialFx type='string' value='sp_tr_any2volcano'/>
+    </TerraformingEventData>
+    <TerraformingEventData>
+      <name type='string' value='meteor'/>
+      <weight type='integer' value='1'/>
+      <spellSubTile type='string' value='burn'/>
+      <cityDensity type='float' value='0.5'/>
+      <cityDistance type='2d_point_i' x='4' y='9'/>
+      <aoeType type='string' value='aoe_7'/>
+      <targetHexes type='2d_point_i' x='1' y='1'/>
+      <additionHexes type='2d_point_i' x='1' y='1'/>
+      <specialFx type='string' value='sp_tr_meteor_fall'/>
+    </TerraformingEventData>
+    <TerraformingEventData>
+      <name type='string' value='earthquake'/>
+      <weight type='integer' value='0'/>
+      <spellSubTile type='string' value='evil_gates_explosion'/>
+      <cityDensity type='float' value='0.5'/>
+      <cityDistance type='2d_point_i' x='4' y='9'/>
+      <aoeType type='string' value='aoe_1'/>
+      <targetHexes type='2d_point_i' x='1' y='2'/>
+      <additionHexes type='2d_point_i' x='1' y='2'/>
+      <specialFx type='string' value='sp_tr_earthquake'/>
+    </TerraformingEventData>
+    <TerraformingEventData>
+      <name type='string' value='evil_gates_spawn'/>
+      <weight type='integer' value='0'/>
+      <spellSubTile type='string' value='evil_gates_spawn'/>
+      <cityDensity type='float' value='0.699999988079071'/>
+      <cityDistance type='2d_point_i' x='4' y='9'/>
+      <aoeType type='string' value='aoe_1'/>
+      <targetHexes type='2d_point_i' x='1' y='3'/>
+      <additionHexes type='2d_point_i' x='4' y='5'/>
+      <specialFx type='string' value='Evil_node_spawn_sfx'/>
+    </TerraformingEventData>
+  </TerrEvents>
+</RandomEventDataList>

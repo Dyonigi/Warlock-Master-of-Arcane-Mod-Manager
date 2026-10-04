@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IdleSounds>
+	<s_structGroupName>moar_project/Buildings/Buildings_Idle</s_structGroupName>
+	<s_unitGroupName>moar_project/Units/Units_Idle</s_unitGroupName>
+	<f_maxDistance>75.00000000</f_maxDistance>
+	<StructureSoundEventList>
+		<StructureSoundEvent>
+			<s_structure>bld_a_dwarf_forge</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_a_dwarf_guild</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_a_dwarf_training</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_a_elf_bow_training</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_a_elf_bungalo</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_a_elf_casino</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_a_halberdier_guild</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_a_halberdier_training</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_a_knight_donkey_guild</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_a_lizardman_guild</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_a_minotaur_labyrinth</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_a_minotaur_pyramid</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_a_minotaur_training</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_a_serpentarium</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_a_war_university</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_adamantium_armory</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_alchemy_market</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_bank</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_barracks</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_craftsmen_district</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_demonologist</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_enchanters_armory</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_excavations</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_farm</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_farm_pig</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_farm_pumpkin</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_foundry</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_granary</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_harbor</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_jewelry</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_magic_polygon</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_magic_receiver</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_mana_pump</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_market</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_mill</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_mine_gems</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_mine_gold</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_mine_silver</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_money_yard</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_nevril_armory</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_shipyard</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_smithy</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_tax_collector</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_temple_agrela</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_temple_dauros</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_temple_fervus</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_temple_grumgog</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_temple_helia</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_temple_krolm</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_temple_krypta</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_temple_lunord</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_tradepost</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_training_grounds</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_university</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_c_war_academy</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_e_capital</s_structure>
+			<s_animation/>
+			<s_eventName>dark elves castle 1</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_e_capital</s_structure>
+			<s_animation/>
+			<s_eventName>dark elves castle 2</s_eventName>
+			<i_units>1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_e_capital</s_structure>
+			<s_animation/>
+			<s_eventName>dark elves castle 3</s_eventName>
+			<i_units>2</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_e_capital</s_structure>
+			<s_animation/>
+			<s_eventName>dark elves castle 3</s_eventName>
+			<i_units>3</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_e_castle</s_structure>
+			<s_animation/>
+			<s_eventName>dark elves castle 1</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_e_castle</s_structure>
+			<s_animation/>
+			<s_eventName>dark elves castle 2</s_eventName>
+			<i_units>1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_e_castle</s_structure>
+			<s_animation/>
+			<s_eventName>dark elves castle 3</s_eventName>
+			<i_units>2</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_e_castle</s_structure>
+			<s_animation/>
+			<s_eventName>dark elves castle 3</s_eventName>
+			<i_units>3</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_golden_dragon_nest</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_bakery</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_capital</s_structure>
+			<s_animation/>
+			<s_eventName>human castle 1</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_capital</s_structure>
+			<s_animation/>
+			<s_eventName>human castle 2</s_eventName>
+			<i_units>1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_capital</s_structure>
+			<s_animation/>
+			<s_eventName>human castle 3</s_eventName>
+			<i_units>2</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_capital</s_structure>
+			<s_animation/>
+			<s_eventName>human castle 4</s_eventName>
+			<i_units>3</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_castle</s_structure>
+			<s_animation/>
+			<s_eventName>human castle 1</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_castle</s_structure>
+			<s_animation/>
+			<s_eventName>human castle 2</s_eventName>
+			<i_units>1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_castle</s_structure>
+			<s_animation/>
+			<s_eventName>human castle 3</s_eventName>
+			<i_units>2</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_castle</s_structure>
+			<s_animation/>
+			<s_eventName>human castle 4</s_eventName>
+			<i_units>3</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_dragon_farm</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_garden_magic</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_guild_cleric</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_guild_mage</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_guild_mechanic</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_guild_ranger</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_guild_rogue</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_guild_warrior</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_library</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_money_keepers</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_silver_weaponry</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_tower_guard</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_h_tower_magic</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_butchery</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_capital</s_structure>
+			<s_animation/>
+			<s_eventName>monster castle 1</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_capital</s_structure>
+			<s_animation/>
+			<s_eventName>monster castle 2</s_eventName>
+			<i_units>1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_capital</s_structure>
+			<s_animation/>
+			<s_eventName>monster castle 3</s_eventName>
+			<i_units>2</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_capital</s_structure>
+			<s_animation/>
+			<s_eventName>mosnter castle 4</s_eventName>
+			<i_units>3</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_castle</s_structure>
+			<s_animation/>
+			<s_eventName>monster castle 1</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_castle</s_structure>
+			<s_animation/>
+			<s_eventName>monster castle 2</s_eventName>
+			<i_units>1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_castle</s_structure>
+			<s_animation/>
+			<s_eventName>monster castle 3</s_eventName>
+			<i_units>2</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_castle</s_structure>
+			<s_animation/>
+			<s_eventName>mosnter castle 4</s_eventName>
+			<i_units>3</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_cheese_cave</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_dragon_farm</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_eatery</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_elevator</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_fish_village</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_guild_goblin_spearmen</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_guild_ratman</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_guild_shaman</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_guild_troll</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_guild_werewolf</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_laboratory</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_shrine_pumpkin</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_silver_mine</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_tower_guard</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_m_tower_magic</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_red_dragon_nest</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_capital</s_structure>
+			<s_animation/>
+			<s_eventName>undead castle 1</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_capital</s_structure>
+			<s_animation/>
+			<s_eventName>undead castle 2</s_eventName>
+			<i_units>1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_capital</s_structure>
+			<s_animation/>
+			<s_eventName>undead castle 3</s_eventName>
+			<i_units>2</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_capital</s_structure>
+			<s_animation/>
+			<s_eventName>undead castle 4</s_eventName>
+			<i_units>3</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_castle</s_structure>
+			<s_animation/>
+			<s_eventName>undead castle 1</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_castle</s_structure>
+			<s_animation/>
+			<s_eventName>undead castle 2</s_eventName>
+			<i_units>1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_castle</s_structure>
+			<s_animation/>
+			<s_eventName>undead castle 3</s_eventName>
+			<i_units>2</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_castle</s_structure>
+			<s_animation/>
+			<s_eventName>undead castle 4</s_eventName>
+			<i_units>3</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_dragon_glasshouse</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_guild_bomber</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_guild_dragon_two_head</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_guild_skeleton_war</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_guild_vampire</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_guild_zombie</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_magic_farm</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_magic_granary</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_magic_mill</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_magic_transformation</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_pumpkin_fields</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_silver_transmutation</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_tower_guard</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_u_tower_magic</s_structure>
+			<s_animation/>
+			<s_eventName>building is building simple</s_eventName>
+			<i_units>-1</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_w_bear_den</s_structure>
+			<s_animation/>
+			<s_eventName>bear den</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_w_dump</s_structure>
+			<s_animation/>
+			<s_eventName>roach den</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_w_elemental_portal</s_structure>
+			<s_animation/>
+			<s_eventName>elemental portal</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_w_imp_portal</s_structure>
+			<s_animation/>
+			<s_eventName>imp portal</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_w_magic_glade</s_structure>
+			<s_animation/>
+			<s_eventName>magic glade</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_w_ratman_den</s_structure>
+			<s_animation/>
+			<s_eventName>ratman den</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_w_spider_hole</s_structure>
+			<s_animation/>
+			<s_eventName>spider hole</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_w_wolf_den</s_structure>
+			<s_animation/>
+			<s_eventName>wolf den</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_w_wolfman_den</s_structure>
+			<s_animation/>
+			<s_eventName>wolf den</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_z_evil_castle</s_structure>
+			<s_animation/>
+			<s_eventName>evil castle</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_z_evil_castle_tower</s_structure>
+			<s_animation/>
+			<s_eventName>evil castle</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_z_evil_gate</s_structure>
+			<s_animation/>
+			<s_eventName>evil gate</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>bld_z_evil_tower</s_structure>
+			<s_animation/>
+			<s_eventName>evil gate</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>tel_teleport1</s_structure>
+			<s_animation/>
+			<s_eventName>teleport</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+		<StructureSoundEvent>
+			<s_structure>tel_teleport2</s_structure>
+			<s_animation/>
+			<s_eventName>teleport</s_eventName>
+			<i_units>0</i_units>
+		</StructureSoundEvent>
+	</StructureSoundEventList>
+	<UnitSoundEventList>
+		<UnitSoundEvent>
+			<s_structure>a_dragon_gold</s_structure>
+			<s_animation>a_dragon_red_idle_random.bca</s_animation>
+			<s_eventName>dragon idle random</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>a_dragon_gold</s_structure>
+			<s_animation>a_dragon_red_idle.bca</s_animation>
+			<s_eventName>dragon idle</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>a_dragon_red</s_structure>
+			<s_animation>a_dragon_red_idle_random.bca</s_animation>
+			<s_eventName>dragon idle random</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>a_dragon_red</s_structure>
+			<s_animation>a_dragon_red_idle.bca</s_animation>
+			<s_eventName>dragon idle</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>e_dragon_rider</s_structure>
+			<s_animation>e_dragon_rider_idle_random.bca</s_animation>
+			<s_eventName>dragon idle random</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>e_dragon_rider</s_structure>
+			<s_animation>e_dragon_rider_idle.bca</s_animation>
+			<s_eventName>dragon idle</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>e_flying_island</s_structure>
+			<s_animation>e_flying_island_idle.bca</s_animation>
+			<s_eventName>flying ship idle</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>e_flying_island_adv</s_structure>
+			<s_animation>e_flying_island_adv_idle.bca</s_animation>
+			<s_eventName>flying ship idle</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>e_phoenix</s_structure>
+			<s_animation>e_phoenix_idle.bca</s_animation>
+			<s_eventName>phoenix idle</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>s_dragon_two_head</s_structure>
+			<s_animation>s_dragon_two_head_idle_random.bca</s_animation>
+			<s_eventName>dragon twohead idle random</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>s_dragon_two_head</s_structure>
+			<s_animation>s_dragon_two_head_idle.bca</s_animation>
+			<s_eventName>dragon idle</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>sea_serpent</s_structure>
+			<s_animation>sea_serpent_idle_random.bca</s_animation>
+			<s_eventName>sea serpent idle</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>u_dragon_bone_twohead</s_structure>
+			<s_animation>u_dragon_two_head_idle_random.bca</s_animation>
+			<s_eventName>dragon bone idle random</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>u_dragon_bone_twohead</s_structure>
+			<s_animation>u_dragon_two_head_idle.bca</s_animation>
+			<s_eventName>dragon bone idle</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>u_dragon_bone_twohead_adv</s_structure>
+			<s_animation>u_dragon_two_head_idle_random.bca</s_animation>
+			<s_eventName>dragon bone idle random</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>u_dragon_bone_twohead_adv</s_structure>
+			<s_animation>u_dragon_two_head_idle.bca</s_animation>
+			<s_eventName>dragon bone idle</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>z_sea_behemoth</s_structure>
+			<s_animation>z_sea_behemoth_idle_random.bca</s_animation>
+			<s_eventName>sea behemoth idle random</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+		<UnitSoundEvent>
+			<s_structure>z_villain_of_piece</s_structure>
+			<s_animation>z_villain_of_piece_idle_random.bca</s_animation>
+			<s_eventName>vilain of piece idle</s_eventName>
+			<i_units>1</i_units>
+		</UnitSoundEvent>
+	</UnitSoundEventList>
+</IdleSounds>

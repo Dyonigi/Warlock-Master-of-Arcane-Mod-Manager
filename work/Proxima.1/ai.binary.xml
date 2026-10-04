@@ -1,0 +1,167 @@
+<AI>
+  <Divisions>
+    <defendSearchEnemiesRadius type='integer' value='4'/>
+    <defendAttackPositionDistance type='integer' value='2'/>
+    <defendVanquishK type='float' value='1.0'/>
+    <maxDefendRadius type='integer' value='3'/>
+    <farUnitsAttackRadius type='integer' value='2'/>
+    <farUnitsDisembarkDistance type='integer' value='4'/>
+    <attackSearchEnemiesRadius type='integer' value='3'/>
+    <citiesForCaptureRadius type='integer' value='3'/>
+    <locsForCaptureRadius type='integer' value='3'/>
+    <moveSearchEnemiesRadius type='integer' value='2'/>
+    <retreatSearchEnemiesRadius type='integer' value='3'/>
+    <foundateSearchEnemiesRadius type='integer' value='2'/>
+    <rangerAdjacentEnemyK type='float' value='0.5'/>
+    <meleeAdjacentEnemyK type='float' value='1.2000000476837158'/>
+    <rangerAdjacentAllyK type='float' value='1.5'/>
+    <meleeAdjacentAllyK type='float' value='1.100000023841858'/>
+    <exploreRadius type='integer' value='8'/>
+    <exploreBlackFogWeight type='integer' value='4'/>
+    <exploreGrayFogWeight type='integer' value='1'/>
+    <tooBigK type='float' value='1.5'/>
+    <playerBattleK type='float' value='2.0'/>
+    <splitCount type='integer' value='1'/>
+    <maxRestTurns type='integer' value='4'/>
+    <minActiveTurns type='integer' value='3'/>
+    <restingUnitsPercent type='float' value='0.5'/>
+    <restingUnitHPs type='float' value='0.30000001192092896'/>
+    <restingUnitEndHPs type='float' value='0.8999999761581421'/>
+    <healUnitHPs type='float' value='0.699999988079071'/>
+    <maxTooSmallForBattleUnits type='integer' value='5'/>
+    <moveFromBadLandsRadius type='integer' value='2'/>
+  </Divisions>
+  <MilitaryProduction>
+    <fighterK type='float' value='1.2000000476837158'/>
+    <shooterK type='float' value='1.2999999523162842'/>
+    <casterK type='float' value='1.5'/>
+    <healerK type='float' value='1.100000023841858'/>
+    <shipK type='float' value='0.75'/>
+    <warK type='float' value='1.2000000476837158'/>
+    <newUnitsBase>
+      <multi type='float' value='0.05000000074505806'/>
+      <add type='float' value='1.0'/>
+    </newUnitsBase>
+    <pools>
+      <multi type='float' value='0.05000000074505806'/>
+      <add type='float' value='-0.20000000298023224'/>
+    </pools>
+    <newForts>
+      <minValue type='float' value='0.0'/>
+      <maxValue type='float' value='1.0'/>
+      <minStrength type='float' value='1.0'/>
+      <maxStrength type='float' value='3.0'/>
+    </newForts>
+  </MilitaryProduction>
+  <Politic>
+    <minOverStageK type='float' value='0.5'/>
+    <warMinTurns type='integer' value='6'/>
+    <warMaxTurns type='integer' value='15'/>
+    <neutralMinTurns type='integer' value='4'/>
+    <nonAgressionWantTurns type='integer' value='7'/>
+    <allianceWantTurns type='integer' value='10'/>
+    <relNonAgressionWants type='float' value='30.0'/>
+    <relAllianceWants type='float' value='50.0'/>
+    <relWar type='float' value='-40.0'/>
+    <breakTurns type='integer' value='10'/>
+    <breakMinTurns type='integer' value='4'/>
+    <badRelationsK type='float' value='0.20000000298023224'/>
+    <collaborationTurns type='integer' value='5'/>
+    <secondWarTurns type='integer' value='5'/>
+  </Politic>
+  <HQChief>
+    <attackCity>
+      <minValue type='float' value='0.0'/>
+      <maxValue type='float' value='100.0'/>
+      <minStrength type='float' value='10.0'/>
+      <maxStrength type='float' value='0.125'/>
+    </attackCity>
+    <defendCity>
+      <minValue type='float' value='1.0'/>
+      <maxValue type='float' value='75.0'/>
+      <minStrength type='float' value='0.10000000149011612'/>
+      <maxStrength type='float' value='15.0'/>
+    </defendCity>
+    <debuffEnemy>
+      <minValue type='float' value='1.0'/>
+      <maxValue type='float' value='50.0'/>
+      <minStrength type='float' value='0.125'/>
+      <maxStrength type='float' value='10.0'/>
+    </debuffEnemy>
+    <buffUnit>
+      <minValue type='float' value='1.0'/>
+      <maxValue type='float' value='50.0'/>
+      <minStrength type='float' value='0.125'/>
+      <maxStrength type='float' value='10.0'/>
+    </buffUnit>
+  </HQChief>
+  <Economic>
+    <produceGold>
+      <minValue type='float' value='0.0'/>
+      <maxValue type='float' value='100.0'/>
+      <minStrength type='float' value='10.0'/>
+      <maxStrength type='float' value='0.0'/>
+    </produceGold>
+    <produceFood>
+      <minValue type='float' value='-10.0'/>
+      <maxValue type='float' value='10.0'/>
+      <minStrength type='float' value='10.0'/>
+      <maxStrength type='float' value='0.0'/>
+    </produceFood>
+    <produceMana>
+      <minValue type='float' value='0.0'/>
+      <maxValue type='float' value='100.0'/>
+      <minStrength type='float' value='10.0'/>
+      <maxStrength type='float' value='0.0'/>
+    </produceMana>
+    <produceResearch>
+      <minValue type='float' value='0.0'/>
+      <maxValue type='float' value='5.0'/>
+      <minStrength type='float' value='0.0'/>
+      <maxStrength type='float' value='10.0'/>
+    </produceResearch>
+  </Economic>
+  <Geographer>
+    <settlersPriority type='float' value='3.5'/>
+    <harborMinSeaSize type='integer' value='10'/>
+    <harborMinInterDistance type='integer' value='6'/>
+    <attackLair>
+      <minValue type='float' value='0.0'/>
+      <maxValue type='float' value='100.0'/>
+      <minStrength type='float' value='10.0'/>
+      <maxStrength type='float' value='0.125'/>
+    </attackLair>
+    <explorePosition>
+      <minValue type='float' value='0.0'/>
+      <maxValue type='float' value='100.0'/>
+      <minStrength type='float' value='10.0'/>
+      <maxStrength type='float' value='0.125'/>
+    </explorePosition>
+    <buildCity>
+      <minValue type='float' value='0.0'/>
+      <maxValue type='float' value='100.0'/>
+      <minStrength type='float' value='10.0'/>
+      <maxStrength type='float' value='0.125'/>
+    </buildCity>
+    <buildHarbor>
+      <minValue type='float' value='0.0'/>
+      <maxValue type='float' value='15.0'/>
+      <minStrength type='float' value='0.0'/>
+      <maxStrength type='float' value='9.0'/>
+    </buildHarbor>
+  </Geographer>
+  <Accountant>
+    <moneyWaitTurns type='integer' value='5'/>
+    <moneyWaitStageKoeff type='integer' value='100'/>
+    <moneyEndGoodYear type='integer' value='10'/>
+    <badYearWaists type='integer' value='50'/>
+  </Accountant>
+  <mayor>
+    <minSeaSizeForShip type='integer' value='50'/>
+  </mayor>
+  <wizard>
+    <dispelP type='integer' value='50'/>
+    <minDispellablePerks type='integer' value='2'/>
+    <minDispelHPs type='integer' value='3'/>
+  </wizard>
+</AI>

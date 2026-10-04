@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by Iv (OTR) -->
+<RandomEventDataList>
+	<Events>
+		<RandomEventData>
+			<s_name>SpawnLocations</s_name>
+			<i_frequency>20</i_frequency>
+			<ip2_firstTurn x="-1" y="-1"/>
+			<b_armageddon>false</b_armageddon>
+			<dlcs>
+				<dlcList/>
+			</dlcs>
+		</RandomEventData>
+		<RandomEventData>
+			<s_name>HeroCome</s_name>
+			<i_frequency>9</i_frequency>
+			<ip2_firstTurn x="-1" y="-1"/>
+			<b_armageddon>false</b_armageddon>
+			<dlcs>
+				<dlcList/>
+			</dlcs>
+		</RandomEventData>
+		<RandomEventData>
+			<s_name>ArtifactTrader</s_name>
+			<i_frequency>4</i_frequency>
+			<ip2_firstTurn x="10" y="20"/>
+			<b_armageddon>false</b_armageddon>
+			<dlcs>
+				<dlcList/>
+			</dlcs>
+		</RandomEventData>
+		<RandomEventData>
+			<s_name>Terraforming</s_name>
+			<i_frequency>33</i_frequency>
+			<ip2_firstTurn x="7" y="12"/>
+			<b_armageddon>true</b_armageddon>
+			<dlcs>
+				<dlcList>
+					<i_Item>5</i_Item>
+				</dlcList>
+			</dlcs>
+		</RandomEventData>
+		<RandomEventData>
+			<s_name>Evil</s_name>
+			<i_frequency>10</i_frequency>
+			<ip2_firstTurn x="22" y="33"/>
+			<b_armageddon>true</b_armageddon>
+			<dlcs>
+				<dlcList>
+					<i_Item>5</i_Item>
+				</dlcList>
+			</dlcs>
+		</RandomEventData>
+	</Events>
+	<TerrEvents>
+		<TerraformingEventData>
+			<s_name>vulcano</s_name>
+			<i_weight>1</i_weight>
+			<s_spellSubTile>vulcano</s_spellSubTile>
+			<f_cityDensity>0.50000000</f_cityDensity>
+			<ip2_cityDistance x="5" y="9"/>
+			<s_aoeType>aoe_1</s_aoeType>
+			<ip2_targetHexes x="1" y="3"/>
+			<ip2_additionHexes x="4" y="5"/>
+			<s_specialFx>sp_tr_any2volcano</s_specialFx>
+		</TerraformingEventData>
+		<TerraformingEventData>
+			<s_name>meteor</s_name>
+			<i_weight>1</i_weight>
+			<s_spellSubTile>burn</s_spellSubTile>
+			<f_cityDensity>0.50000000</f_cityDensity>
+			<ip2_cityDistance x="4" y="9"/>
+			<s_aoeType>aoe_7</s_aoeType>
+			<ip2_targetHexes x="1" y="1"/>
+			<ip2_additionHexes x="1" y="1"/>
+			<s_specialFx>sp_tr_meteor_fall</s_specialFx>
+		</TerraformingEventData>
+		<TerraformingEventData>
+			<s_name>earthquake</s_name>
+			<i_weight>0</i_weight>
+			<s_spellSubTile>evil_gates_explosion</s_spellSubTile>
+			<f_cityDensity>0.50000000</f_cityDensity>
+			<ip2_cityDistance x="4" y="9"/>
+			<s_aoeType>aoe_1</s_aoeType>
+			<ip2_targetHexes x="1" y="2"/>
+			<ip2_additionHexes x="1" y="2"/>
+			<s_specialFx>sp_tr_earthquake</s_specialFx>
+		</TerraformingEventData>
+		<TerraformingEventData>
+			<s_name>evil_gates_spawn</s_name>
+			<i_weight>0</i_weight>
+			<s_spellSubTile>evil_gates_spawn</s_spellSubTile>
+			<f_cityDensity>0.69999999</f_cityDensity>
+			<ip2_cityDistance x="4" y="9"/>
+			<s_aoeType>aoe_1</s_aoeType>
+			<ip2_targetHexes x="1" y="3"/>
+			<ip2_additionHexes x="4" y="5"/>
+			<s_specialFx>Evil_node_spawn_sfx</s_specialFx>
+		</TerraformingEventData>
+	</TerrEvents>
+</RandomEventDataList>

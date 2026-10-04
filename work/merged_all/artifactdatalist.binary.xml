@@ -1,0 +1,839 @@
+<ArtifactDataList>
+  <artifactTypeCosts>
+    <ArtifactCost type='integer' value='10'/>
+    <ArtifactCost type='integer' value='10'/>
+    <ArtifactCost type='integer' value='10'/>
+    <ArtifactCost type='integer' value='25'/>
+    <ArtifactCost type='integer' value='50'/>
+  </artifactTypeCosts>
+  <artifacts>
+    <Artifact>
+      <typeName type='string' value='art_sword_of_truth'/>
+      <stage type='integer' value='1'/>
+      <slotType type='string' value='Sword'/>
+      <cost type='integer' value='50'/>
+      <perks>
+        <Item type='string' value='abr_sharp_blade'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_marshal_frost_baton'/>
+      <stage type='integer' value='2'/>
+      <slotType type='string' value='Sword'/>
+      <cost type='integer' value='160'/>
+      <perks>
+        <Item type='string' value='abr_sharp_blade'/>
+        <Item type='string' value='abr_freezing'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_flaming_sword'/>
+      <stage type='integer' value='1'/>
+      <slotType type='string' value='Sword'/>
+      <cost type='integer' value='50'/>
+      <perks>
+        <Item type='string' value='abr_fire_dmg'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_sword_of_grey_swan'/>
+      <stage type='integer' value='4'/>
+      <slotType type='string' value='Sword'/>
+      <cost type='integer' value='460'/>
+      <perks>
+        <Item type='string' value='abr_krolm_bless'/>
+        <Item type='string' value='abr_fer_bless_high'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_sword_kortana'/>
+      <stage type='integer' value='2'/>
+      <slotType type='string' value='Sword'/>
+      <cost type='integer' value='100'/>
+      <perks>
+        <Item type='string' value='abr_sharp_blade'/>
+        <Item type='string' value='abr_dau_bless'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_bow_of_robin_loxley'/>
+      <stage type='integer' value='2'/>
+      <slotType type='string' value='Bow'/>
+      <cost type='integer' value='70'/>
+      <perks>
+        <Item type='string' value='abr_fer_bless'/>
+        <Item type='string' value='abr_dau_bless'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_bow_of_chilling_death'/>
+      <stage type='integer' value='3'/>
+      <slotType type='string' value='Bow'/>
+      <cost type='integer' value='290'/>
+      <perks>
+        <Item type='string' value='abr_freezing'/>
+        <Item type='string' value='abr_death_dmg'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_bow_of_grumgog'/>
+      <stage type='integer' value='4'/>
+      <slotType type='string' value='Bow'/>
+      <cost type='integer' value='370'/>
+      <perks>
+        <Item type='string' value='abr_gru_bless'/>
+        <Item type='string' value='abr_gru_bless_high'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_bow_of_ashes'/>
+      <stage type='integer' value='1'/>
+      <slotType type='string' value='Bow'/>
+      <cost type='integer' value='40'/>
+      <perks>
+        <Item type='string' value='abr_far_shot'/>
+        <Item type='string' value='abr_eye_stone'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_wand_of_agni'/>
+      <stage type='integer' value='4'/>
+      <slotType type='string' value='Stave'/>
+      <cost type='integer' value='410'/>
+      <perks>
+        <Item type='string' value='abr_hel_bless_high'/>
+        <Item type='string' value='abr_firestorm'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_staff_of_macros'/>
+      <stage type='integer' value='3'/>
+      <slotType type='string' value='Stave'/>
+      <cost type='integer' value='210'/>
+      <perks>
+        <Item type='string' value='abr_fire_dmg'/>
+        <Item type='string' value='abr_fireball'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_staff_of_life'/>
+      <stage type='integer' value='2'/>
+      <slotType type='string' value='Stave'/>
+      <cost type='integer' value='60'/>
+      <perks>
+        <Item type='string' value='abr_heal'/>
+        <Item type='string' value='abr_dau_bless'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_gnarled_staff'/>
+      <stage type='integer' value='1'/>
+      <slotType type='string' value='Stave'/>
+      <cost type='integer' value='50'/>
+      <perks>
+        <Item type='string' value='abr_fire_dmg'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_bone_staff'/>
+      <stage type='integer' value='1'/>
+      <slotType type='string' value='Stave'/>
+      <cost type='integer' value='40'/>
+      <perks>
+        <Item type='string' value='abr_death_dmg'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_shield_of_krolm'/>
+      <stage type='integer' value='3'/>
+      <slotType type='string' value='Armor'/>
+      <cost type='integer' value='130'/>
+      <perks>
+        <Item type='string' value='abr_krolm_bless'/>
+        <Item type='string' value='abr_defence'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_robe_of_firerat'/>
+      <stage type='integer' value='1'/>
+      <slotType type='string' value='Armor'/>
+      <cost type='integer' value='65'/>
+      <perks>
+        <Item type='string' value='abr_resistance'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_shield_of_janbenjan'/>
+      <stage type='integer' value='1'/>
+      <slotType type='string' value='Armor'/>
+      <cost type='integer' value='50'/>
+      <perks>
+        <Item type='string' value='abr_defence'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_armor_of_rorik'/>
+      <stage type='integer' value='2'/>
+      <slotType type='string' value='Armor'/>
+      <cost type='integer' value='105'/>
+      <perks>
+        <Item type='string' value='abr_melee_greater_res'/>
+        <Item type='string' value='abr_regeneration'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_fullplate_of_munchkin'/>
+      <stage type='integer' value='3'/>
+      <slotType type='string' value='Armor'/>
+      <cost type='integer' value='195'/>
+      <perks>
+        <Item type='string' value='abr_melee_greater_res'/>
+        <Item type='string' value='abr_lun_bless'/>
+        <Item type='string' value='abr_resistance'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_dragonback_scale'/>
+      <stage type='integer' value='2'/>
+      <slotType type='string' value='Armor'/>
+      <cost type='integer' value='230'/>
+      <perks>
+        <Item type='string' value='abr_melee_greater_res'/>
+        <Item type='string' value='abr_lun_bless'/>
+        <Item type='string' value='abr_agrelas_bless'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_armor_of_power'/>
+      <stage type='integer' value='4'/>
+      <slotType type='string' value='Armor'/>
+      <cost type='integer' value='530'/>
+      <perks>
+        <Item type='string' value='abr_fast_foot'/>
+        <Item type='string' value='abr_krolm_bless'/>
+        <Item type='string' value='abr_resistance'/>
+        <Item type='string' value='abr_defence'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_gauntlet_of_seth'/>
+      <stage type='integer' value='2'/>
+      <slotType type='string' value='Amulet'/>
+      <cost type='integer' value='120'/>
+      <perks>
+        <Item type='string' value='abr_resistance'/>
+        <Item type='string' value='abr_power_stone'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_harlequins_mask'/>
+      <stage type='integer' value='3'/>
+      <slotType type='string' value='Amulet'/>
+      <cost type='integer' value='400'/>
+      <perks>
+        <Item type='string' value='abr_eye_stone'/>
+        <Item type='string' value='abr_lun_bless_high'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_combat_broom'/>
+      <stage type='integer' value='3'/>
+      <slotType type='string' value='Amulet'/>
+      <cost type='integer' value='400'/>
+      <perks>
+        <Item type='string' value='abr_flight'/>
+        <Item type='string' value='abr_eye_stone'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_tear_of_agrela'/>
+      <stage type='integer' value='2'/>
+      <slotType type='string' value='Amulet'/>
+      <cost type='integer' value='210'/>
+      <perks>
+        <Item type='string' value='abr_agrelas_bless'/>
+        <Item type='string' value='abr_regeneration'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_amulet_of_two_sisters'/>
+      <stage type='integer' value='1'/>
+      <slotType type='string' value='Amulet'/>
+      <cost type='integer' value='70'/>
+      <perks>
+        <Item type='string' value='abr_kry_bless'/>
+        <Item type='string' value='abr_agrelas_bless'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_cool_stone'/>
+      <stage type='integer' value='1'/>
+      <slotType type='string' value='Amulet'/>
+      <cost type='integer' value='90'/>
+      <perks>
+        <Item type='string' value='abr_resistance'/>
+      </perks>
+    </Artifact>
+    <Artifact>
+      <typeName type='string' value='art_powerstone'/>
+      <stage type='integer' value='2'/>
+      <slotType type='string' value='Amulet'/>
+      <cost type='integer' value='100'/>
+      <perks>
+        <Item type='string' value='abr_power_stone'/>
+        <Item type='string' value='abr_fast_foot'/>
+      </perks>
+    </Artifact>
+  </artifacts>
+  <artifactElements>
+    <ArtifactElement>
+      <name type='string' value='abr_sharp_blade'/>
+      <manaCost type='integer' value='20'/>
+      <requiredSpell type='string' value=''/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_far_shot'/>
+      <manaCost type='integer' value='30'/>
+      <requiredSpell type='string' value=''/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_power_stone'/>
+      <manaCost type='integer' value='50'/>
+      <requiredSpell type='string' value=''/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_defence'/>
+      <manaCost type='integer' value='25'/>
+      <requiredSpell type='string' value=''/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_resistance'/>
+      <manaCost type='integer' value='40'/>
+      <requiredSpell type='string' value='sp_arc_lightning'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_fire_dmg'/>
+      <manaCost type='integer' value='40'/>
+      <requiredSpell type='string' value='sp_arc_fireball'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_death_dmg'/>
+      <manaCost type='integer' value='30'/>
+      <requiredSpell type='string' value='sp_arc_shadow_bolt'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_dot'/>
+      <manaCost type='integer' value='30'/>
+      <requiredSpell type='string' value='sp_arc_shadow_bolt'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_fireball'/>
+      <manaCost type='integer' value='60'/>
+      <requiredSpell type='string' value='sp_arc_fireball'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_heal'/>
+      <manaCost type='integer' value='50'/>
+      <requiredSpell type='string' value='sp_arc_heal'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_melee_greater_res'/>
+      <manaCost type='integer' value='80'/>
+      <requiredSpell type='string' value='sp_arc_true_sight'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_agrelas_bless'/>
+      <manaCost type='integer' value='60'/>
+      <requiredSpell type='string' value='sp_agrela_healing'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_dau_bless'/>
+      <manaCost type='integer' value='70'/>
+      <requiredSpell type='string' value='sp_dau_holy_word'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_hel_bless'/>
+      <manaCost type='integer' value='70'/>
+      <requiredSpell type='string' value='sp_hel_sunstroke'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_krolm_bless'/>
+      <manaCost type='integer' value='80'/>
+      <requiredSpell type='string' value='sp_krolm_sum_rune_resi'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_kry_bless'/>
+      <manaCost type='integer' value='60'/>
+      <requiredSpell type='string' value='sp_kry_healing_undead'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_fer_bless'/>
+      <manaCost type='integer' value='60'/>
+      <requiredSpell type='string' value='sp_fer_summon_bear'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_lun_bless'/>
+      <manaCost type='integer' value='50'/>
+      <requiredSpell type='string' value='sp_lun_speed_buff'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_gru_bless'/>
+      <manaCost type='integer' value='60'/>
+      <requiredSpell type='string' value='sp_gru_summon_rats'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_regeneration'/>
+      <manaCost type='integer' value='100'/>
+      <requiredSpell type='string' value=''/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_fast_foot'/>
+      <manaCost type='integer' value='150'/>
+      <requiredSpell type='string' value=''/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_eye_stone'/>
+      <manaCost type='integer' value='100'/>
+      <requiredSpell type='string' value='sp_arc_summon_imp'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_freezing'/>
+      <manaCost type='integer' value='150'/>
+      <requiredSpell type='string' value='sp_arc_ice_ring'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_firestorm'/>
+      <manaCost type='integer' value='200'/>
+      <requiredSpell type='string' value='sp_arc_firestorm'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_flight'/>
+      <manaCost type='integer' value='300'/>
+      <requiredSpell type='string' value='sp_arc_levitation'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_agrelas_bless_high'/>
+      <manaCost type='integer' value='150'/>
+      <requiredSpell type='string' value='sp_agrela_greater_healing'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_dau_bless_high'/>
+      <manaCost type='integer' value='150'/>
+      <requiredSpell type='string' value='sp_dau_total_protection'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_hel_bless_high'/>
+      <manaCost type='integer' value='200'/>
+      <requiredSpell type='string' value='sp_hel_blindness'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_krolm_bless_high'/>
+      <manaCost type='integer' value='250'/>
+      <requiredSpell type='string' value='sp_krolm_hartred_of_magic'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_kry_bless_high'/>
+      <manaCost type='integer' value='200'/>
+      <requiredSpell type='string' value='sp_kry_fr_mana_stealing'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_fer_bless_high'/>
+      <manaCost type='integer' value='250'/>
+      <requiredSpell type='string' value='sp_fer_spear_of_chaos'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_lun_bless_high'/>
+      <manaCost type='integer' value='250'/>
+      <requiredSpell type='string' value='sp_lun_veil_of_darkness'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_gru_bless_high'/>
+      <manaCost type='integer' value='150'/>
+      <requiredSpell type='string' value='sp_gru_ct_midges_invasion'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='act_self_heal'/>
+      <manaCost type='integer' value='250'/>
+      <requiredSpell type='string' value='sp_arc_great_healing'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+    <ArtifactElement>
+      <name type='string' value='abr_heal'/>
+      <manaCost type='integer' value='250'/>
+      <requiredSpell type='string' value='sp_arc_ressurection'/>
+      <CraftingSpells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+        <Item type='string' value='sp_art_great_crafting'/>
+      </CraftingSpells>
+      <artifactTypes>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='0'/>
+        <Item type='bool' value='1'/>
+        <Item type='bool' value='1'/>
+      </artifactTypes>
+    </ArtifactElement>
+  </artifactElements>
+</ArtifactDataList>

@@ -1,0 +1,2098 @@
+<SkyDataEx>
+  <objects>
+    <Items>
+      <Item>
+        <name type='string' value='sp_arc_lightning'/>
+        <uid type='byte_array' value='07 74 B4 9D FC 05 02 42 9D C4 FA C8 55 8E F3 80'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_ice_ring'/>
+        <uid type='byte_array' value='76 C1 FE AD A0 39 1F 4F 8A E6 4D 16 75 D3 E7 8F'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_fireball_old'/>
+        <uid type='byte_array' value='24 CF 29 39 65 95 B5 4A B2 57 66 CD 25 9F 29 9E'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_heal'/>
+        <uid type='byte_array' value='72 C5 6C AE 6F A0 8A 4F 9E C3 8D F1 4F 5A 07 3C'/>
+      </Item>
+      <Item>
+        <name type='string' value='lair_effect01'/>
+        <uid type='byte_array' value='F0 E2 1B 5D 00 B3 31 46 8A D1 AD FB 9F 5A E7 20'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_fireweapon'/>
+        <uid type='byte_array' value='11 37 73 8A CB 42 63 48 80 8D 08 EC 14 83 0A C9'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_lifeweapon'/>
+        <uid type='byte_array' value='93 CD 94 AF 54 69 2C 40 A5 F7 BF 42 F3 70 62 01'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_deathweapon'/>
+        <uid type='byte_array' value='7A 0D C0 0F 20 37 0C 45 96 35 53 59 38 75 2C D1'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_vampweapon'/>
+        <uid type='byte_array' value='B8 1E 7F FC FB F3 A7 41 89 62 67 5C 90 C4 5C 8F'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_frostweapon'/>
+        <uid type='byte_array' value='6E 1B 4A 9C CC 58 01 4A B3 34 9C C9 D8 41 70 BA'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_enchweapon'/>
+        <uid type='byte_array' value='E2 18 30 61 46 1A C7 43 8C F6 A1 F9 C9 D4 4A 1C'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_fr_mana_drain'/>
+        <uid type='byte_array' value='2D 4C DA B8 D4 70 9C 40 A1 20 6B E0 2C F3 E5 77'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_fr_mana_steal'/>
+        <uid type='byte_array' value='B4 2B 60 0A DB 5D 10 4A 87 3E F2 B7 80 BA D0 FE'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_ice_trap'/>
+        <uid type='byte_array' value='E9 58 20 25 0A 2B C8 4F B4 21 24 59 EF 01 57 DB'/>
+      </Item>
+      <Item>
+        <name type='string' value='unit_selection'/>
+        <uid type='byte_array' value='BB 06 9E 02 91 7F 6D 47 91 91 F2 59 26 E2 77 53'/>
+      </Item>
+      <Item>
+        <name type='string' value='s_imp_fire'/>
+        <uid type='byte_array' value='A5 97 1C 5E 3D 35 95 49 A2 17 92 A5 5B 94 75 FF'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_sum_1'/>
+        <uid type='byte_array' value='F3 C5 B0 C7 3D 16 A3 44 B7 0F 5A 0F A2 38 56 E4'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_shadow_bolt'/>
+        <uid type='byte_array' value='59 8F 3E A2 84 10 4E 4F BC E7 71 CC E4 58 45 1E'/>
+      </Item>
+      <Item>
+        <name type='string' value='land_fire'/>
+        <uid type='byte_array' value='05 6A 7D 2F CA 8B 1B 4E AF 6A E2 4F 78 8E 7B CF'/>
+      </Item>
+      <Item>
+        <name type='string' value='land_smoke'/>
+        <uid type='byte_array' value='3B 23 44 48 FF 82 12 42 B6 AB F0 CA DF 5A C2 EC'/>
+      </Item>
+      <Item>
+        <name type='string' value='s_treant_leaves'/>
+        <uid type='byte_array' value='EF 62 E4 32 47 1B 9B 47 BA AF 77 D3 0A 5E 64 7F'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_c_krypta_fire'/>
+        <uid type='byte_array' value='85 B0 D7 35 82 66 BB 47 A4 B9 67 C2 0C AB 38 47'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_torchlight'/>
+        <uid type='byte_array' value='28 3A 51 60 25 E5 35 41 A5 89 BC B5 A6 0E 4D EA'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_construction'/>
+        <uid type='byte_array' value='B8 18 83 9D A7 72 D3 4C B0 A7 C8 40 91 BA D3 4D'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_placing'/>
+        <uid type='byte_array' value='5B E1 19 96 38 7C DA 4C 9B 6A 2B FC 80 E5 17 A3'/>
+      </Item>
+      <Item>
+        <name type='string' value='land_fire_smoke'/>
+        <uid type='byte_array' value='98 35 7E 1F AD 31 AE 49 B6 0D E4 CA D5 01 F9 10'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_smoke'/>
+        <uid type='byte_array' value='37 77 62 F6 A1 4D DE 45 8C C5 9F 26 1F 12 E7 7D'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_blacksmith_smoke'/>
+        <uid type='byte_array' value='0A 91 E4 A3 8C D4 F2 4E AB 0D 0C C4 00 E7 66 85'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_fireplace'/>
+        <uid type='byte_array' value='45 D6 BF B8 83 19 F0 4E B3 EF F1 D9 AA 6B FF 9C'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_m_guild_ratman_top'/>
+        <uid type='byte_array' value='10 31 8F CB 6F 2D E2 4F B5 DE DD 3F 2D 79 4F 42'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_m_guild_ratman_smoke'/>
+        <uid type='byte_array' value='59 96 88 E9 D7 58 33 4C BD 8C 98 B7 E1 3A 4B 1E'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_h_guild_cleric_heal'/>
+        <uid type='byte_array' value='5E EE EC 5D 6E 7E 3D 4F 9F 94 BE DD CA 91 31 D1'/>
+      </Item>
+      <Item>
+        <name type='string' value='land_crystal_glow'/>
+        <uid type='byte_array' value='E5 14 21 04 FA 37 9F 4A BE 8D B6 24 46 2A 7F 0A'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_hel_sunstroke'/>
+        <uid type='byte_array' value='EA B8 85 66 2F 30 9B 49 B9 54 79 D0 D7 A5 4B AC'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_hel_sunstorm'/>
+        <uid type='byte_array' value='16 59 3E B0 A9 68 72 47 B1 4D 0C 6D F4 0B C8 D6'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_hel_blindness'/>
+        <uid type='byte_array' value='F5 55 C8 5F 25 93 D0 47 AE D5 36 6D 40 BF 07 33'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_dau_unsummon'/>
+        <uid type='byte_array' value='B6 5F 03 74 BF C1 49 4F 9B D1 02 23 E7 9F 08 FE'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_dau_greater_dispell'/>
+        <uid type='byte_array' value='47 F5 7F 39 04 E8 A3 43 9C DC FF 1E 58 DD A7 94'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_kry_summon_skeleton'/>
+        <uid type='byte_array' value='D2 B4 A1 6C C4 1D 7E 40 B7 4F 52 E6 EE 6B 86 82'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_kry_healing_undead'/>
+        <uid type='byte_array' value='58 05 87 D7 4B AA 51 4C B0 2C B7 64 8D FB C2 84'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_kry_stolen_soul'/>
+        <uid type='byte_array' value='A3 C8 24 FE F4 B3 32 44 85 7E F8 D6 B2 6F 7C F9'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_firestorm'/>
+        <uid type='byte_array' value='B0 58 47 B1 5E F5 03 4C B6 38 28 A1 8A B6 FB 16'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_fireball'/>
+        <uid type='byte_array' value='EC 0B 1D FE DC 77 C9 46 83 85 C3 71 73 07 E0 E6'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_great_healing'/>
+        <uid type='byte_array' value='2A B7 86 95 5D EE 75 4D 8A BC 54 AA 0A BD 3F 78'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_reconstruction'/>
+        <uid type='byte_array' value='05 D3 74 79 10 F8 C6 44 BA 75 F0 9E 12 59 8D 96'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_agrela_healing'/>
+        <uid type='byte_array' value='C4 95 20 D5 BE 1F 74 42 85 35 08 15 28 EC C4 1D'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_agrela_greater_healing'/>
+        <uid type='byte_array' value='AB BF 35 EA 5A 7C F0 4D A5 0A A7 4E F8 97 CD C7'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_agrela_mass_healing'/>
+        <uid type='byte_array' value='BB 85 9B 3E BE 57 AC 49 95 8F EA 42 28 55 BE AD'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_agrela_healing_combo'/>
+        <uid type='byte_array' value='06 5B F0 69 4B F0 EF 41 B1 72 2D 4A A5 B4 B9 34'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_agrela_mass_healing_combo'/>
+        <uid type='byte_array' value='D4 22 0D CC 42 1F 2A 40 93 8F E9 92 62 77 E1 23'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_gru_corrupted_vapours'/>
+        <uid type='byte_array' value='9F 09 42 08 65 FA 7D 4D AB A1 EA 27 31 A7 13 0B'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_krolm_stun'/>
+        <uid type='byte_array' value='6D ED B5 A0 51 67 03 49 94 6E D0 61 8F BD 03 ED'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_krolm_stun_combo'/>
+        <uid type='byte_array' value='4B C3 EA 21 CC 34 32 4F 93 01 2F DF 31 19 53 94'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_lun_veil_of_darkness'/>
+        <uid type='byte_array' value='3C 7B 1C 70 76 5D 42 40 A3 40 93 9C B9 7A 2C AC'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_lun_terror_of_night'/>
+        <uid type='byte_array' value='A8 93 CF BB 7E 46 74 4E 87 E6 88 DC 21 15 AC 20'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_lun_terror_of_night_combo'/>
+        <uid type='byte_array' value='7F DE 73 4F CD 26 61 49 96 42 D7 41 EA A6 96 3C'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_thunderstorm'/>
+        <uid type='byte_array' value='3C 19 20 9D E5 DD 1C 43 95 06 22 DF 8A EE 8F CE'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_thunderstorm_combo'/>
+        <uid type='byte_array' value='B3 0F EA 54 3E 9D 2C 41 92 E3 F1 DD 30 85 C8 35'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_ct_earthquake'/>
+        <uid type='byte_array' value='B0 D3 EA DC D9 21 F6 49 88 D1 46 6B 6B F6 90 6F'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_dau_holy_word'/>
+        <uid type='byte_array' value='4A 97 08 B6 24 33 03 40 97 B7 1D 5F 2E 63 1B 18'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_incinerate'/>
+        <uid type='byte_array' value='97 BB 34 96 8C D3 29 48 9F 5D 60 11 91 C1 D6 47'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_magic_resi'/>
+        <uid type='byte_array' value='AF 1B C2 23 4A DC 94 4A B0 15 4F 06 48 43 BE 35'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_range_resi'/>
+        <uid type='byte_array' value='4E BE 15 90 8A 28 9F 4D AC 82 29 A3 DC A2 F5 9D'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_melee_resi'/>
+        <uid type='byte_array' value='D2 B3 4E 68 22 2A A7 49 AF 29 67 54 38 8C 34 E3'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_fer_spear_of_chaos'/>
+        <uid type='byte_array' value='A9 83 55 22 6F 37 0D 4C 9B 1E 70 DE 89 58 70 93'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_gru_blood_punishment'/>
+        <uid type='byte_array' value='37 BD 90 91 F5 03 2F 40 B3 77 B2 94 72 32 5E 0B'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_lesser_fireball'/>
+        <uid type='byte_array' value='5D 2F 95 9E 15 65 E6 49 B3 86 91 08 3A A9 D0 B2'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_lesser_shadow_bolt'/>
+        <uid type='byte_array' value='22 35 F8 62 3D F6 62 46 9B A4 1C 0B 4F D3 0B 7B'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_lesser_heal'/>
+        <uid type='byte_array' value='D4 AA 45 EB 7C ED 93 4A AB FF 71 B7 8F 0C 31 C1'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_lesser_weakness'/>
+        <uid type='byte_array' value='CF B4 DD DA C7 78 FC 44 99 5E C6 BC 2B 15 DE 3F'/>
+      </Item>
+      <Item>
+        <name type='string' value='teleport_action'/>
+        <uid type='byte_array' value='7D 39 99 74 DB 41 CB 45 AA 0C A2 F5 EE A9 96 28'/>
+      </Item>
+      <Item>
+        <name type='string' value='spawn_entity'/>
+        <uid type='byte_array' value='3D 52 8B F3 4B BD EB 44 83 08 C3 7B 59 B5 0E 32'/>
+      </Item>
+      <Item>
+        <name type='string' value='lair_destruction'/>
+        <uid type='byte_array' value='81 69 C1 F5 13 DD 42 47 86 AE B6 CF 69 84 FD D7'/>
+      </Item>
+      <Item>
+        <name type='string' value='lvl_up_fx'/>
+        <uid type='byte_array' value='6D 44 BC 1A 6F E3 8C 46 8C 29 7B DA 6C C1 14 0B'/>
+      </Item>
+      <Item>
+        <name type='string' value='loot_fx'/>
+        <uid type='byte_array' value='8C 71 F3 BF CD EC 4B 4E AC 59 CC 76 06 18 39 C5'/>
+      </Item>
+      <Item>
+        <name type='string' value='universal_buff'/>
+        <uid type='byte_array' value='89 99 8B 73 2D 78 26 4A 97 85 85 2E 22 2F 26 29'/>
+      </Item>
+      <Item>
+        <name type='string' value='universal_debuff'/>
+        <uid type='byte_array' value='18 CF 11 86 62 7F 1D 43 A9 FC DB B7 2D EA A3 54'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_agrela_ressurection'/>
+        <uid type='byte_array' value='0A 03 42 53 87 ED 66 40 9D B7 39 CC 9E 9D 2E 35'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_ressurection'/>
+        <uid type='byte_array' value='A9 92 80 18 AD 8F CA 4C B5 CC AE 88 5D B0 4A A5'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_regeneration'/>
+        <uid type='byte_array' value='0E 41 85 B3 78 1A DE 40 B3 8D 64 E8 CC AC 13 66'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_fer_chaos_regeneration'/>
+        <uid type='byte_array' value='6A B1 0E D4 97 61 B8 41 BF 7E CE C6 E8 36 3F 33'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_kry_greater_healing_undead'/>
+        <uid type='byte_array' value='63 EA 73 2A DE B7 03 45 B5 CB 88 05 BC 85 A5 AD'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_armageddon'/>
+        <uid type='byte_array' value='41 C1 4A A4 62 BC 19 4B BE 28 59 4C 88 C1 E2 A4'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_lun_tornado'/>
+        <uid type='byte_array' value='20 11 9D F7 66 A7 18 4E BF 14 CB BF 5D FB 63 96'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_invisibility'/>
+        <uid type='byte_array' value='13 34 03 48 1E 46 48 47 A2 18 3E BA AA 9B CA 89'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_levitation'/>
+        <uid type='byte_array' value='0E 5F 47 69 9B 35 B8 4C 86 79 F8 D4 A0 A6 FE 1F'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_haste'/>
+        <uid type='byte_array' value='24 3B 39 4B 84 6A B6 43 8C A3 17 44 36 21 BA 09'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_lun_speed_buff'/>
+        <uid type='byte_array' value='34 0F A2 B9 20 51 F5 4E BA 53 E0 87 FB F5 B3 39'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_true_sight'/>
+        <uid type='byte_array' value='1C 9D A2 1E EF 16 0D 46 84 26 16 CB E4 F7 CA E4'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_far_seeing'/>
+        <uid type='byte_array' value='FF A7 EF EF C1 9C 98 42 A5 FB D4 F9 92 75 26 37'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_easy_walking'/>
+        <uid type='byte_array' value='64 E6 55 AF 21 D1 05 40 B8 CB C4 12 74 B9 9B 68'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_water_walking'/>
+        <uid type='byte_array' value='D3 6E 0A 04 CF A7 77 45 93 E8 89 ED C0 C9 6B 24'/>
+      </Item>
+      <Item>
+        <name type='string' value='test_explosion'/>
+        <uid type='byte_array' value='06 30 6C 24 75 B9 A6 4C A0 56 55 D2 4B FF 86 4D'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_hel_fire_aura'/>
+        <uid type='byte_array' value='7F 6E AF B0 61 48 70 4F 8D 0A 8E B9 A6 8B 98 DB'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_dau_total_protection'/>
+        <uid type='byte_array' value='3E E8 50 30 D0 A2 0F 4C B8 F1 8C A2 E9 39 7D 5C'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_dau_shield_of_dauros'/>
+        <uid type='byte_array' value='84 E9 10 7D 4F D7 08 42 B6 3E EA 88 7F B3 96 35'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_krolm_berserker'/>
+        <uid type='byte_array' value='F9 38 2A B1 39 34 68 4C 98 D0 05 AD 7F 88 09 2E'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_fer_magic_resi'/>
+        <uid type='byte_array' value='E0 93 56 92 D8 C6 59 43 81 7E 46 34 34 AC 21 F0'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_agrela_death_immunity'/>
+        <uid type='byte_array' value='66 D5 A1 81 32 E0 6B 41 B6 DF 50 4E 2E 75 BA CE'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_hel_elementary_immunity'/>
+        <uid type='byte_array' value='35 0A B4 B9 25 27 DC 44 A3 95 F7 98 9C 7A 4E C7'/>
+      </Item>
+      <Item>
+        <name type='string' value='invisibility_effect'/>
+        <uid type='byte_array' value='C9 D5 7D 91 24 28 3D 43 BC CE 2D 6B 37 E8 FA C4'/>
+      </Item>
+      <Item>
+        <name type='string' value='detect_invisibility'/>
+        <uid type='byte_array' value='06 B1 D0 BC E2 EA 4A 40 85 7E 4B 68 2F EA EA 09'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_lightning_combo'/>
+        <uid type='byte_array' value='39 3D 2C 24 69 E9 24 40 9E AD 0E E0 6F F6 2B 5F'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_ice_trap_combo'/>
+        <uid type='byte_array' value='5C 05 D5 51 0E 01 B8 45 AE A9 31 A0 FD 18 9D B4'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_elem_resi'/>
+        <uid type='byte_array' value='99 CB F7 2D 57 03 00 47 B1 D3 ED BC 18 57 D8 86'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_levitation_effect'/>
+        <uid type='byte_array' value='68 41 98 39 13 3D D9 40 9D F9 91 8B 89 D7 BA 34'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_water_walking_effect'/>
+        <uid type='byte_array' value='51 D5 74 28 19 B8 62 4B 86 74 63 5A BA 92 8F 45'/>
+      </Item>
+      <Item>
+        <name type='string' value='Desert_dust'/>
+        <uid type='byte_array' value='0E 4C DB E4 C7 41 D6 49 8F 3A 2C 03 03 5C 19 B3'/>
+      </Item>
+      <Item>
+        <name type='string' value='sea_birds'/>
+        <uid type='byte_array' value='22 B7 0A B2 E1 CB 22 4C AE A7 02 BF 6A BD 53 32'/>
+      </Item>
+      <Item>
+        <name type='string' value='land_birds'/>
+        <uid type='byte_array' value='60 28 06 BB 74 CF B9 47 A8 B5 D6 96 10 F6 0C E6'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_volcano_small'/>
+        <uid type='byte_array' value='5F F8 B7 BC 6C 37 F9 44 A8 A3 8C B2 61 B2 CC 96'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_swamp'/>
+        <uid type='byte_array' value='F7 6D D6 DA 4A 52 4B 44 AE 62 DE 05 04 CC 1E 54'/>
+      </Item>
+      <Item>
+        <name type='string' value='sea_fish'/>
+        <uid type='byte_array' value='BA 40 C9 60 AC 85 B7 43 B8 20 5D 9A BC 3D 26 30'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_highmount_snow'/>
+        <uid type='byte_array' value='F0 76 EC 0B 9D E5 FB 42 AF F8 FD EE 57 3E E9 F5'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_volcano_big'/>
+        <uid type='byte_array' value='13 0B F7 CB 42 AB 8B 42 80 C2 8B 75 13 4A E3 FE'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_volcano_sparks'/>
+        <uid type='byte_array' value='92 19 45 B3 71 8E 3C 47 8F 52 D0 A5 DF E9 DE 6B'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_volcano_heat'/>
+        <uid type='byte_array' value='65 67 98 68 48 6C F6 4F 92 59 A0 4E 57 B1 C8 F6'/>
+      </Item>
+      <Item>
+        <name type='string' value='Questplace'/>
+        <uid type='byte_array' value='B8 0B 6C 98 8B 50 DD 43 BE A9 45 46 29 1D 19 CB'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_bigfish'/>
+        <uid type='byte_array' value='C3 E1 29 5A 2D 75 1C 4E A1 15 2D 4B B9 86 95 DD'/>
+      </Item>
+      <Item>
+        <name type='string' value='unit_board'/>
+        <uid type='byte_array' value='4C D7 1E 90 88 63 1E 4D 9E 51 41 36 92 B1 4B 18'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_city_capture'/>
+        <uid type='byte_array' value='E2 CB 52 DA 42 82 C5 4F B3 F3 7F A7 F9 C1 70 80'/>
+      </Item>
+      <Item>
+        <name type='string' value='unit_disembark'/>
+        <uid type='byte_array' value='C4 B7 6B 45 62 3A 90 4B BC 96 C4 B7 FA 0E 65 B8'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_swamp2'/>
+        <uid type='byte_array' value='3C E0 80 A5 7A 6D 2B 4D 96 D3 78 45 02 74 D0 CA'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_land_undead'/>
+        <uid type='byte_array' value='9C 86 C8 CB EC D9 71 41 8C 17 6E 4B A0 CB F8 4D'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_land_corrupted'/>
+        <uid type='byte_array' value='98 B0 83 49 84 BC 72 4E BE 78 81 27 B6 8E 29 08'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_land_evil'/>
+        <uid type='byte_array' value='65 9F 27 91 A0 DF E3 45 94 6A 1B EA 38 3D C1 85'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_land_burned'/>
+        <uid type='byte_array' value='FF 85 0D F1 93 3B 48 41 A8 D5 09 41 26 95 AD 14'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_land_destroyed'/>
+        <uid type='byte_array' value='E2 4C FD 3E EC AE 6A 4C 8C FD CB 07 AA 18 9B 46'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_evil_key'/>
+        <uid type='byte_array' value='53 BE 43 7B AC 22 5B 43 87 8D E7 87 18 32 0B DC'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_land_life'/>
+        <uid type='byte_array' value='59 1C 4D B7 3A 90 9F 42 A4 68 E4 89 CB 8D 76 29'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_hit'/>
+        <uid type='byte_array' value='C0 B4 D2 85 0C 3D 16 4D 88 40 4B 8C 13 D1 44 85'/>
+      </Item>
+      <Item>
+        <name type='string' value='teleport_idle'/>
+        <uid type='byte_array' value='35 3D D7 46 7B EF E2 4C B0 41 9E 74 42 15 FB 76'/>
+      </Item>
+      <Item>
+        <name type='string' value='fx_res_inferno_rift'/>
+        <uid type='byte_array' value='8A 66 34 6C 95 AA E2 4B 81 E5 DF 1A 3E 7A 6C D9'/>
+      </Item>
+      <Item>
+        <name type='string' value='guild_mage_smoke'/>
+        <uid type='byte_array' value='E1 F5 3B 83 81 65 9A 4D B7 9D E3 B7 F7 8C 62 03'/>
+      </Item>
+      <Item>
+        <name type='string' value='guild_goblin_spearmen_fx'/>
+        <uid type='byte_array' value='E4 39 71 74 D9 49 7F 40 80 15 6A BB 96 30 72 2F'/>
+      </Item>
+      <Item>
+        <name type='string' value='res_gold_fx'/>
+        <uid type='byte_array' value='6E DA BD 84 B8 2D 23 4D B7 05 54 DA 5F 13 3C 0E'/>
+      </Item>
+      <Item>
+        <name type='string' value='res_silver_fx'/>
+        <uid type='byte_array' value='59 3D 73 5A 0E 0A 58 4B A8 9B 83 3D 31 2C F1 04'/>
+      </Item>
+      <Item>
+        <name type='string' value='res_gems_fx'/>
+        <uid type='byte_array' value='14 80 7E 48 EC 76 F1 46 BE 09 8C 72 37 43 46 FE'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_w_elemental_portal_fx'/>
+        <uid type='byte_array' value='6C 6F 74 93 4E 3B BD 4D 82 B8 15 B9 DF E6 DA 7A'/>
+      </Item>
+      <Item>
+        <name type='string' value='undead_universal_fx'/>
+        <uid type='byte_array' value='5B A3 1F 1E 1D E1 51 42 88 1F 6D 28 A6 74 6D 0B'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_imp_portal_fx'/>
+        <uid type='byte_array' value='4D 68 7F 9F A8 FB 64 45 B0 45 86 7B CE F3 B9 49'/>
+      </Item>
+      <Item>
+        <name type='string' value='m_shrine_pumpkin_fx'/>
+        <uid type='byte_array' value='02 0E 34 64 60 7D 9F 41 BB D8 67 CB A2 A4 BB 3E'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_w_magic_glade_fx'/>
+        <uid type='byte_array' value='1D 3E 5F F7 79 2E 2B 4D BE 47 A6 C4 B2 15 02 BB'/>
+      </Item>
+      <Item>
+        <name type='string' value='res_iron_fx'/>
+        <uid type='byte_array' value='40 FA D2 CF 58 51 44 46 82 DC 91 B2 1D E5 0D 68'/>
+      </Item>
+      <Item>
+        <name type='string' value='res_nevril_fx'/>
+        <uid type='byte_array' value='F2 AF 0A FD A4 BC 7B 49 BC 9E 14 7F D8 CE EE 7F'/>
+      </Item>
+      <Item>
+        <name type='string' value='res_adamant_fx'/>
+        <uid type='byte_array' value='D4 E0 92 98 3E E5 10 40 9A DE 16 C9 CA CF 1B 28'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_w_chest_fx'/>
+        <uid type='byte_array' value='40 58 4F 83 D2 FF 2B 4F 94 D9 D4 80 35 F2 CF 3A'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_u_tower_magic'/>
+        <uid type='byte_array' value='40 F8 FB 97 CA EC F8 45 BD 33 8F 00 AE 06 BD 17'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_h_tower_magic'/>
+        <uid type='byte_array' value='29 64 26 CB FD 99 A3 4C B2 DF 0F 75 A4 43 AC C0'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_h_capital_fx'/>
+        <uid type='byte_array' value='1C 6B 20 B3 57 34 F0 41 A3 A2 CA 59 F1 93 64 A8'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_m_capital_fx'/>
+        <uid type='byte_array' value='2C A6 55 47 A7 2A F7 46 84 E5 24 77 69 80 4D 14'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_u_capital_fx'/>
+        <uid type='byte_array' value='EA 88 50 1D EE 75 52 47 9E 9F C1 6F 00 64 6E EA'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_c_temple_agrela_fx'/>
+        <uid type='byte_array' value='BF 71 04 31 3A 74 C0 47 A6 BF 4D D7 74 98 AB 93'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_c_temple_agrela_flow_fx'/>
+        <uid type='byte_array' value='91 99 73 1A 34 E5 4C 45 A3 38 BD 19 E0 B9 CF E6'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_c_temple_helia_fx'/>
+        <uid type='byte_array' value='67 8F C9 DE 80 3E 6C 4C AB 42 93 4B 39 7F 5F 4C'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_c_temple_lunord_fx'/>
+        <uid type='byte_array' value='1A 45 27 82 CC A6 CD 42 BC 50 DE 9C 58 B1 8A 8F'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_c_temple_grumgog_fx'/>
+        <uid type='byte_array' value='FA AA 69 72 BA 53 43 43 8F 8F 13 7F 61 AB EE A1'/>
+      </Item>
+      <Item>
+        <name type='string' value='holy_ground_fx'/>
+        <uid type='byte_array' value='8C 56 AA 6C 96 29 B7 48 86 BD 61 79 D7 4D B0 05'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_place2build'/>
+        <uid type='byte_array' value='65 8B 6F 06 16 A4 CB 4E AD 5F 25 96 2B 62 11 66'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_buildcursor'/>
+        <uid type='byte_array' value='44 D7 A1 51 B4 C5 25 4F A3 C3 1F 46 F9 B7 70 8F'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_m_magic_receiver_fx'/>
+        <uid type='byte_array' value='1E F6 11 67 3B FA A1 4D A9 72 37 34 6F 1B D4 50'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_magic_node'/>
+        <uid type='byte_array' value='38 B3 C7 7A 05 4C D4 42 A4 9C 6C EC B2 15 D0 C1'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_magic_node_small'/>
+        <uid type='byte_array' value='77 9C 87 C6 1A 52 0B 41 A3 EF B3 9B 81 B7 DC CA'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_w_demons_hell'/>
+        <uid type='byte_array' value='69 30 DA 5F 87 F4 18 44 BF 5A B9 AE AF 01 BF B1'/>
+      </Item>
+      <Item>
+        <name type='string' value='res_magic_fields'/>
+        <uid type='byte_array' value='58 F8 F2 8D 9A 3D 50 4F 81 D8 E3 39 32 91 4C C1'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_golden_dragon'/>
+        <uid type='byte_array' value='74 36 45 AB E1 EE 92 43 80 9F 88 11 14 41 1C AB'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_wild_dragon'/>
+        <uid type='byte_array' value='2C C6 2D 28 EF 8B 78 43 B8 90 1C 3C 93 3C 86 1B'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_red_dragon'/>
+        <uid type='byte_array' value='9E 5D 8D 05 ED B9 92 41 90 9B 1A D0 72 7F E5 FC'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_sealair_sfx'/>
+        <uid type='byte_array' value='FD CE 0B 3B 78 0E 5B 45 8C 92 9F 30 BD 1D 42 52'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_foundcity_fx'/>
+        <uid type='byte_array' value='17 BC B7 60 14 71 63 4A 89 3A CC 8D 7F 00 D1 19'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_u_millofsouls_fx'/>
+        <uid type='byte_array' value='6D 66 BD B7 15 BD 2D 42 82 BC F2 C0 FE F8 A1 FE'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_darkelf_sfx'/>
+        <uid type='byte_array' value='DE 55 0C 77 D5 B7 3A 48 A3 AB B0 48 F3 51 78 E6'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_e_alchemy_masters_sfx'/>
+        <uid type='byte_array' value='57 32 EF 72 36 7D 96 43 87 F7 87 58 CC B9 0C 48'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_e_guild_elf_warlock_sfx'/>
+        <uid type='byte_array' value='53 33 87 EE 56 BA B3 42 89 7E CA 4F DF E5 F7 35'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_e_mana_storage_sfx'/>
+        <uid type='byte_array' value='C9 D8 95 A2 AF A6 C2 4E 8F 1B 8C C4 D5 55 7E C1'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_e_mana_well_sfx'/>
+        <uid type='byte_array' value='2A BA 20 8E 3C FC C0 4F 9B 88 F8 81 11 87 82 A5'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_e_tower_magic_sfx'/>
+        <uid type='byte_array' value='0F EC 58 24 4A AC 2E 42 84 17 28 7E 23 07 C3 91'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_e_capital_sfx'/>
+        <uid type='byte_array' value='7C 5A 11 2C 6B CA FF 4D AC 35 2D 1A FF 38 79 D9'/>
+      </Item>
+      <Item>
+        <name type='string' value='bld_newlair_sfx'/>
+        <uid type='byte_array' value='84 BD EB 5B 04 C1 06 4F BE 64 68 3E 00 B8 5A 8A'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_test'/>
+        <uid type='byte_array' value='AD C9 CA A0 E3 FC A5 4F 94 A6 51 9C C7 A9 8B 93'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_serpent'/>
+        <uid type='byte_array' value='E0 73 CF CF 8F 80 74 46 BA 07 64 43 E4 B9 1B C8'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_serpent'/>
+        <uid type='byte_array' value='D8 D6 33 37 A2 27 B5 4E 96 7D 1C 03 37 44 F3 1A'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_mage_base'/>
+        <uid type='byte_array' value='2E DD 17 33 B8 CD 5C 40 91 2E 46 94 A4 18 12 73'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_mage_snow'/>
+        <uid type='byte_array' value='32 75 EB 4F 1A 00 0F 4B 9D 14 84 07 1D 2B 35 12'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_mage_snow'/>
+        <uid type='byte_array' value='5B 73 F7 1C 3B 31 53 40 BB 3B 93 C4 1B EC 6E 0C'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_hmagictower'/>
+        <uid type='byte_array' value='88 90 F9 18 6E 0A 51 45 93 D8 A2 3F 86 67 29 14'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_umagictower'/>
+        <uid type='byte_array' value='CD F5 3B 8A BC 68 80 4B BF 2A C9 9C F9 2E BA BB'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_umagictower'/>
+        <uid type='byte_array' value='53 BA 15 1C 9C F0 C1 4C BC BC AF F0 A6 59 CB EC'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_hmagictower'/>
+        <uid type='byte_array' value='69 CB DC 5A 48 57 7E 4B BE 66 F2 2E 8A 96 4A D7'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_cleric'/>
+        <uid type='byte_array' value='75 04 47 C9 16 C4 E9 44 A4 C7 7F 68 0D 9D DD 25'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_cleric'/>
+        <uid type='byte_array' value='08 A0 EC 01 3E D7 20 46 93 2F C3 E7 AC F1 1C 22'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_vampire'/>
+        <uid type='byte_array' value='16 5F A0 A4 4A E4 97 47 B7 9E 97 DB 7A 52 C8 D1'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_catapult'/>
+        <uid type='byte_array' value='47 56 26 74 2C DD 75 4F AE E9 C7 1F AC A2 2A 91'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_darkpriest'/>
+        <uid type='byte_array' value='7C 06 F0 56 88 EB AA 4B 99 FB 7D 65 9F 5B C9 E5'/>
+      </Item>
+      <Item>
+        <name type='string' value='shoot_sfx_ship'/>
+        <uid type='byte_array' value='D6 5F 5A CF 97 33 99 4D 8A AE 9D 35 8C 32 0B 4C'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_ship'/>
+        <uid type='byte_array' value='24 CC 50 95 2F 2E CA 44 83 C7 2A 89 58 FB 48 00'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_shaman'/>
+        <uid type='byte_array' value='22 AD 33 D0 73 42 B4 42 83 B9 39 40 2F 09 38 AB'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_shaman'/>
+        <uid type='byte_array' value='C2 19 3E D0 9C F0 76 47 A1 6B 41 E1 EA B6 AC 03'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_marksman'/>
+        <uid type='byte_array' value='49 2B 47 F4 3C 3D 7D 42 BB E7 62 53 8A 56 1C 90'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_priest'/>
+        <uid type='byte_array' value='16 6B 3B 6C E1 AD F0 4D 95 5E 4E 70 93 4E 23 B4'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_goblin_champion'/>
+        <uid type='byte_array' value='D3 74 DF 30 EA 40 1B 42 8D 1E E3 0C 51 86 83 E4'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_lich'/>
+        <uid type='byte_array' value='51 DA 3A E0 86 7B 0C 4A 97 47 64 77 C5 45 6C E1'/>
+      </Item>
+      <Item>
+        <name type='string' value='shoot_sfx_sea_serpent'/>
+        <uid type='byte_array' value='6E 42 5C 4E 91 2E 5C 4E 81 5D FA A7 81 14 AF FC'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_lizardman_shaman'/>
+        <uid type='byte_array' value='53 F0 CC 33 CC F5 C0 40 95 79 37 AC 98 1E 80 0C'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_scout'/>
+        <uid type='byte_array' value='14 A3 79 C7 5E BC B8 4F 8C 7B 9F F4 5F 15 B7 C0'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_scout'/>
+        <uid type='byte_array' value='FA 46 BC A1 FD B6 5D 4F BA D5 82 86 E1 42 13 A1'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_imp_adv'/>
+        <uid type='byte_array' value='FE AD 76 5F 97 21 A2 4B 89 69 F8 B9 A1 C6 18 C0'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_imp_adv'/>
+        <uid type='byte_array' value='83 E7 92 A7 59 24 AD 45 A3 D6 8B 59 A0 1F 1B C1'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_elemental_fire'/>
+        <uid type='byte_array' value='59 88 D9 F7 A4 67 D4 44 AA 82 08 0A 22 C5 37 8B'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_elemental_fire'/>
+        <uid type='byte_array' value='4E BA EE 33 FF 81 2F 48 97 DC C5 5C 38 59 6A D6'/>
+      </Item>
+      <Item>
+        <name type='string' value='shoot_sfx_dragon_fire'/>
+        <uid type='byte_array' value='CD 66 EF 6E 64 26 07 45 86 E9 A7 2D C8 22 DC 3A'/>
+      </Item>
+      <Item>
+        <name type='string' value='m_ship_torchlight'/>
+        <uid type='byte_array' value='B0 C1 D4 F3 28 02 BB 42 B0 CC 62 95 C4 92 52 58'/>
+      </Item>
+      <Item>
+        <name type='string' value='u_ship_sfx'/>
+        <uid type='byte_array' value='8D 22 3B D2 26 CB 99 42 99 19 D1 24 9F 28 89 D3'/>
+      </Item>
+      <Item>
+        <name type='string' value='u_bomber_sfx'/>
+        <uid type='byte_array' value='B9 38 8B 21 F9 3E 59 4B A1 0A D2 D0 E2 8A EE 0D'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_sfx_bomber'/>
+        <uid type='byte_array' value='B4 C3 AC 40 76 60 7F 42 9D 3A 38 34 DC 70 27 50'/>
+      </Item>
+      <Item>
+        <name type='string' value='shoot_sfx_dragon_fire_purple'/>
+        <uid type='byte_array' value='22 52 3F 66 B8 88 49 45 A3 D8 0A 18 D6 19 35 04'/>
+      </Item>
+      <Item>
+        <name type='string' value='shoot_sfx_dragon_fire_blue'/>
+        <uid type='byte_array' value='2B B2 E1 FE 30 56 30 46 8D C4 CC AE 31 ED D1 AF'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_dragon'/>
+        <uid type='byte_array' value='BD EC F4 64 0B 53 94 48 85 32 3C 44 C6 83 84 D6'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_darkpriest'/>
+        <uid type='byte_array' value='B6 88 44 C5 0A FE 40 47 82 DB 36 BF 48 CC 37 53'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_abordage'/>
+        <uid type='byte_array' value='21 F4 D4 BB A3 91 16 4D A1 DC 55 45 2A 7B 64 E9'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_lord_goblin_acid'/>
+        <uid type='byte_array' value='07 69 61 65 DE 98 F8 48 94 3F D8 C5 F5 DF 80 CD'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_lord_goblin_acid'/>
+        <uid type='byte_array' value='2A E5 A9 FD 4E 4A 80 4F A6 10 6D C9 77 02 6C 68'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_lord_goblin_paralyze'/>
+        <uid type='byte_array' value='2C 66 02 63 CB BA 99 40 94 21 B8 F3 E9 B9 C1 B4'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_lord_goblin_dark'/>
+        <uid type='byte_array' value='E5 09 AB FB 1A D0 F3 49 84 A5 E7 3F 7F 96 91 68'/>
+      </Item>
+      <Item>
+        <name type='string' value='u_ghost_fx'/>
+        <uid type='byte_array' value='DE 0A 04 9C BE F5 17 40 97 EF EA 5F EF 6C 05 0F'/>
+      </Item>
+      <Item>
+        <name type='string' value='w_treant_fx'/>
+        <uid type='byte_array' value='5B 47 65 32 F8 9A F8 43 9B E3 C6 F2 BC FB CA 0E'/>
+      </Item>
+      <Item>
+        <name type='string' value='u_lich_fx'/>
+        <uid type='byte_array' value='7E 1E C0 3B C9 1B A3 4C 8C 46 96 3F 8B C5 BC FE'/>
+      </Item>
+      <Item>
+        <name type='string' value='s_elemental_lightning_fx'/>
+        <uid type='byte_array' value='BF 58 F3 3C A8 AC 1F 48 93 36 2F 47 73 EE 58 B3'/>
+      </Item>
+      <Item>
+        <name type='string' value='s_elemental_fire_fx'/>
+        <uid type='byte_array' value='07 23 66 01 D5 21 43 46 92 16 DB 1C 86 C5 36 74'/>
+      </Item>
+      <Item>
+        <name type='string' value='u_adept_fx'/>
+        <uid type='byte_array' value='E8 3D 9D 3E CA EF 11 4B A0 25 F7 08 0A 02 02 C8'/>
+      </Item>
+      <Item>
+        <name type='string' value='g_helia_sfx'/>
+        <uid type='byte_array' value='A8 C1 B8 7A F9 81 00 43 82 AA 98 CB E8 71 D6 A2'/>
+      </Item>
+      <Item>
+        <name type='string' value='g_krypta_sfx'/>
+        <uid type='byte_array' value='05 AD 34 EE 4F 1D DD 45 8C A0 92 DA B9 51 14 AF'/>
+      </Item>
+      <Item>
+        <name type='string' value='g_lunord_sfx'/>
+        <uid type='byte_array' value='CF 78 9B 5B 69 03 54 4C AB 74 E4 C3 1A D2 D1 E7'/>
+      </Item>
+      <Item>
+        <name type='string' value='g_krolm_sfx'/>
+        <uid type='byte_array' value='26 AD C5 7A BE 00 13 47 BD 34 30 92 D4 E7 75 08'/>
+      </Item>
+      <Item>
+        <name type='string' value='g_agrela_sfx'/>
+        <uid type='byte_array' value='C1 CB D2 08 E3 30 E2 42 BF EA 43 9A 15 3D 2D 4E'/>
+      </Item>
+      <Item>
+        <name type='string' value='g_grumgog_sfx'/>
+        <uid type='byte_array' value='4B D6 0B D9 FF 39 C8 44 86 B2 BA 15 7C 3E 14 F4'/>
+      </Item>
+      <Item>
+        <name type='string' value='g_fervus_sfx'/>
+        <uid type='byte_array' value='79 81 44 17 91 A1 8F 4D 95 08 D1 27 55 BA 1B FC'/>
+      </Item>
+      <Item>
+        <name type='string' value='g_dauros_sfx'/>
+        <uid type='byte_array' value='84 92 4D DD F3 36 75 44 8D 6D A8 36 95 0F 50 DA'/>
+      </Item>
+      <Item>
+        <name type='string' value='lord_imp_sfx'/>
+        <uid type='byte_array' value='15 7D DD CA 7E CF 19 4D 8F 4D 89 1C 89 A6 76 83'/>
+      </Item>
+      <Item>
+        <name type='string' value='lord_ghost_static_fx'/>
+        <uid type='byte_array' value='FA 8F 1F BE 98 5D 54 40 90 5D BC 7D 95 07 DC BA'/>
+      </Item>
+      <Item>
+        <name type='string' value='lord_lich_idle_fx'/>
+        <uid type='byte_array' value='F2 83 B7 0A 9B DB 9C 4C AB C8 2B B8 F8 F7 2D 7B'/>
+      </Item>
+      <Item>
+        <name type='string' value='lord_paladin_spirit_idle_sfx'/>
+        <uid type='byte_array' value='32 F0 70 48 CE C9 A6 41 8D D1 80 FC 89 4C 62 1F'/>
+      </Item>
+      <Item>
+        <name type='string' value='e_spirit_of_death_sfx'/>
+        <uid type='byte_array' value='08 F2 21 32 89 46 C0 4B 86 A7 4A 25 5B 0C 2F B0'/>
+      </Item>
+      <Item>
+        <name type='string' value='e_spirit_of_life_fx'/>
+        <uid type='byte_array' value='C8 7D C6 8E EE D2 88 49 BF F4 D1 E6 17 80 C2 35'/>
+      </Item>
+      <Item>
+        <name type='string' value='barlog_stat_sfx'/>
+        <uid type='byte_array' value='B9 22 6B CE 85 BC 99 48 8E 4F A5 74 D3 3A AA 23'/>
+      </Item>
+      <Item>
+        <name type='string' value='e_elf_lancer_sfx'/>
+        <uid type='byte_array' value='F6 07 1B E3 44 CE D9 46 9D 97 75 5C 2F F7 EE 7A'/>
+      </Item>
+      <Item>
+        <name type='string' value='e_flying_island_adv_01_sfx'/>
+        <uid type='byte_array' value='2B 7B C3 89 88 C2 26 4A B1 08 33 8F 20 64 5E 89'/>
+      </Item>
+      <Item>
+        <name type='string' value='e_flying_island_adv_02_sfx'/>
+        <uid type='byte_array' value='4C 85 08 5D 49 3B 9C 47 86 DA EB 4D A1 F6 C9 D8'/>
+      </Item>
+      <Item>
+        <name type='string' value='e_flying_island_01_sfx'/>
+        <uid type='byte_array' value='5D D3 21 E5 AC D5 8D 48 A0 9F 1B F7 29 E7 05 D7'/>
+      </Item>
+      <Item>
+        <name type='string' value='z_evil_mage_sfx'/>
+        <uid type='byte_array' value='CF 69 74 87 13 B7 BC 47 B4 ED A1 ED 35 6B CA 2A'/>
+      </Item>
+      <Item>
+        <name type='string' value='z_evil_sturdy_sfx'/>
+        <uid type='byte_array' value='BE 1D 52 4F 81 7B 7E 4D A2 86 EB E5 D1 04 06 23'/>
+      </Item>
+      <Item>
+        <name type='string' value='z_evil_thrower_sfx'/>
+        <uid type='byte_array' value='F6 95 43 56 2A C3 58 40 A2 C4 05 F2 BF 37 AA D8'/>
+      </Item>
+      <Item>
+        <name type='string' value='z_defeated_great_mage_sfx'/>
+        <uid type='byte_array' value='F1 80 53 D0 B2 F0 73 41 B0 B4 78 B4 55 F1 59 D8'/>
+      </Item>
+      <Item>
+        <name type='string' value='z_villain_of_piece_sfx'/>
+        <uid type='byte_array' value='0D 0E 8E EA 3C 9B AB 4F 81 E8 D2 EE A2 B2 BD FF'/>
+      </Item>
+      <Item>
+        <name type='string' value='spider_red_stat_fx'/>
+        <uid type='byte_array' value='27 13 D3 BE BA 40 7E 42 B6 CE F6 87 F2 A3 D5 08'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_world_teleportation'/>
+        <uid type='byte_array' value='54 56 78 74 AA EA 11 42 8F 6E 74 1B 23 8D DB 73'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_teleportation'/>
+        <uid type='byte_array' value='13 F2 E4 9E 5A BF 76 42 98 16 5D AD 61 04 34 E2'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_gru_ct_locust_invasion'/>
+        <uid type='byte_array' value='F8 B3 07 23 79 DC A8 49 8B 47 F1 CD 31 54 C7 36'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_gru_ct_midges_invasion'/>
+        <uid type='byte_array' value='39 0F E5 22 8A 4C D2 4D AC AA CC 43 6A AC 74 70'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_gru_ct_mana_debuff'/>
+        <uid type='byte_array' value='75 D7 73 74 8E B4 96 40 B5 06 53 C2 DA CE 72 61'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_hel_ct_urban_fire'/>
+        <uid type='byte_array' value='6A 7A FC 1B EB 4F 89 4C 9C 33 9C 68 AC 3A A0 4C'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_ct_food_growth'/>
+        <uid type='byte_array' value='67 AF 94 FC C8 2F C5 4A A5 BC 08 E0 E1 C1 B7 9E'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_agrela_ct_food_buff'/>
+        <uid type='byte_array' value='FD 26 AB 2A B5 C6 92 49 BF 4A 36 63 C7 6E 5E 8F'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_hel_ct_rapid_growth'/>
+        <uid type='byte_array' value='DF 6B EB A5 4D C7 01 4F B7 94 18 02 7E 29 EE B5'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_ct_population_growth'/>
+        <uid type='byte_array' value='34 A0 A4 02 88 2A FD 4A 9D E1 9D 3E 1C A1 9C ED'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_agrela_ct_civ_buff'/>
+        <uid type='byte_array' value='D1 D1 D6 A0 FA FB 5F 49 9F 82 BC 40 0F 52 6A 93'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_ct_mana_growth'/>
+        <uid type='byte_array' value='09 7F 58 B9 B0 B5 40 43 96 B0 B6 B1 3A 8C 57 5D'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_fer_ct_dark_ritual'/>
+        <uid type='byte_array' value='5A 36 A3 F4 E2 36 9B 47 98 96 B0 59 A8 3E F6 84'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_ct_dispell'/>
+        <uid type='byte_array' value='AE 97 C3 C3 5F 10 99 42 A8 A8 83 3B 76 27 46 6D'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_weakness'/>
+        <uid type='byte_array' value='4F 01 C1 96 90 80 11 4C 8B F2 76 DD 8A 72 B5 BB'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_kry_cursed_healing'/>
+        <uid type='byte_array' value='3D BF 65 76 12 59 24 47 B2 F1 09 FD 9E 7A 4A 63'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_fer_mind_control'/>
+        <uid type='byte_array' value='79 AA 20 55 00 A6 D7 4E A0 D3 EC 9A CF 10 44 79'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_kry_curse_of_living'/>
+        <uid type='byte_array' value='59 4D 05 17 53 E7 6E 4E BF 01 60 C5 3F 4E 56 0C'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_nullify'/>
+        <uid type='byte_array' value='09 A4 3D 93 1B 72 6B 4C 9A EF E5 DE 73 FE 70 76'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_krolm_nullify'/>
+        <uid type='byte_array' value='0A 33 EA BE BA 19 73 42 B6 0C C8 6F 0F 7C 36 3F'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_basic_dispell'/>
+        <uid type='byte_array' value='CC E0 C1 CC 6A 0E A5 45 99 96 6C 95 BC AF FA 22'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_dau_spell_lock'/>
+        <uid type='byte_array' value='62 E2 F6 1E 1A E0 15 40 BC 15 54 A4 46 10 A0 DA'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_dau_mass_dispell'/>
+        <uid type='byte_array' value='71 65 A1 87 CC 10 97 45 AF 12 10 23 C1 C4 3E B8'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_dau_countermagic'/>
+        <uid type='byte_array' value='F0 69 7C 0F 04 BC 1E 45 A2 F3 78 B6 74 10 11 19'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_fr_mana_steal'/>
+        <uid type='byte_array' value='6B 94 57 CD AD 1D 2C 48 9A 9E 38 FE 98 83 B6 F1'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_kry_fr_mana_stealing'/>
+        <uid type='byte_array' value='8D A2 85 5C 85 3D 71 45 90 ED B3 3A 80 03 54 7A'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_hel_fr_drought'/>
+        <uid type='byte_array' value='E2 0C 44 D9 2F BA 41 4E BB 6F 8D 9E 7C 7B CA D4'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_krolm_fr_rage'/>
+        <uid type='byte_array' value='8B A0 33 F8 01 9D B9 47 B3 FB 0D 8B 0F 4D 20 FA'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_gru_fr_insect_punishment'/>
+        <uid type='byte_array' value='ED E9 EF FE E6 C4 C7 4D A2 1B A7 A7 A1 4E D4 37'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_lun_fr_money_stealing'/>
+        <uid type='byte_array' value='4C B6 45 E5 C3 49 DC 44 A5 31 AC 75 72 5C 97 9F'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_global_dispell'/>
+        <uid type='byte_array' value='67 31 69 ED E3 B1 0B 4C AD 47 98 9A ED F8 00 8A'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_krolm_hartred_of_magic'/>
+        <uid type='byte_array' value='83 E9 04 E9 4E 33 2E 49 B2 56 59 77 61 45 F3 B0'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_kry_strengthening_the_dead'/>
+        <uid type='byte_array' value='74 E4 15 4B CC C8 05 40 97 20 3F C0 C4 DE EA 6A'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_kry_dance_macabre'/>
+        <uid type='byte_array' value='6B 48 B9 38 1F A1 9F 4B B5 82 06 7B BC BA 36 3F'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_kry_triumph_of_death'/>
+        <uid type='byte_array' value='1B D3 CD A6 BE 1F 7F 4F A5 95 6D B3 66 CD BD 11'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_lun_arrow_resi'/>
+        <uid type='byte_array' value='0B 8D 50 E9 CD DC 5F 43 B3 29 56 99 85 0E A6 DA'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_lun_wind_speed'/>
+        <uid type='byte_array' value='24 51 DF 86 00 DE EE 4D A7 C7 85 4A C5 00 A6 46'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_lun_time_stop'/>
+        <uid type='byte_array' value='FB 7C D1 CA 17 D3 45 47 BD 3D 5F 37 65 12 A8 3B'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_gru_deathweapon'/>
+        <uid type='byte_array' value='D5 BC CE B5 5E CF B5 45 A9 D3 5C 92 56 13 03 BE'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_dispell_detonation_combo'/>
+        <uid type='byte_array' value='A7 C9 FF B4 C8 23 BC 40 96 45 27 B6 A1 59 02 3C'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_hel_sunstroke_combo'/>
+        <uid type='byte_array' value='B3 81 BC 2E E5 EA CF 4C 94 59 8B 06 46 35 4C 1E'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_fer_chaos_regeneration_combo'/>
+        <uid type='byte_array' value='A3 62 95 26 55 4E 18 42 AB ED AC C5 45 00 41 C1'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_counterspell'/>
+        <uid type='byte_array' value='15 AE E2 CF 5B E8 7F 4E BB 84 FB 86 85 07 1C A2'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_unity'/>
+        <uid type='byte_array' value='61 BD 44 0D 43 E9 EC 4A B6 F2 DB 9A BD D2 A3 F2'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_kry_strengthening_old'/>
+        <uid type='byte_array' value='1F 82 EA D5 6F CD 2C 4C 82 1B 67 F9 BE 75 06 81'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_fr_magic_boost'/>
+        <uid type='byte_array' value='D6 3A 78 B9 7C 4B 91 43 A2 FA 93 76 4F 7D 6A DF'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_art_basic_crafting'/>
+        <uid type='byte_array' value='51 F0 17 F9 8C 09 E1 43 B4 68 C9 50 46 7D CD EE'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_art_great_crafting'/>
+        <uid type='byte_array' value='51 84 4F 2D 44 09 AC 4F 9E 1C 42 56 EA 51 93 A7'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_mass_heal_sfx'/>
+        <uid type='byte_array' value='02 43 8D 5B 31 8C 3E 44 86 9A 7C 6A BA 93 4C 12'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_self_heal_sfx'/>
+        <uid type='byte_array' value='52 20 7F EC A1 FA 86 41 8D 02 0E 9D 3F F4 1A A7'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_summon_undead_sfx'/>
+        <uid type='byte_array' value='CA E7 DA 24 E4 5F 18 49 80 AC BD 28 A4 07 4E 06'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_druid_sfx'/>
+        <uid type='byte_array' value='2E 99 41 54 63 AA F6 4B 86 AF B3 90 2A 0C BA EF'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_alchemy_explosion_sfx'/>
+        <uid type='byte_array' value='2B B8 96 5B B7 F9 D8 45 B4 7A B3 95 88 DB A5 4F'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_death_weakness_sfx'/>
+        <uid type='byte_array' value='AA A0 DE 3E 0D 58 61 45 85 3C CE 29 3B C8 E0 02'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_fire_arrow_sfx'/>
+        <uid type='byte_array' value='50 E7 27 44 8D 72 0B 4E 9C 86 07 DA 10 71 87 E1'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_mass_attack_sfx'/>
+        <uid type='byte_array' value='83 60 C1 15 55 E2 41 4D A8 E3 69 D8 8F 05 ED CA'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_holy_attack_sfx'/>
+        <uid type='byte_array' value='AF 33 4E 0C 42 E0 A0 40 A6 71 6D 35 18 8D 95 91'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_cleave_attack_sfx'/>
+        <uid type='byte_array' value='47 3E 0C 8D 97 3F 16 44 8B 55 9C C1 6B A8 54 3B'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_summon_beast_sfx'/>
+        <uid type='byte_array' value='4A 7E EE DA 8F ED F6 4B B1 D6 2A 01 8E D5 0E 9D'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_whirlwind_attack_sfx'/>
+        <uid type='byte_array' value='2E 7F 72 67 79 33 94 40 8D 61 10 8A 34 D3 A9 B0'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_alchemy_explosion_arrow_sfx'/>
+        <uid type='byte_array' value='A1 A5 A8 E8 7B EB E4 43 94 45 60 E8 87 B2 5E A0'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_curse_attack_sfx'/>
+        <uid type='byte_array' value='E4 D9 FF F4 63 18 B1 4F B7 4D 59 02 01 38 64 83'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_paralyze_sfx'/>
+        <uid type='byte_array' value='8A 21 19 C1 5B 90 60 4E 94 63 8E 1F 6F 4C 1A 62'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_mass_arrows_sfx'/>
+        <uid type='byte_array' value='0F 2D 03 AC EF 14 E9 41 9A A3 CF 7D 94 1F AD DD'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_craken'/>
+        <uid type='byte_array' value='3D EB 67 CC 97 A7 FE 48 93 D5 86 B4 8C 02 04 78'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_imp_lord_aoe'/>
+        <uid type='byte_array' value='39 F2 36 44 36 8D C8 46 AF 78 7D 33 53 B9 83 13'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_blademaster_aoe_sfx'/>
+        <uid type='byte_array' value='DB DE 05 34 1E 90 AD 49 B0 F1 CC DC 76 36 94 AE'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_turtle_fire_sfx'/>
+        <uid type='byte_array' value='E7 BA 5F E4 4A E2 5A 42 BD 70 7D 51 CB 7E AE FD'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_lich_sfx'/>
+        <uid type='byte_array' value='9D 73 D1 7E 1E FD D5 4F B5 BA 29 AA 98 64 4A 99'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_krolm_sum_rune_wrath'/>
+        <uid type='byte_array' value='21 42 61 42 CE F1 FE 43 AE 56 9D B4 17 DA 1A 95'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_krolm_sum_rune_antimagic'/>
+        <uid type='byte_array' value='E8 8A 93 B4 88 3A D6 41 95 07 6D 83 54 51 40 C8'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_krolm_sum_rune_resi'/>
+        <uid type='byte_array' value='1D 3A B9 EB 0F AD C2 4A 93 7B 0B 8A 71 8A AB BF'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_kry_summon_ghost'/>
+        <uid type='byte_array' value='BB 4C 10 C9 2B BB 5F 48 A5 08 C2 77 47 D1 71 72'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_fer_summon_bear'/>
+        <uid type='byte_array' value='EA 3B E3 D1 10 40 AE 48 8F F1 F5 6B CF 8C B2 6A'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_fer_summon_bearman'/>
+        <uid type='byte_array' value='50 65 8C 27 43 50 E4 4B AA 0B A7 DF 37 DD 4C 26'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_fer_sum_dragon_two_head'/>
+        <uid type='byte_array' value='34 67 05 B7 28 CE DE 4C AD A2 5D 36 7E 60 C6 C1'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_gru_summon_rats'/>
+        <uid type='byte_array' value='59 13 95 71 AD 22 0B 46 A5 D2 C4 1B 85 32 DF 46'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_summon_wolf'/>
+        <uid type='byte_array' value='EE FF 78 59 A9 1A 71 41 97 87 AC 4E C3 29 07 0B'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_summon_serpent'/>
+        <uid type='byte_array' value='76 5F 8C D8 C9 2F B4 49 99 64 48 E9 12 DF A3 1C'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_summon_imp'/>
+        <uid type='byte_array' value='9E DF E4 3F 0D 72 D8 4F BF 6A 32 A1 84 4C EC E7'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_summon_earth_elemental'/>
+        <uid type='byte_array' value='77 FD 1D FC D1 E9 FB 44 A5 7E B1 94 DA C2 24 82'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_summon_fire_elemental'/>
+        <uid type='byte_array' value='AF 16 CF E3 01 D4 4F 48 82 61 B1 8A 85 ED 1E 8D'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_summon_dragon_red'/>
+        <uid type='byte_array' value='83 E1 73 34 3A 76 59 4F 88 10 B9 44 C4 72 A4 C5'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_summon_dragon_gold'/>
+        <uid type='byte_array' value='BA B7 65 8D B3 36 A6 4D B8 4D 9B E5 FA 57 EC 60'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_agrela_summon_treant'/>
+        <uid type='byte_array' value='BB B2 9D CE 00 74 3E 41 B7 0C B8 29 50 0D D5 43'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lizard_summon_totem_sfx'/>
+        <uid type='byte_array' value='97 08 AC AF C2 6E 1A 42 B3 B2 2C CD 16 91 F0 B2'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lizard_paralyze_sfx'/>
+        <uid type='byte_array' value='14 56 16 3A E6 D4 4E 4F A5 E0 8D 77 3E D0 65 09'/>
+      </Item>
+      <Item>
+        <name type='string' value='lizard_totem_sfx'/>
+        <uid type='byte_array' value='4F B5 74 68 E5 DA 28 45 BC 60 E9 C3 49 36 4F A8'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_cleric_heal_sfx'/>
+        <uid type='byte_array' value='B9 46 AE F9 0A 93 21 47 A6 D2 71 A0 AB EF FB A8'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_black_mage_summon_sfx'/>
+        <uid type='byte_array' value='A5 40 74 34 CA 89 16 42 9D 76 AC DE 6B C7 9C 66'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_elf_lord_magic_arrow'/>
+        <uid type='byte_array' value='B9 D2 82 4D D5 EE 45 48 BE 45 50 CA 42 B9 5E ED'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_sfx_elf_lord'/>
+        <uid type='byte_array' value='DE 37 59 4E 3F F7 0C 4C 95 98 59 DC 31 8D 8E 69'/>
+      </Item>
+      <Item>
+        <name type='string' value='lord_ogre_cleave_sfx'/>
+        <uid type='byte_array' value='11 43 1E 7B 70 79 C5 4A B4 FD C0 DA 51 33 12 99'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_skeleton_lord_cleave_sfx'/>
+        <uid type='byte_array' value='68 CE D9 36 E3 AA 4B 48 B4 B7 92 A5 3C 2A EB E5'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_pala_spirit_attack_sfx'/>
+        <uid type='byte_array' value='72 C7 84 E1 57 B6 C6 47 AB 8C B0 40 FF 9C 91 FB'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_barlog_heavy_hit_sfx'/>
+        <uid type='byte_array' value='D6 1D 52 85 E0 D5 C4 4D 8E 54 41 30 1C A1 22 FE'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_wizard_fireball_sfx'/>
+        <uid type='byte_array' value='45 72 B6 D8 DC 0F AE 4B 9B 2B 4E 4E 97 B9 62 C2'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_wizard_firestorm_sfx'/>
+        <uid type='byte_array' value='62 22 12 0E 74 D9 71 4A BB 7C 7A 4D 21 80 03 31'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_acid_explosion_sfx'/>
+        <uid type='byte_array' value='B4 49 C6 11 9D 43 94 45 A1 CA 4F 9C 6D 77 1E F6'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_dragonwolf_breath_sfx'/>
+        <uid type='byte_array' value='C3 CC 19 ED FD 6F 46 49 B0 40 BC 0E 86 42 8A 30'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_cleric_shield_fx'/>
+        <uid type='byte_array' value='6C E6 29 22 40 B2 04 41 96 57 81 08 3C 81 CE BF'/>
+      </Item>
+      <Item>
+        <name type='string' value='lord_wizard_sfx'/>
+        <uid type='byte_array' value='19 DC 9D C3 8F 56 50 42 AE B1 58 C8 68 24 66 EB'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_act_ratman_lord_attack'/>
+        <uid type='byte_array' value='A8 DD 6F ED DC 0A 84 4F AD B3 86 86 C2 0D 71 B7'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_act_ratman_lord_attack'/>
+        <uid type='byte_array' value='3E 28 DB 40 B6 E3 96 43 A1 71 CE 79 B2 52 D8 3C'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_ghost_transformation_sfx'/>
+        <uid type='byte_array' value='42 69 BC 05 D8 4E 6D 4D BB B2 0D CB 48 27 83 AC'/>
+      </Item>
+      <Item>
+        <name type='string' value='lord_rabbit_sfx'/>
+        <uid type='byte_array' value='C5 F1 98 65 FB 78 9C 42 A1 97 2F 46 47 29 77 3D'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_goblin_bow_aoe_shot_sfx'/>
+        <uid type='byte_array' value='9C 9A 7B 9C CC 5F 3D 4F 83 DA F3 75 61 C4 20 1A'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_warrior_shield_bash_sfx'/>
+        <uid type='byte_array' value='7E 39 6F 2C B3 AE 79 49 98 8B 5C 77 87 9A D2 0B'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_mage_black_aoe_sfx'/>
+        <uid type='byte_array' value='2D FB 32 39 80 1A C2 44 9B 7F 85 55 01 1F 57 06'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_healer_sympathy'/>
+        <uid type='byte_array' value='79 76 42 66 46 46 25 43 83 5D 0C DA 93 2E F6 1E'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_wizard_fire_lasso'/>
+        <uid type='byte_array' value='C5 62 4D 47 79 35 C7 42 BF DA 1E 41 A0 68 C2 CF'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_cleric_no_cd'/>
+        <uid type='byte_array' value='8E 89 99 3D CD E2 DF 4D AC 27 48 24 03 B0 26 15'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_cleric_aoe_heal'/>
+        <uid type='byte_array' value='FB 7B 59 9C C8 AA 18 4A B0 D2 02 47 6C AD 05 D2'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_wizard_fire_ring'/>
+        <uid type='byte_array' value='26 85 3A C7 F4 93 E7 49 80 32 CE A1 09 38 1D 3D'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_cleric_breathe'/>
+        <uid type='byte_array' value='33 49 27 99 E3 52 66 42 8A 11 A0 B8 C3 6A 89 56'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_vamp_mind_blast'/>
+        <uid type='byte_array' value='5A 09 E0 3E 27 6D 90 4D AF F9 96 72 4E CE BC 4E'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_vamp_reconstruction'/>
+        <uid type='byte_array' value='43 1C 56 E3 64 B4 1F 48 90 3C B3 7B A9 8B 12 92'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_warrior_shield_cover'/>
+        <uid type='byte_array' value='73 0C 1F 6B 27 15 97 42 BA 15 B9 3E 67 9E 5C D3'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_barlog_stone_hit'/>
+        <uid type='byte_array' value='56 F7 06 99 09 88 4E 48 B6 26 F5 24 AC A7 78 63'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_barlog_teleport'/>
+        <uid type='byte_array' value='F8 F6 A3 BE 6B 3B DD 4A 8C 61 D1 A9 DE 5B 87 F3'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_goblin_super_shot'/>
+        <uid type='byte_array' value='DE E1 C7 74 7E 97 71 40 90 48 2D 8B FC 7F 14 03'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_elf_armor_penetrate'/>
+        <uid type='byte_array' value='0A 4D DF B4 13 E2 B3 41 97 5A D9 A3 D9 C9 AE 32'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_elf_lord_aoe_roots'/>
+        <uid type='byte_array' value='02 5E 1C C1 46 55 FF 4D 9A EA 02 19 32 E9 DC 04'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_elf_lord_aoe_arrows'/>
+        <uid type='byte_array' value='E0 FE D8 46 9B 04 FA 4C BE 9B 60 30 EC 35 6B F1'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lorg_ogre_sleepiness'/>
+        <uid type='byte_array' value='8B 01 5F CF 79 DC 63 48 99 0C A1 26 D7 2C 28 B2'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lorg_ogre_curveball'/>
+        <uid type='byte_array' value='F0 9C 64 12 A5 B7 4A 43 A1 31 F4 EE B3 32 0B CF'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_ratman_lord_teleport'/>
+        <uid type='byte_array' value='EC 44 04 ED A8 B7 E8 4C AA 4A B3 5A 75 89 18 48'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_pala_ring_attack'/>
+        <uid type='byte_array' value='01 5A 2D C6 FD E5 8B 42 99 7B 21 93 FD 6B 57 8D'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_pala_teleport'/>
+        <uid type='byte_array' value='FB 13 B6 30 C2 DE 5A 40 97 87 5E 8D 61 E8 8C FF'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_werewolf_elem_hit'/>
+        <uid type='byte_array' value='3A 9A CE AA 44 DD D9 4C 8A 1D D8 81 17 38 F3 34'/>
+      </Item>
+      <Item>
+        <name type='string' value='test_explosion'/>
+        <uid type='byte_array' value='8B 24 24 25 0D DB C5 42 9A 34 03 45 0D C4 A3 C9'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_wizard_fire_launcher'/>
+        <uid type='byte_array' value='66 DA 74 7C E7 2E 96 49 89 42 E1 72 38 3E 2A AC'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_werewolf_alchemy'/>
+        <uid type='byte_array' value='21 AC 7C 5E 3B CB BB 4A B8 2D D3 F6 0B 7C 34 9F'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_skeleton_lord_sound_blast'/>
+        <uid type='byte_array' value='3D 3C 6E 6A 26 93 1C 4A A6 7F 15 29 D8 13 A7 59'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_skeleton_lord_march'/>
+        <uid type='byte_array' value='2E 35 D3 D4 A3 B8 D9 40 93 FC 57 22 08 C6 31 94'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_skeleton_lord_ring_hit'/>
+        <uid type='byte_array' value='34 01 5D 67 C7 88 29 46 9F 39 38 E6 C7 D9 D0 8D'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_rabbit_super_hit'/>
+        <uid type='byte_array' value='84 57 18 FC 75 01 5C 4B 9B D9 A1 5B 43 C6 9C 66'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_imp_weak_healer'/>
+        <uid type='byte_array' value='A8 01 90 5D 30 0D D1 4C A0 60 90 4A 56 65 09 73'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_blademaster_invincible'/>
+        <uid type='byte_array' value='8A DC 00 35 29 7D 29 47 89 D8 AA 54 55 9D 32 15'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_skeleton_lord_berserk'/>
+        <uid type='byte_array' value='2D 1D 60 CA 19 6D ED 42 BA AA 47 BD AE 79 1F B2'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_blademaster_bonesetter'/>
+        <uid type='byte_array' value='4F 5E D2 BE E1 28 5E 46 9F 56 13 C4 37 62 5B 43'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_lord_blademaster_heavy_hit'/>
+        <uid type='byte_array' value='12 A0 72 84 10 FD EE 49 90 08 D2 E2 38 D4 37 45'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_sag_accurate_shot'/>
+        <uid type='byte_array' value='12 7E 66 A8 E3 22 65 47 B5 69 B8 91 88 D9 A9 6C'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_sag_accurate_shot_hit'/>
+        <uid type='byte_array' value='7C A3 C0 F7 7C 57 90 4C B5 2F 6F A8 09 13 ED 59'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_sag_one_shot'/>
+        <uid type='byte_array' value='2B 13 24 E7 8B 72 4B 47 99 94 5D 27 7E EE 0F 93'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_sag_magic_arrow'/>
+        <uid type='byte_array' value='F2 87 DA 91 90 44 CB 49 AD 15 CB 9F EC 7D 42 83'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_sag_magic_arrow_hit'/>
+        <uid type='byte_array' value='53 F3 36 80 E8 86 3E 46 80 57 AD A4 A8 50 87 3D'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_sag_explosive_arrow'/>
+        <uid type='byte_array' value='E4 C5 72 38 23 E3 D7 41 80 7A 7A F8 97 70 3F 0F'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_shaman_dispell'/>
+        <uid type='byte_array' value='64 83 88 00 20 C1 74 46 94 A2 D1 83 C4 D7 BF 25'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_shaman_monstrous'/>
+        <uid type='byte_array' value='87 FD 38 EC 79 DA 7B 43 BF 94 AE 98 DA AF 02 E3'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_slow_dot'/>
+        <uid type='byte_array' value='00 AF 57 4D CF B4 F1 42 A9 89 9A 45 7E 2E D1 90'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_slow_dot_hit'/>
+        <uid type='byte_array' value='1D CD 01 D3 76 CE 49 4D 92 A6 E8 41 C2 3D FF 0E'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_shaman_aoe_heal'/>
+        <uid type='byte_array' value='A0 B3 D1 EB 9E 0A 06 49 87 A8 31 A4 F2 FD B9 9B'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_turtle_summon'/>
+        <uid type='byte_array' value='EF 2F 08 CE B5 A3 F2 4C BF FB 4E 7B 5C 86 CC 34'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_knight_cleave'/>
+        <uid type='byte_array' value='C5 D8 50 69 47 94 11 47 91 E0 2D 99 67 1D B5 13'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_aoe_death'/>
+        <uid type='byte_array' value='93 DE 47 DF 2C A7 5D 46 BC 12 17 7E 4C C7 BD BB'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_armor_hartred'/>
+        <uid type='byte_array' value='17 E4 9C 7C 95 12 52 4A BF 99 3C 19 08 82 9A 7F'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_hit_with_swoop'/>
+        <uid type='byte_array' value='79 51 D5 98 7C 18 AD 47 94 87 B5 8F B6 DD B9 2D'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_fast_dot'/>
+        <uid type='byte_array' value='15 88 B7 BB D4 3D F2 48 AC 9D 69 8E 35 FB 5E F4'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_fast_dot_hit'/>
+        <uid type='byte_array' value='64 B8 A0 DA F2 EB 84 4E AB 3E 9A 5B E7 C6 DD 14'/>
+      </Item>
+      <Item>
+        <name type='string' value='treant_dry_lair_sfx'/>
+        <uid type='byte_array' value='B2 DE 2D 64 77 CD 23 4D 9C 26 11 DE DB 72 1B A8'/>
+      </Item>
+      <Item>
+        <name type='string' value='treant_dry_sfx'/>
+        <uid type='byte_array' value='1A F1 2E 78 34 8C A9 45 B2 F4 4B 7A 0D 77 3D FC'/>
+      </Item>
+      <Item>
+        <name type='string' value='wolf_nightmare_eye_sfx'/>
+        <uid type='byte_array' value='91 E1 00 6D B9 57 62 41 86 0D 5B F0 2F 43 3B 29'/>
+      </Item>
+      <Item>
+        <name type='string' value='wolf_nightmare_sfx'/>
+        <uid type='byte_array' value='F9 5C 12 A0 21 E4 07 42 B0 D3 A5 6F A4 6C 53 E1'/>
+      </Item>
+      <Item>
+        <name type='string' value='wolf_nightmare_lair_sfx'/>
+        <uid type='byte_array' value='74 36 28 43 DE 9B E1 48 99 27 FE 41 CD 64 4F 4B'/>
+      </Item>
+      <Item>
+        <name type='string' value='elemental_water_sfx'/>
+        <uid type='byte_array' value='A4 B6 F4 31 0E A5 66 4E 89 B6 26 E4 27 0D 0E 83'/>
+      </Item>
+      <Item>
+        <name type='string' value='elemental_diamond_sfx'/>
+        <uid type='byte_array' value='72 F3 9E B3 CB E3 3E 44 93 FC 06 BF C5 11 0A CD'/>
+      </Item>
+      <Item>
+        <name type='string' value='cockroach_hell_sfx'/>
+        <uid type='byte_array' value='70 75 3C 99 24 53 23 48 88 9A 65 11 6D C4 7D 88'/>
+      </Item>
+      <Item>
+        <name type='string' value='ghost_bad_sfx'/>
+        <uid type='byte_array' value='F7 E3 AF AA A3 5B E3 4D 9C CC A0 B0 DC 0B 04 6B'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_spider_red_sfx'/>
+        <uid type='byte_array' value='C8 AC B3 4D 0D 9C 58 44 96 A2 8D E0 24 7B 50 67'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_treant_dry_summon_sfx'/>
+        <uid type='byte_array' value='06 B6 B0 B1 FE F3 29 4B A9 B2 10 7E 08 C7 F9 0F'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_frozen_water_sfx'/>
+        <uid type='byte_array' value='5F 32 E5 4C 82 31 42 40 A9 38 C5 38 BD 66 70 BC'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_summon_elemental'/>
+        <uid type='byte_array' value='26 B1 1D F6 46 60 D6 4E 90 77 05 AC 97 1E 2A F0'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_diamond_aoe_attack_sfx'/>
+        <uid type='byte_array' value='09 1A E6 F8 8A D3 E0 47 A9 16 A3 17 3F 37 A0 63'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_tramp_attack_sfx'/>
+        <uid type='byte_array' value='2A D7 F5 34 48 7C 09 4A 83 6C 1C BE 24 6A 1A 04'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_poisoned_breath_sfx'/>
+        <uid type='byte_array' value='1C CE 39 F7 1C C7 BC 43 95 B6 E0 F3 13 BA 1D 36'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_ghost_bad_aoe_sfx'/>
+        <uid type='byte_array' value='E4 36 51 3E 8A D1 B0 4E B3 6F 79 31 E2 8A 35 3C'/>
+      </Item>
+      <Item>
+        <name type='string' value='bear_cave_sfx'/>
+        <uid type='byte_array' value='37 C2 95 37 5E FF 46 47 8C 53 63 7D 2A 4E 7C EC'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_bear_roar_sfx'/>
+        <uid type='byte_array' value='90 10 0C 42 1B FE 69 49 B6 02 3A 40 E6 91 8C E1'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_mage_evil_buff_sfx'/>
+        <uid type='byte_array' value='56 C2 10 AB 81 56 93 45 B6 C9 21 D4 C9 E3 1D C2'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_shadow_storm_sfx'/>
+        <uid type='byte_array' value='FE 8D 98 5F 48 85 0B 45 A1 8A 44 70 2D DE 8D 9A'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_treant_dry_cleave_sfx'/>
+        <uid type='byte_array' value='9E E2 8B F5 9D 21 3F 44 95 71 74 85 95 E0 99 3A'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_w_spider_red'/>
+        <uid type='byte_array' value='CD CD 1F DD 24 A3 AC 43 AF 30 AA ED 8D 68 13 6B'/>
+      </Item>
+      <Item>
+        <name type='string' value='spider_red_attack_sfx'/>
+        <uid type='byte_array' value='35 AB 5E 9B 28 81 D2 44 B3 93 54 A5 FF B6 8E 29'/>
+      </Item>
+      <Item>
+        <name type='string' value='zombie_cleave_sfx'/>
+        <uid type='byte_array' value='16 08 66 5E 8F 71 FE 44 B6 45 03 6B 4A A3 68 E6'/>
+      </Item>
+      <Item>
+        <name type='string' value='water_bolt_sfx'/>
+        <uid type='byte_array' value='1B 6C C8 2C 2C 44 6B 4C A3 8D C1 B6 88 C9 89 2E'/>
+      </Item>
+      <Item>
+        <name type='string' value='sfx_abordage'/>
+        <uid type='byte_array' value='0E 2C 69 2A 83 16 20 41 81 68 14 39 B5 1A B7 11'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_abr_agrelas_bless_high_sfx'/>
+        <uid type='byte_array' value='29 31 9A D7 E8 83 C3 47 86 C0 09 3F 50 B2 FF 0D'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_abr_dau_bless_high'/>
+        <uid type='byte_array' value='B8 6B 3E E8 6D 78 4C 46 9E 1C 2A 42 91 29 26 EB'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_abr_gru_bless_high'/>
+        <uid type='byte_array' value='16 F3 2D 59 0E AC 26 4F A5 55 DE 69 C7 25 69 D8'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_punched_arrow_sfx'/>
+        <uid type='byte_array' value='DF 15 2C 1A BA A0 53 4D B6 59 94 F1 B4 AE 6D 4F'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_act_punched_arrow'/>
+        <uid type='byte_array' value='86 31 58 1B F8 26 D4 48 B4 D8 CA 42 85 1C B2 52'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_health_rejuvination_sfx'/>
+        <uid type='byte_array' value='5C 60 E4 60 3A 98 F7 42 AE 7D E7 1D B4 29 14 9D'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_teleport_sfx'/>
+        <uid type='byte_array' value='D3 76 0A 8C DB 4B 77 40 B9 81 9B C1 50 DC 73 42'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_spirit_aoe_heal_sfx'/>
+        <uid type='byte_array' value='15 69 EF 45 7E A3 AA 44 85 76 1E A7 7A 27 63 D9'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_elemental_force_sfx'/>
+        <uid type='byte_array' value='D1 74 BE AE 06 05 5B 46 B8 61 B2 C6 48 A9 93 9A'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_dispell_sfx'/>
+        <uid type='byte_array' value='D6 04 3E EC 18 6C 26 4E 9D D7 05 21 EE 66 EB 4F'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_firebreath_sfx'/>
+        <uid type='byte_array' value='C7 22 FD C4 9E D6 E0 47 A4 22 8C 2A 3B E2 2D 88'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_crashing_blow_sfx'/>
+        <uid type='byte_array' value='EB 41 3B 5D 98 D6 2B 4E B1 39 5D 63 D6 1C 8D BF'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_act_meteor'/>
+        <uid type='byte_array' value='B3 CB 7B FB C2 1A 0A 4C 9B B1 73 16 A2 F3 44 16'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_act_meteor'/>
+        <uid type='byte_array' value='C3 25 E7 FB 38 DA 37 4C B4 0E F3 FE 11 82 A9 1C'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_act_magic_catapult'/>
+        <uid type='byte_array' value='6B 12 78 AD FA AD E8 42 9E 68 AD C2 21 60 FB 6B'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_act_magic_catapult'/>
+        <uid type='byte_array' value='E8 14 DA 19 80 8D DD 40 BD 49 B8 5F 21 25 EC B1'/>
+      </Item>
+      <Item>
+        <name type='string' value='shoot_act_water_bolt'/>
+        <uid type='byte_array' value='02 4C E5 6B B4 E1 E3 44 B4 A3 85 EA 10 8C B4 D9'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_paralize_mind_arrow'/>
+        <uid type='byte_array' value='CD 34 33 C3 45 7C 30 4E AA 6F BC 66 1F 8D 50 BE'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_paralize_mind_hit'/>
+        <uid type='byte_array' value='F1 6E BB A1 AD 40 E9 46 97 52 70 AF EC 58 9A 57'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_spirit_healing_sfx'/>
+        <uid type='byte_array' value='69 0B 91 CE 6F 44 1B 45 BD 01 11 4D BF 54 6E F1'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_act_head_shot'/>
+        <uid type='byte_array' value='7D 58 CA B6 3C 5D F9 4A B2 BD 9D 07 02 E9 9A 1B'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_violent_attack_sfx'/>
+        <uid type='byte_array' value='FE 59 0B 16 2E 3A D8 4F 8F C6 53 4E 80 B2 DA 57'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_mind_strength_sfx'/>
+        <uid type='byte_array' value='6C 07 21 63 56 3C 29 4E A5 CB 8B 21 35 56 F1 FD'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_warlock_curse_sfx'/>
+        <uid type='byte_array' value='33 B3 A7 99 D5 6D 7A 4D A5 5B E5 A7 85 96 2C BA'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_death_kick_sfx'/>
+        <uid type='byte_array' value='69 52 C0 0B C5 60 CF 4C BF AE 99 C7 2C 8E 8A F6'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_deathspirit_curse_sfx'/>
+        <uid type='byte_array' value='B6 66 A2 42 18 5E 29 4C B5 34 69 6D 8E 44 7A BC'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_chaos_mystery_sfx'/>
+        <uid type='byte_array' value='1F E3 0F 6E 4A 1B C6 47 94 1E F8 7B CD 71 F5 E2'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_tr_sea2plains'/>
+        <uid type='byte_array' value='7A EC C9 F7 19 AF 9A 47 92 47 9C 6C 44 56 4C F9'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_tr_mount2hills'/>
+        <uid type='byte_array' value='43 70 63 76 89 EE 8C 47 81 E8 27 37 5C 8D 30 35'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_tr_sea2plains_aoe'/>
+        <uid type='byte_array' value='8A 9E 1F 95 A4 8F 17 48 B4 E0 7B 3F 07 DF 19 A7'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_tr_mount2hills_aoe'/>
+        <uid type='byte_array' value='85 CA 4C 9E 6F BB 3E 4A 85 A3 1F DD 7E CA 0A B5'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_hel_any2dried_aoe'/>
+        <uid type='byte_array' value='6A 53 1C 1C 45 62 2C 4A B1 91 6E DF C0 CB D5 0E'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_kry_tr_any2dead_aoe'/>
+        <uid type='byte_array' value='C4 EA AB 92 E7 9A 04 41 AF 90 FD 3A 92 E5 37 96'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_agrela_tr_any2live_aoe'/>
+        <uid type='byte_array' value='F8 B1 7F FF 70 A0 14 4D 89 2D 2E CB 96 E1 85 55'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_krolm_tr_modified2initial'/>
+        <uid type='byte_array' value='45 03 C5 C4 81 CB 83 46 9A 4E 18 D8 06 9E 95 29'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_lun_tr_plains2sea_aoe'/>
+        <uid type='byte_array' value='05 7B 21 F4 A5 28 2F 41 88 0B 99 D9 C0 91 83 24'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_gru_tr_plains2swamp_aoe'/>
+        <uid type='byte_array' value='6E E0 25 18 97 29 92 4F A6 4F 03 1C 04 FC 7B 51'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_fer_tr_any2forest_aoe'/>
+        <uid type='byte_array' value='2A AB EA 80 39 73 1D 46 96 6A 84 98 24 6F 45 51'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_tr_any2plains'/>
+        <uid type='byte_array' value='D7 34 50 0E 49 EB DE 46 A4 6D F2 40 61 34 B2 A5'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_tr_any2volcano'/>
+        <uid type='byte_array' value='4F 09 E9 6B 68 94 24 4F A2 AD 7A F0 05 07 37 AC'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_tr_modified2initial'/>
+        <uid type='byte_array' value='70 B7 88 E8 02 E3 5F 44 BA F1 A2 79 94 AD 19 AA'/>
+      </Item>
+      <Item>
+        <name type='string' value='temp_4_tigra'/>
+        <uid type='byte_array' value='2F 81 A1 5C E1 96 99 49 82 C5 3B 03 1A 0D A4 A5'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_tr_any2barrens'/>
+        <uid type='byte_array' value='E4 0F 63 9B 2B B8 28 40 80 5A C7 A8 60 36 00 DF'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_tr_any2frozen_aoe'/>
+        <uid type='byte_array' value='D4 EA BA C6 AB 37 AD 4B 96 65 AA FD 98 50 35 C5'/>
+      </Item>
+      <Item>
+        <name type='string' value='Evil_node_static_sfx'/>
+        <uid type='byte_array' value='8C 8D 36 20 9E 0D F3 4C 86 2D FA 76 BE D4 94 CE'/>
+      </Item>
+      <Item>
+        <name type='string' value='Evil_node_pulse_sfx'/>
+        <uid type='byte_array' value='C5 B7 31 DF 56 6F CC 4E 97 48 0D 08 BD AC 79 81'/>
+      </Item>
+      <Item>
+        <name type='string' value='Evil_node_explode_sfx'/>
+        <uid type='byte_array' value='7F E7 C1 CF 93 90 FF 4B B9 48 84 DE 81 A9 50 70'/>
+      </Item>
+      <Item>
+        <name type='string' value='evil_corruption_sfx'/>
+        <uid type='byte_array' value='BA 66 8E A1 57 E7 54 4D 86 0A 7A F5 B4 BD 81 17'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_evil_node_sfx'/>
+        <uid type='byte_array' value='A2 B8 C0 A1 A8 0E A1 42 B0 BE F3 33 31 1C CE 03'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_evil_node_sfx'/>
+        <uid type='byte_array' value='82 97 FC D1 97 46 F4 4D 9B DF 4C 0B A2 2E 25 F2'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_teleportation_evil'/>
+        <uid type='byte_array' value='39 A7 AF 73 56 5A FC 4B 8A B5 A1 C5 3F 07 D4 48'/>
+      </Item>
+      <Item>
+        <name type='string' value='Evil_node_spawn_sfx'/>
+        <uid type='byte_array' value='30 08 CB 76 9D 50 DB 4C A3 8E 85 39 2E 66 77 83'/>
+      </Item>
+      <Item>
+        <name type='string' value='arrow_evil_castle_sfx'/>
+        <uid type='byte_array' value='69 CA 53 0B 2F 6D 70 49 96 96 C3 D9 16 88 55 E7'/>
+      </Item>
+      <Item>
+        <name type='string' value='hit_evil_castle_sfx'/>
+        <uid type='byte_array' value='DE 32 09 49 90 14 9F 42 8F 02 79 31 01 66 9E 5D'/>
+      </Item>
+      <Item>
+        <name type='string' value='evil_key_attack_sfx'/>
+        <uid type='byte_array' value='32 A4 B0 FE 75 CE E8 49 9C 40 B8 3F 5D 9C 0C AD'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_capital_transfer'/>
+        <uid type='byte_array' value='EB E3 B9 72 29 99 9B 41 85 74 05 A0 34 79 02 15'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_incinerate_tornado'/>
+        <uid type='byte_array' value='24 A7 93 64 2B EC 92 4C A3 8B D6 C1 29 D5 A4 64'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_giga_slay'/>
+        <uid type='byte_array' value='AF 82 E5 75 1B 53 B3 4A 89 1F 9B A9 82 A3 B7 3E'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_fr_magic_boost_les'/>
+        <uid type='byte_array' value='70 DD 7B FD FF DD 15 48 BA 67 1D 7B 42 7E DD 64'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_fr_magic_boost_gr'/>
+        <uid type='byte_array' value='08 22 E2 8A B4 99 35 48 99 68 33 46 93 C0 9A 33'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_tr_meteor_fall'/>
+        <uid type='byte_array' value='B9 4B AA 12 FD 19 38 4C 83 C6 B9 2F 34 E3 80 DB'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_tr_earthquake'/>
+        <uid type='byte_array' value='14 48 43 E7 40 76 7E 4D 80 68 A3 0B 53 C2 78 6F'/>
+      </Item>
+      <Item>
+        <name type='string' value='sp_arc_giga_life'/>
+        <uid type='byte_array' value='F8 DE E1 99 48 A9 FA 4B A2 12 A5 4A 0C 1C C3 7A'/>
+      </Item>
+      <Item>
+        <name type='string' value='z_defeated_great_mage'/>
+        <uid type='byte_array' value='F8 F5 37 73 B6 33 EA 40 89 67 6B 28 6F A2 E8 8C'/>
+      </Item>
+      <Item>
+        <name type='string' value='z_evil_thrower'/>
+        <uid type='byte_array' value='28 F3 9D 9F 21 41 AB 4F 94 A4 B6 FF 87 C7 06 34'/>
+      </Item>
+      <Item>
+        <name type='string' value='z_evil_mage'/>
+        <uid type='byte_array' value='19 A1 E5 B4 02 42 4F 4D 80 61 D9 6F CE 27 53 AF'/>
+      </Item>
+      <Item>
+        <name type='string' value='z_evil_sturdy'/>
+        <uid type='byte_array' value='BA AC 48 8B 4B 65 FB 45 82 FB EC 1C 2C B1 E9 AA'/>
+      </Item>
+      <Item>
+        <name type='string' value='z_sea_behemoth'/>
+        <uid type='byte_array' value='2E 32 E2 A3 F7 EA DD 43 BC 0C C8 B7 94 3E FD 4A'/>
+      </Item>
+      <Item>
+        <name type='string' value='z_villain_of_piece'/>
+        <uid type='byte_array' value='D3 26 78 AB 39 AD D5 48 BA A6 80 AA AF 27 F0 11'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_tr_fire_tornado'/>
+        <uid type='byte_array' value='71 00 DA 39 08 2C DA 44 AF 9C 73 B7 32 89 01 5E'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_spirit_tornado'/>
+        <uid type='byte_array' value='1D EB E1 16 C9 8E 39 4B 8D D1 8F D1 D5 E4 B6 B0'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_tr_death_tornado'/>
+        <uid type='byte_array' value='E9 72 01 8C 05 FF 87 45 BB 70 2A 79 04 D6 83 4D'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_brute_dot'/>
+        <uid type='byte_array' value='FE 87 6C 77 96 07 CC 4A 94 34 12 BA 0D 1F A8 50'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_brute_adv_dot'/>
+        <uid type='byte_array' value='1C 5E EA 89 5E 56 17 4B BE 15 6E 65 AC F2 CE C9'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_thrower_dot'/>
+        <uid type='byte_array' value='9B 35 DD 09 23 DF 16 4B 8D 5D EC F4 60 53 00 F5'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_slow_movement'/>
+        <uid type='byte_array' value='67 A2 30 C0 B7 B6 FF 4C A0 80 83 AB 38 03 70 23'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_nulify'/>
+        <uid type='byte_array' value='8F C6 5E A5 6A 69 99 4C 98 95 73 6E 18 A6 7B CE'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_evil_breathe'/>
+        <uid type='byte_array' value='B1 BE 49 48 81 E3 C8 47 A7 00 54 B1 00 44 73 5F'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_sturdy_aoe_attack'/>
+        <uid type='byte_array' value='A9 A0 2F 96 79 F0 5E 48 86 CC 88 85 92 A1 A7 59'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_behemoth_attack'/>
+        <uid type='byte_array' value='70 16 28 EC 7D 32 95 43 9E 0A 31 AC 12 46 CE AA'/>
+      </Item>
+      <Item>
+        <name type='string' value='act_villain_attack'/>
+        <uid type='byte_array' value='A0 D9 92 4D 3C 76 FE 47 94 C8 80 D5 49 50 BA CC'/>
+      </Item>
+    </Items>
+  </objects>
+</SkyDataEx>

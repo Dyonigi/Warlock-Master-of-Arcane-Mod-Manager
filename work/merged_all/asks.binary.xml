@@ -1,0 +1,2996 @@
+<AskDataList>
+  <item>
+    <objectType type='string' value='a_dwarf_war'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_dwarf_war'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_dwarf_war'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_dwarf_war_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_dwarf_war_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_dwarf_war_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_elf_bow'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_elf_bow'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_elf_bow'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_elf_bow_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_elf_bow_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_elf_bow_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_halberdier'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_halberdier'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_halberdier'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_halberdier_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_halberdier_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_halberdier_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_knight_donkey'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_knight_donkey'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_knight_donkey'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_lizardman_bow'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_lizardman_bow'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_lizardman_bow'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_lizardman_shaman'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_lizardman_shaman'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_lizardman_shaman'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_lizardman_spear'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_lizardman_spear'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_lizardman_spear'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_minotaur_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_minotaur_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_minotaur_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_minotaur_war'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_minotaur_war'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='a_minotaur_war'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Amain_screen_1'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Amain_screen_2'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Amain_screen_3'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Amain_screen_4'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Amain_screen_5'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Amain_screen_6'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Amain_screen_7'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Amain_screen_8'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Adiplomacy_screen_1'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Amagic_screen_1'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Amagic_screen_2'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Acity_screen_1'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Acity_screen_2'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Acity_screen_3'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Aquest_screen_1'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Anew_quest_'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Aexit_game'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Amage_defeated'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Aunity_cast'/>
+    <amount type='integer' value='3'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Aportal_found'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Acity_founded'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Arival_appeared'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Avictory_cleric'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Avictory_tyrant'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Avictory_unity'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Avictory_god'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Avictory_dremer'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Aavatar_appeared'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Aspell_completed'/>
+    <amount type='integer' value='3'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Atemple_completed'/>
+    <amount type='integer' value='3'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Acataclysm_news'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Akeys_appeared'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Ateleport_spell_completed'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Adremer_appeared'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Agates_exloded'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='adviser'/>
+    <actionType type='string' value='Amage_shadow'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_dragon_rider'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_dragon_rider'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_dragon_rider'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_archer'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_archer'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_archer'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_archer_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_archer_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_archer_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_knight'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_knight'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_knight'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_knight_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_knight_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_knight_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_lancer'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_lancer'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_lancer'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_lancer_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_lancer_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_lancer_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_settler'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_settler'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_settler'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_warlock'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_warlock'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_warlock'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_warlock_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_warlock_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_elf_warlock_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_flying_island'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_flying_island'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_flying_island'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_flying_island_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_flying_island_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_flying_island_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_phoenix'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_phoenix'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_phoenix'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_ship_war'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_ship_war'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_ship_war'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_ship_war_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_ship_war_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_ship_war_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_spirit_of_death'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_spirit_of_death'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_spirit_of_death'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_spirit_of_life'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_spirit_of_life'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='e_spirit_of_life'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_agrela_priestess'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_agrela_priestess'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_agrela_priestess'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_agrela_priestess'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_agrela_priestess'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_agrela_priestess'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_agrela_priestess'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_agrela_priestess'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_agrela_priestess'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_clown'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_clown'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_clown'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_clown'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_clown'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_clown'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_clown'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_clown'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_clown'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dark_elf'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dark_elf'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dark_elf'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dark_elf'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dark_elf'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dark_elf'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dark_elf'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dark_elf'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dark_elf'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_death_knight'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_death_knight'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_death_knight'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_death_knight'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_death_knight'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_death_knight'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_death_knight'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_death_knight'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_death_knight'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dog'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dog'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dog'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dog'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dog'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dog'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dog'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dog'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dog'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon_master'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon_master'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon_master'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon_master'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon_master'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon_master'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon_master'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon_master'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_dragon_master'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ghost'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ghost'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ghost'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ghost'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ghost'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ghost'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ghost'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ghost'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ghost'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ice_mage'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ice_mage'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ice_mage'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ice_mage'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ice_mage'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ice_mage'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ice_mage'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ice_mage'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_ice_mage'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krolm_chosen'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krolm_chosen'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krolm_chosen'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krolm_chosen'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krolm_chosen'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krolm_chosen'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krolm_chosen'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krolm_chosen'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krolm_chosen'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krypta_priestess'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krypta_priestess'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krypta_priestess'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krypta_priestess'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krypta_priestess'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krypta_priestess'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krypta_priestess'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krypta_priestess'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_krypta_priestess'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lich'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lich'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lich'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lich'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lich'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lich'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lich'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lich'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lich'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lizard_queen'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lizard_queen'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lizard_queen'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lizard_queen'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lizard_queen'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lizard_queen'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lizard_queen'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lizard_queen'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_lizard_queen'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_rat'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_rat'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_rat'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_rat'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_rat'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_rat'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_rat'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_rat'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_rat'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_shaman'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_shaman'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_shaman'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_shaman'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_shaman'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_shaman'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_shaman'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_shaman'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_shaman'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_wizard'/>
+    <actionType type='string' value='MStart'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_wizard'/>
+    <actionType type='string' value='MHappy'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_wizard'/>
+    <actionType type='string' value='MNormal'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_wizard'/>
+    <actionType type='string' value='MFury'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_wizard'/>
+    <actionType type='string' value='MWar'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_wizard'/>
+    <actionType type='string' value='MPeace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_wizard'/>
+    <actionType type='string' value='MForced_Peace'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_wizard'/>
+    <actionType type='string' value='MTalks'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='f_wizard'/>
+    <actionType type='string' value='MTalks_Asked'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_agrela'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_agrela'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_dauros'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_dauros'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_fervus'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_fervus'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_grumgog'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_grumgog'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_helia'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_helia'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_krolm'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_krolm'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_krypta'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_krypta'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_lunord'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='g_lunord'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_assassin'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_assassin'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_assassin'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_beastmaster'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_beastmaster'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_beastmaster'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_blademaster'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_blademaster'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_blademaster'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_cleric'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_cleric'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_cleric'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_cleric_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_cleric_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_cleric_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_darkpriest'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_darkpriest'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_darkpriest'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_mage'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_mage'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_mage'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_mage_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_mage_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_mage_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_marksman'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_marksman'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_marksman'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_paladin'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_paladin'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_paladin'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_priest'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_priest'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_priest'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_ranger'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_ranger'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_ranger'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_ranger_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_ranger_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_ranger_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_rogue'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_rogue'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_rogue'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_rogue_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_rogue_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_rogue_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_settler_peasant'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_settler_peasant'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_settler_peasant'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_ship_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_ship_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_ship_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_ship_war'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_ship_war'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_ship_war'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_warrior'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_warrior'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_warrior'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_warrior_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_warrior_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='h_warrior_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_barlog'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_barlog'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_barlog'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_blademaster'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_blademaster'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_blademaster'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_cleric'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_cleric'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_cleric'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_dark_elf'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_dark_elf'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_dark_elf'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_donkey_knight'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_donkey_knight'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_donkey_knight'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_elf_bow'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_elf_bow'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_elf_bow'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_ghost'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_ghost'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_ghost'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_goblin_bow'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_goblin_bow'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_goblin_bow'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_imp'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_imp'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_imp'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_koatl_warlock'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_koatl_warlock'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_koatl_warlock'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_mage_black'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_mage_black'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_mage_black'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_ogre'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_ogre'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_ogre'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_paladin_spirit'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_paladin_spirit'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_paladin_spirit'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_rabbit'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_rabbit'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_rabbit'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_ratman'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_ratman'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_ratman'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_shaman'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_shaman'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_shaman'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_skeleton'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_skeleton'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_skeleton'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_vampire'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_vampire'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_vampire'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_warrior'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_warrior'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_warrior'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_werewolf_dragon'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_werewolf_dragon'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_werewolf_dragon'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_wizard'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_wizard'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='lord_wizard'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_anubis'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_anubis'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_anubis'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_druid'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_druid'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_druid'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_bow'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_bow'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_bow'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_bow_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_bow_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_bow_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_champion'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_champion'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_champion'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_shaman'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_shaman'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_shaman'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_shaman_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_shaman_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_shaman_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_spear'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_spear'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_spear'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_spear_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_spear_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_goblin_spear_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_ratman'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_ratman'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_ratman'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_ratman_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_ratman_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_ratman_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_ratman_paladin'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_ratman_paladin'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_ratman_paladin'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_settler_gnomes'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_settler_gnomes'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_settler_gnomes'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_ship_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_ship_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_ship_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_ship_war'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_ship_war'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_ship_war'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_troll'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_troll'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_troll'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_troll_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_troll_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_troll_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_werewolf'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_werewolf'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_werewolf'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_werewolf_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_werewolf_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='m_werewolf_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_adept'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_adept'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_adept'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_bomber'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_bomber'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_bomber'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_bomber_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_bomber_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_bomber_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_dead_paladin_girl'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_dead_paladin_girl'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_dead_paladin_girl'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_dragon_bone_twohead'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_dragon_bone_twohead'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_dragon_bone_twohead'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_ghost'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_ghost'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_ghost'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_krolm_chosen'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_krolm_chosen'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_krolm_chosen'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_lich'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_lich'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_lich'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_ship_war'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_ship_war'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_ship_war'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_vampire'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_vampire'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_vampire'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_vampire_adv'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_vampire_adv'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_vampire_adv'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_zombie'/>
+    <actionType type='string' value='USelecting'/>
+    <amount type='integer' value='4'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_zombie'/>
+    <actionType type='string' value='UAttack'/>
+    <amount type='integer' value='2'/>
+    <hasSuffix type='bool' value='1'/>
+  </item>
+  <item>
+    <objectType type='string' value='u_zombie'/>
+    <actionType type='string' value='UDeath'/>
+    <amount type='integer' value='1'/>
+    <hasSuffix type='bool' value='0'/>
+  </item>
+</AskDataList>

@@ -1,0 +1,144 @@
+<GenLimits>
+  <items>
+    <Item>
+      <items>
+        <Item>
+          <maxFractions type='integer' value='1'/>
+          <maxWorlds type='integer' value='0'/>
+          <defaultMaxFractions type='integer' value='1'/>
+          <defaultMaxWorlds type='integer' value='0'/>
+        </Item>
+        <Item>
+          <maxFractions type='integer' value='1'/>
+          <maxWorlds type='integer' value='0'/>
+          <defaultMaxFractions type='integer' value='1'/>
+          <defaultMaxWorlds type='integer' value='0'/>
+        </Item>
+        <Item>
+          <maxFractions type='integer' value='1'/>
+          <maxWorlds type='integer' value='0'/>
+          <defaultMaxFractions type='integer' value='1'/>
+          <defaultMaxWorlds type='integer' value='0'/>
+        </Item>
+        <Item>
+          <maxFractions type='integer' value='1'/>
+          <maxWorlds type='integer' value='0'/>
+          <defaultMaxFractions type='integer' value='1'/>
+          <defaultMaxWorlds type='integer' value='0'/>
+        </Item>
+      </items>
+    </Item>
+    <Item>
+      <items>
+        <Item>
+          <maxFractions type='integer' value='2'/>
+          <maxWorlds type='integer' value='2'/>
+          <defaultMaxFractions type='integer' value='1'/>
+          <defaultMaxWorlds type='integer' value='2'/>
+        </Item>
+        <Item>
+          <maxFractions type='integer' value='2'/>
+          <maxWorlds type='integer' value='2'/>
+          <defaultMaxFractions type='integer' value='1'/>
+          <defaultMaxWorlds type='integer' value='2'/>
+        </Item>
+        <Item>
+          <maxFractions type='integer' value='2'/>
+          <maxWorlds type='integer' value='2'/>
+          <defaultMaxFractions type='integer' value='1'/>
+          <defaultMaxWorlds type='integer' value='2'/>
+        </Item>
+        <Item>
+          <maxFractions type='integer' value='2'/>
+          <maxWorlds type='integer' value='2'/>
+          <defaultMaxFractions type='integer' value='1'/>
+          <defaultMaxWorlds type='integer' value='2'/>
+        </Item>
+      </items>
+    </Item>
+    <Item>
+      <items>
+        <Item>
+          <maxFractions type='integer' value='4'/>
+          <maxWorlds type='integer' value='3'/>
+          <defaultMaxFractions type='integer' value='3'/>
+          <defaultMaxWorlds type='integer' value='2'/>
+        </Item>
+        <Item>
+          <maxFractions type='integer' value='4'/>
+          <maxWorlds type='integer' value='3'/>
+          <defaultMaxFractions type='integer' value='3'/>
+          <defaultMaxWorlds type='integer' value='2'/>
+        </Item>
+        <Item>
+          <maxFractions type='integer' value='4'/>
+          <maxWorlds type='integer' value='3'/>
+          <defaultMaxFractions type='integer' value='3'/>
+          <defaultMaxWorlds type='integer' value='2'/>
+        </Item>
+        <Item>
+          <maxFractions type='integer' value='3'/>
+          <maxWorlds type='integer' value='3'/>
+          <defaultMaxFractions type='integer' value='2'/>
+          <defaultMaxWorlds type='integer' value='2'/>
+        </Item>
+      </items>
+    </Item>
+    <Item>
+      <items>
+        <Item>
+          <maxFractions type='integer' value='6'/>
+          <maxWorlds type='integer' value='5'/>
+          <defaultMaxFractions type='integer' value='4'/>
+          <defaultMaxWorlds type='integer' value='3'/>
+        </Item>
+        <Item>
+          <maxFractions type='integer' value='6'/>
+          <maxWorlds type='integer' value='5'/>
+          <defaultMaxFractions type='integer' value='4'/>
+          <defaultMaxWorlds type='integer' value='3'/>
+        </Item>
+        <Item>
+          <maxFractions type='integer' value='6'/>
+          <maxWorlds type='integer' value='5'/>
+          <defaultMaxFractions type='integer' value='4'/>
+          <defaultMaxWorlds type='integer' value='3'/>
+        </Item>
+        <Item>
+          <maxFractions type='integer' value='4'/>
+          <maxWorlds type='integer' value='5'/>
+          <defaultMaxFractions type='integer' value='3'/>
+          <defaultMaxWorlds type='integer' value='3'/>
+        </Item>
+      </items>
+    </Item>
+    <Item>
+      <items>
+        <Item>
+          <maxFractions type='integer' value='8'/>
+          <maxWorlds type='integer' value='6'/>
+          <defaultMaxFractions type='integer' value='6'/>
+          <defaultMaxWorlds type='integer' value='4'/>
+        </Item>
+        <Item>
+          <maxFractions type='integer' value='8'/>
+          <maxWorlds type='integer' value='6'/>
+          <defaultMaxFractions type='integer' value='6'/>
+          <defaultMaxWorlds type='integer' value='4'/>
+        </Item>
+        <Item>
+          <maxFractions type='integer' value='8'/>
+          <maxWorlds type='integer' value='6'/>
+          <defaultMaxFractions type='integer' value='6'/>
+          <defaultMaxWorlds type='integer' value='4'/>
+        </Item>
+        <Item>
+          <maxFractions type='integer' value='5'/>
+          <maxWorlds type='integer' value='6'/>
+          <defaultMaxFractions type='integer' value='4'/>
+          <defaultMaxWorlds type='integer' value='4'/>
+        </Item>
+      </items>
+    </Item>
+  </items>
+</GenLimits>

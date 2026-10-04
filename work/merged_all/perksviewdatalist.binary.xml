@@ -1,0 +1,420 @@
+<PerksViewDataList>
+  <PerkEffectsList>
+    <item>
+      <name type='string' value='perk_ab_no_cd'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_acid_aoe'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_acid_arrow'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_adapt_CloseAttack'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_adapt_DeathMagic'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_adapt_ElementalMagic'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_adapt_LifeMagic'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_adapt_RangedAttack'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_adapt_SpiritMagic'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_bear_roar'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_black_soul'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_block_adaptation'/>
+      <sfxName type='string' value=''/>
+    </item>
+    <item>
+      <name type='string' value='perk_buff_immunity'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_chitinous_claws'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_chitinous_knives'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_countermagic'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_debuff_chaos_debuff'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_debuff_death_curse'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_debuff_death_kicked'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_debuff_death_weakness'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_debuff_healing_curse'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_debuff_rat_weakness'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_debuff_slow'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_debuff_warlock_curse'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_defence'/>
+      <sfxName type='string' value=''/>
+    </item>
+    <item>
+      <name type='string' value='perk_evil_boss_dot'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_fast_dot'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_fear'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_frozen_water'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_ghost_bodiless'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_healer_weakness'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_invincible'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_lizard_paralyze'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_lord_cleric_shield'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_lord_cleric_sympathy'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_monstrous'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_roots'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_agrela_protection'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_arc_regeneration'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_basic_arrow_resi'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_basic_elem_resi'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_basic_melee_resi'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_berserker'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_bodiless'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_ct_civ_buff'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_ct_dark_ritual'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_ct_food_buff'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_ct_food_grows'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_ct_mana_growth'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_ct_population_growth'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_ct_rapid_growth'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_dauros_total_protection'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_dead_haste'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_dead_power'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_death_immunity'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_easy_walking'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_elem_immunity'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_enchant_deathweapon'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_enchant_fireweapon'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_enchant_frostweapon'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_enchant_lifeweapon'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_enchant_vampweapon'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_excellent_arrow_resi'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_excellent_magic_resi'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_far_seeing'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_fire_aura'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_haste'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_invisible'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_krolm_rage'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_levitation'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_life_immunity'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_shield_of_dauros'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_ships_speed_buff'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_speed_buff'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_spirit_regen_combo'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_spirit_regeneration'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_triumph_of_dead'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_true_sight'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sb_water_walking'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sd_basic_weakness'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sd_blindness'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sd_ct_locust_invasion'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sd_ct_mana_debuff'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sd_ct_midges_invasion'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sd_fer_paralyze'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sd_freezing'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sd_insect_punishment'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sd_slow'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sd_weakness'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_shield_bash'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_shield_cover'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_skeleton_berserk'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_skeleton_march'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_slow_dot'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_sound_blast'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_spawn_disorient'/>
+      <sfxName type='string' value=''/>
+    </item>
+    <item>
+      <name type='string' value='perk_speed_buff'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_spell_lock'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_spiderweb'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_stun'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_summon_unit'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_totem'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+    <item>
+      <name type='string' value='perk_wizard_burn'/>
+      <sfxName type='string' value='universal_debuff'/>
+    </item>
+    <item>
+      <name type='string' value='townEnchant_BlessOfNature'/>
+      <sfxName type='string' value='universal_buff'/>
+    </item>
+  </PerkEffectsList>
+</PerksViewDataList>

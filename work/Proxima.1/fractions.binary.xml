@@ -1,0 +1,1244 @@
+<Fractions>
+  <Fractions>
+    <FractionData>
+      <predefined type='bool' value='0'/>
+      <dlcId type='integer' value='0'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='Neutrals'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='n/a'/>
+          <race type='string' value='humans'/>
+          <selectedColor type='integer' value='0'/>
+          <characterName>
+            <key type='string' value='#mage_Neutrals'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_Instructor'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='0'/>
+        <treacheryTurns type='integer' value='0'/>
+        <greediness type='float' value='1.0'/>
+        <braveness type='float' value='1.0'/>
+        <evilness type='integer' value='0'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='0'/>
+      <dlcId type='integer' value='0'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='Monsters'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='n/a'/>
+          <race type='string' value='monsters'/>
+          <selectedColor type='integer' value='1'/>
+          <characterName>
+            <key type='string' value='#mage_Monsters'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_Instructor'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='0'/>
+        <treacheryTurns type='integer' value='0'/>
+        <greediness type='float' value='1.0'/>
+        <braveness type='float' value='1.0'/>
+        <evilness type='integer' value='0'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='0'/>
+      <dlcId type='integer' value='5'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='Dremer'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='n/a'/>
+          <race type='string' value='dremers'/>
+          <selectedColor type='integer' value='11'/>
+          <characterName>
+            <key type='string' value='#mage_Dremer'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_Instructor'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='0'/>
+        <treacheryTurns type='integer' value='0'/>
+        <greediness type='float' value='1.0'/>
+        <braveness type='float' value='1.0'/>
+        <evilness type='integer' value='0'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='4'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_dark_elf'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='dark_elf'/>
+          <race type='string' value='elves'/>
+          <selectedColor type='integer' value='8'/>
+          <characterName>
+            <key type='string' value='#mage_f_dark_elf'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_Glorious_Tac'/>
+            <Item type='string' value='adv_fractionPerk_lord_imp'/>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='4294967291'/>
+        <treacheryTurns type='integer' value='0'/>
+        <greediness type='float' value='1.0'/>
+        <braveness type='float' value='3.0'/>
+        <evilness type='integer' value='6'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='0'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_wizard'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='wizard'/>
+          <race type='string' value='humans'/>
+          <selectedColor type='integer' value='8'/>
+          <characterName>
+            <key type='string' value='#mage_f_wizard'/>
+            <national type='string' value='Marcus'/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_Archmage'/>
+            <Item type='string' value='adv_fractionPerk_Magnate'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+            <Item type='string' value='adv_sp_arc_basic_dispell'/>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='1'/>
+        <treacheryTurns type='integer' value='4294967295'/>
+        <greediness type='float' value='1.0'/>
+        <braveness type='float' value='7.0'/>
+        <evilness type='integer' value='10'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='0'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_death_knight'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='death_knight'/>
+          <race type='string' value='undead'/>
+          <selectedColor type='integer' value='9'/>
+          <characterName>
+            <key type='string' value='#mage_f_death_knight'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_Instructor'/>
+            <Item type='string' value='adv_fractionPerk_Glorious_Tac'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+            <Item type='string' value='adv_fractionPerk_Archmage'/>
+            <Item type='string' value='adv_sp_arc_basic_dispell'/>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+            <Item type='string' value='adv_love_god_lunord'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='0'/>
+        <treacheryTurns type='integer' value='1'/>
+        <greediness type='float' value='1.0'/>
+        <braveness type='float' value='9.0'/>
+        <evilness type='integer' value='10'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='0'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_agrela_priestess'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='agrela_priestess'/>
+          <race type='string' value='humans'/>
+          <selectedColor type='integer' value='5'/>
+          <characterName>
+            <key type='string' value='#mage_f_agrela_priestess'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_Farmer'/>
+            <Item type='string' value='adv_love_god_agrela'/>
+            <Item type='string' value='adv_fractionPerk_Archmage'/>
+            <Item type='string' value='adv_sp_arc_basic_dispell'/>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+            <Item type='string' value='adv_fractionPerk_elf_Lord'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='1'/>
+        <treacheryTurns type='integer' value='4294967291'/>
+        <greediness type='float' value='0.8999999761581421'/>
+        <braveness type='float' value='1.0'/>
+        <evilness type='integer' value='1'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='0'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_ice_mage'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='ice_mage'/>
+          <race type='string' value='humans'/>
+          <selectedColor type='integer' value='2'/>
+          <characterName>
+            <key type='string' value='#mage_f_ice_mage'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_Conjurer'/>
+            <Item type='string' value='adv_sp_arc_ice_ring'/>
+            <Item type='string' value='adv_sp_arc_lesser_heal'/>
+            <Item type='string' value='adv_fractionPerk_Lizard_Scale'/>
+            <Item type='string' value='adv_fractionPerk_Archmage'/>
+            <Item type='string' value='adv_sp_arc_basic_dispell'/>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+            <Item type='string' value='adv_gift_resource_mana'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='4294967286'/>
+        <treacheryTurns type='integer' value='3'/>
+        <greediness type='float' value='1.0'/>
+        <braveness type='float' value='9.5'/>
+        <evilness type='integer' value='6'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='0'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_clown'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='clown'/>
+          <race type='string' value='humans'/>
+          <selectedColor type='integer' value='4'/>
+          <characterName>
+            <key type='string' value='#mage_f_clown'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_love_god_dauros'/>
+            <Item type='string' value='adv_sp_arc_summon_imp'/>
+            <Item type='string' value='adv_fractionPerk_Archmage'/>
+            <Item type='string' value='adv_sp_arc_basic_dispell'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='5'/>
+        <treacheryTurns type='integer' value='4294967291'/>
+        <greediness type='float' value='1.0'/>
+        <braveness type='float' value='3.0'/>
+        <evilness type='integer' value='6'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='0'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_ghost'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='ghost'/>
+          <race type='string' value='undead'/>
+          <selectedColor type='integer' value='6'/>
+          <characterName>
+            <key type='string' value='#mage_f_ghost'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+            <Item type='string' value='adv_fractionPerk_Archmage'/>
+            <Item type='string' value='adv_sp_arc_basic_dispell'/>
+            <Item type='string' value='adv_sp_arc_lesser_shadow_bolt'/>
+            <Item type='string' value='adv_sp_arc_lesser_fireball'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='4294967291'/>
+        <treacheryTurns type='integer' value='4294967286'/>
+        <greediness type='float' value='1.0'/>
+        <braveness type='float' value='5.0'/>
+        <evilness type='integer' value='6'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='0'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_krypta_priestess'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='krypta_priestess'/>
+          <race type='string' value='undead'/>
+          <selectedColor type='integer' value='7'/>
+          <characterName>
+            <key type='string' value='#mage_f_krypta_priestess'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_Conjurer'/>
+            <Item type='string' value='adv_gift_resource_mana'/>
+            <Item type='string' value='adv_love_god_krypta'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+            <Item type='string' value='adv_fractionPerk_Archmage'/>
+            <Item type='string' value='adv_sp_arc_basic_dispell'/>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+            <Item type='string' value='adv_sp_arc_lesser_weakness'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='4294967286'/>
+        <treacheryTurns type='integer' value='2'/>
+        <greediness type='float' value='1.0'/>
+        <braveness type='float' value='9.0'/>
+        <evilness type='integer' value='21'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='0'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_lich'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='lich'/>
+          <race type='string' value='undead'/>
+          <selectedColor type='integer' value='8'/>
+          <characterName>
+            <key type='string' value='#mage_f_lich'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_Archmage'/>
+            <Item type='string' value='adv_fractionPerk_Instructor'/>
+            <Item type='string' value='adv_fractionPerk_Conjurer'/>
+            <Item type='string' value='adv_sp_arc_lesser_shadow_bolt'/>
+            <Item type='string' value='adv_sp_arc_lesser_weakness'/>
+            <Item type='string' value='adv_sp_arc_basic_dispell'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='0'/>
+        <treacheryTurns type='integer' value='5'/>
+        <greediness type='float' value='1.0'/>
+        <braveness type='float' value='9.0'/>
+        <evilness type='integer' value='18'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='0'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_rat'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='rat'/>
+          <race type='string' value='monsters'/>
+          <selectedColor type='integer' value='10'/>
+          <characterName>
+            <key type='string' value='#mage_f_rat'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_love_god_grumgog'/>
+            <Item type='string' value='adv_fractionPerk_Magnate'/>
+            <Item type='string' value='adv_fractionPerk_Archmage'/>
+            <Item type='string' value='adv_sp_arc_basic_dispell'/>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+            <Item type='string' value='adv_sp_arc_lesser_weakness'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='0'/>
+        <treacheryTurns type='integer' value='4294967291'/>
+        <greediness type='float' value='1.100000023841858'/>
+        <braveness type='float' value='2.0'/>
+        <evilness type='integer' value='15'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='0'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_dog'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='dog'/>
+          <race type='string' value='monsters'/>
+          <selectedColor type='integer' value='4'/>
+          <characterName>
+            <key type='string' value='#mage_f_dog'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_Farmer'/>
+            <Item type='string' value='adv_love_god_helia'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+            <Item type='string' value='adv_fractionPerk_Archmage'/>
+            <Item type='string' value='adv_sp_arc_basic_dispell'/>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+            <Item type='string' value='adv_sp_arc_lesser_weakness'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='3'/>
+        <treacheryTurns type='integer' value='0'/>
+        <greediness type='float' value='1.0'/>
+        <braveness type='float' value='9.0'/>
+        <evilness type='integer' value='12'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='0'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_shaman'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='shaman'/>
+          <race type='string' value='monsters'/>
+          <selectedColor type='integer' value='5'/>
+          <characterName>
+            <key type='string' value='#mage_f_shaman'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_Farmer'/>
+            <Item type='string' value='adv_sp_tr_modified2initial'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+            <Item type='string' value='adv_fractionPerk_Archmage'/>
+            <Item type='string' value='adv_sp_arc_basic_dispell'/>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+            <Item type='string' value='adv_love_god_fervus'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='0'/>
+        <treacheryTurns type='integer' value='4294967291'/>
+        <greediness type='float' value='1.0'/>
+        <braveness type='float' value='3.0'/>
+        <evilness type='integer' value='9'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='0'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_dragon'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='dragon'/>
+          <race type='string' value='elves'/>
+          <selectedColor type='integer' value='3'/>
+          <characterName>
+            <key type='string' value='#mage_f_dragon'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_lord_imp'/>
+            <Item type='string' value='adv_sp_arc_firestorm'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+            <Item type='string' value='adv_fractionPerk_Archmage'/>
+            <Item type='string' value='adv_sp_arc_basic_dispell'/>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+            <Item type='string' value='adv_sp_arc_lesser_fireball'/>
+            <Item type='string' value='adv_gift_resource_mana'/>
+            <Item type='string' value='adv_sp_art_basic_crafting'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='4294967294'/>
+        <treacheryTurns type='integer' value='3'/>
+        <greediness type='float' value='1.5'/>
+        <braveness type='float' value='9.5'/>
+        <evilness type='integer' value='12'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='2'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_lizard_queen'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='lizard_queen'/>
+          <race type='string' value='monsters'/>
+          <selectedColor type='integer' value='3'/>
+          <characterName>
+            <key type='string' value='#mage_f_lizard_queen'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_Lizard_Lord'/>
+            <Item type='string' value='adv_fractionPerk_Lizard_Scale'/>
+            <Item type='string' value='adv_fractionPerk_Archmage'/>
+            <Item type='string' value='adv_sp_arc_basic_dispell'/>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='4294967291'/>
+        <treacheryTurns type='integer' value='2'/>
+        <greediness type='float' value='1.0'/>
+        <braveness type='float' value='2.5'/>
+        <evilness type='integer' value='18'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='5'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_dragon_master'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='dragon_master'/>
+          <race type='string' value='elves'/>
+          <selectedColor type='integer' value='7'/>
+          <characterName>
+            <key type='string' value='#mage_f_dragon_master'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_fractionPerk_elf_Lord'/>
+            <Item type='string' value='adv_fractionPerk_elf_mercs'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+            <Item type='string' value='adv_fractionPerk_Archmage'/>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+            <Item type='string' value='adv_sp_arc_basic_dispell'/>
+            <Item type='string' value='adv_fractionPerk_Conjurer'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='4294967295'/>
+        <treacheryTurns type='integer' value='1'/>
+        <greediness type='float' value='1.100000023841858'/>
+        <braveness type='float' value='4.0'/>
+        <evilness type='integer' value='15'/>
+      </personality>
+    </FractionData>
+    <FractionData>
+      <predefined type='bool' value='1'/>
+      <dlcId type='integer' value='5'/>
+      <frTemplate version='2'>
+        <systemName type='string' value='f_krolm_chosen'/>
+        <UserData version='5'>
+          <characterIcon type='string' value='krolm_chosen'/>
+          <race type='string' value='humans'/>
+          <selectedColor type='integer' value='6'/>
+          <characterName>
+            <key type='string' value='#mage_f_krolm_chosen'/>
+            <national type='string' value=''/>
+            <cp type='integer' value='1252'/>
+          </characterName>
+          <improvements>
+            <Item type='string' value='adv_love_god_krolm'/>
+            <Item type='string' value='adv_fractionPerk_Academician'/>
+            <Item type='string' value='adv_fractionPerk_Archmage'/>
+            <Item type='string' value='adv_fractionPerk_Researcher'/>
+            <Item type='string' value='adv_sp_arc_basic_dispell'/>
+            <Item type='string' value='adv_fractionPerk_Blademaster'/>
+          </improvements>
+        </UserData>
+      </frTemplate>
+      <personality>
+        <cooperativenessTurns type='integer' value='0'/>
+        <treacheryTurns type='integer' value='4294967291'/>
+        <greediness type='float' value='1.0'/>
+        <braveness type='float' value='9.5'/>
+        <evilness type='integer' value='12'/>
+      </personality>
+    </FractionData>
+  </Fractions>
+  <Improvements>
+    <Improvement>
+      <name type='string' value='adv_gift_resource_gold'/>
+      <cost type='integer' value='1'/>
+      <gold type='integer' value='100'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_gift_resource_mana'/>
+      <cost type='integer' value='2'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='100'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_Blademaster'/>
+      <cost type='integer' value='7'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value='lord_blademaster'/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='1'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_lord_imp'/>
+      <cost type='integer' value='4'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value='lord_imp'/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='1'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_Lizard_Lord'/>
+      <cost type='integer' value='4'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value='res_lizardman'/>
+      <dlcId type='integer' value='2'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_elf_mercs'/>
+      <cost type='integer' value='3'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value='a_elf_bow'/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='5'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_elf_Lord'/>
+      <cost type='integer' value='4'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value='res_elves'/>
+      <dlcId type='integer' value='5'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_Magnate'/>
+      <cost type='integer' value='3'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value='fractionPerk_Magnate'/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_Magnate'/>
+      <cost type='integer' value='3'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value='fractionPerk_Magnate'/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_Researcher'/>
+      <cost type='integer' value='3'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value='fractionPerk_Researcher'/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_Looter'/>
+      <cost type='integer' value='3'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value='fractionPerk_Looter'/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_Farmer'/>
+      <cost type='integer' value='2'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value='fractionPerk_Farmer'/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_Conjurer'/>
+      <cost type='integer' value='3'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value='fractionPerk_Conjurer'/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_Archmage'/>
+      <cost type='integer' value='4'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value='fractionPerk_Archmage'/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_Instructor'/>
+      <cost type='integer' value='1'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value='fractionPerk_Instructor'/>
+      <unitName type='string' value='h_cleric'/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_Lizard_Scale'/>
+      <cost type='integer' value='2'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value='fractionPerk_Lizard_Scale'/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='2'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_Glorious_Tac'/>
+      <cost type='integer' value='4'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value='fractionPerk_Glorious_Tac'/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='4'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_fractionPerk_Academician'/>
+      <cost type='integer' value='2'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value='fractionPerk_Academician'/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='4'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_arc_frostweapon'/>
+        <Item type='string' value='sp_arc_far_seeing'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_sp_arc_lesser_fireball'/>
+      <cost type='integer' value='1'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_arc_lesser_fireball'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_sp_arc_lesser_shadow_bolt'/>
+      <cost type='integer' value='1'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_arc_lesser_shadow_bolt'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_sp_arc_lesser_weakness'/>
+      <cost type='integer' value='1'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_arc_lesser_weakness'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_sp_arc_lesser_heal'/>
+      <cost type='integer' value='1'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_arc_lesser_heal'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_sp_arc_ice_ring'/>
+      <cost type='integer' value='1'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_arc_ice_ring'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_sp_arc_firestorm'/>
+      <cost type='integer' value='2'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_arc_firestorm'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_sp_arc_basic_dispell'/>
+      <cost type='integer' value='1'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_arc_basic_dispell'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_sp_arc_summon_imp'/>
+      <cost type='integer' value='3'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_arc_summon_imp'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_sp_art_basic_crafting'/>
+      <cost type='integer' value='2'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='3'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_art_basic_crafting'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_sp_tr_modified2initial'/>
+      <cost type='integer' value='2'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='5'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value=''/>
+        <relationDelta type='integer' value='0'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_tr_modified2initial'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_love_god_agrela'/>
+      <cost type='integer' value='6'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value='god_agrela'/>
+        <relationDelta type='integer' value='30'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_agrela_healing'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_love_god_dauros'/>
+      <cost type='integer' value='6'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value='god_dauros'/>
+        <relationDelta type='integer' value='30'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_dau_holy_word'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_love_god_helia'/>
+      <cost type='integer' value='6'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value='god_helia'/>
+        <relationDelta type='integer' value='30'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_hel_sunstroke'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_love_god_krolm'/>
+      <cost type='integer' value='6'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value='god_krolm'/>
+        <relationDelta type='integer' value='30'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_krolm_sum_rune_resi'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_love_god_krypta'/>
+      <cost type='integer' value='6'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value='god_krypta'/>
+        <relationDelta type='integer' value='30'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_kry_healing_undead'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_love_god_fervus'/>
+      <cost type='integer' value='6'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value='god_fervus'/>
+        <relationDelta type='integer' value='30'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_fer_ct_dark_ritual'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_love_god_lunord'/>
+      <cost type='integer' value='6'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value='god_lunord'/>
+        <relationDelta type='integer' value='30'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_lun_speed_buff'/>
+      </Spells>
+    </Improvement>
+    <Improvement>
+      <name type='string' value='adv_love_god_grumgog'/>
+      <cost type='integer' value='6'/>
+      <gold type='integer' value='0'/>
+      <mana type='integer' value='0'/>
+      <perk type='string' value=''/>
+      <unitName type='string' value=''/>
+      <resourceName type='string' value=''/>
+      <dlcId type='integer' value='0'/>
+      <dlc type='string' value=''/>
+      <Relation>
+        <godName type='string' value='god_grumgog'/>
+        <relationDelta type='integer' value='30'/>
+      </Relation>
+      <Spells>
+        <Item type='string' value='sp_gru_summon_rats'/>
+      </Spells>
+    </Improvement>
+  </Improvements>
+</Fractions>

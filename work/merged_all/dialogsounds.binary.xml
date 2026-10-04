@@ -1,0 +1,133 @@
+<DialogSounds>
+  <cityGroupName type='string' value='moar_project/Buildings/building_ambiences'/>
+  <CitySoundEventList>
+    <CitySoundEvent>
+      <raceName type='string' value='elves!1'/>
+      <eventName type='string' value='dark elves castle inside 1'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='elves!2'/>
+      <eventName type='string' value='dark elves castle inside 1'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='elves!3'/>
+      <eventName type='string' value='dark elves castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='elves!4'/>
+      <eventName type='string' value='dark elves castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='elves_1'/>
+      <eventName type='string' value='dark elves castle inside 1'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='elves_2'/>
+      <eventName type='string' value='dark elves castle inside 1'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='elves_3'/>
+      <eventName type='string' value='dark elves castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='elves_4'/>
+      <eventName type='string' value='dark elves castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='humans!1'/>
+      <eventName type='string' value='human castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='humans!2'/>
+      <eventName type='string' value='human castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='humans!3'/>
+      <eventName type='string' value='human castle inside 1'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='humans!4'/>
+      <eventName type='string' value='human castle inside 1'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='humans_1'/>
+      <eventName type='string' value='human castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='humans_2'/>
+      <eventName type='string' value='human castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='humans_3'/>
+      <eventName type='string' value='human castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='humans_4'/>
+      <eventName type='string' value='human castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='monsters!1'/>
+      <eventName type='string' value='monster castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='monsters!2'/>
+      <eventName type='string' value='monster castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='monsters!3'/>
+      <eventName type='string' value='monster castle inside 1'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='monsters!4'/>
+      <eventName type='string' value='monster castle inside 1'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='monsters_1'/>
+      <eventName type='string' value='monster castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='monsters_2'/>
+      <eventName type='string' value='monster castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='monsters_3'/>
+      <eventName type='string' value='monster castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='monsters_4'/>
+      <eventName type='string' value='monster castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='undead!1'/>
+      <eventName type='string' value='undead castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='undead!2'/>
+      <eventName type='string' value='undead castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='undead!3'/>
+      <eventName type='string' value='undead castle inside 1'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='undead!4'/>
+      <eventName type='string' value='undead castle inside 1'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='undead_1'/>
+      <eventName type='string' value='undead castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='undead_2'/>
+      <eventName type='string' value='undead castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='undead_3'/>
+      <eventName type='string' value='undead castle inside 2'/>
+    </CitySoundEvent>
+    <CitySoundEvent>
+      <raceName type='string' value='undead_4'/>
+      <eventName type='string' value='undead castle inside 1'/>
+    </CitySoundEvent>
+  </CitySoundEventList>
+</DialogSounds>

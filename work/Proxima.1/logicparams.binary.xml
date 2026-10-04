@@ -1,0 +1,258 @@
+<GameLogicParam>
+  <startupGold type='integer' value='100'/>
+  <startupMana type='integer' value='20'/>
+  <numPlayerPoints type='integer' value='10'/>
+  <minCityPopulation type='integer' value='1000'/>
+  <standardGrowth type='integer' value='225'/>
+  <overPopulation type='float' value='0.01666666939854622'/>
+  <hungryGrowthPenalty type='integer' value='30'/>
+  <alienGrowthPenalty type='integer' value='50'/>
+  <alienRacePenalty type='integer' value='20'/>
+  <killWithBuilding type='integer' value='800'/>
+  <killWithRemoveBuilding type='integer' value='200'/>
+  <food2gold type='float' value='0.5'/>
+  <mana2gold type='float' value='0.5'/>
+  <gold2mana type='float' value='0.5'/>
+  <research2mana type='float' value='0.5'/>
+  <research2gold type='float' value='0.5'/>
+  <unitAutoHeal type='float' value='10.0'/>
+  <unitRestHeal type='float' value='15.0'/>
+  <buildingAutoHeal type='float' value='10.0'/>
+  <selfTerritoryManaReturn type='float' value='0.5'/>
+  <sizeResearchPool type='integer' value='5'/>
+  <rangeCheapSpell type='integer' value='8'/>
+  <rangeExpensiveSpell type='integer' value='10'/>
+  <constructTemple type='integer' value='20'/>
+  <destroyTemple type='integer' value='4294967276'/>
+  <fractionReligionK type='float' value='300.0'/>
+  <fractionReligionClamp type='float' value='50.0'/>
+  <godReputationPrerequisite type='integer' value='4294967286'/>
+  <countAvgUnit type='integer' value='8'/>
+  <countAvgCity type='integer' value='9'/>
+  <countAvgSpell type='integer' value='10'/>
+  <weightUnitStage type='float' value='0.4000000059604645'/>
+  <weightCityStage type='float' value='0.4000000059604645'/>
+  <weightSpellStage type='float' value='0.3499999940395355'/>
+  <spawnRadiusLocation type='integer' value='3'/>
+  <countSpawnLocation type='integer' value='5'/>
+  <spawnRadiusCity type='integer' value='5'/>
+  <countSpawnCity type='integer' value='5'/>
+  <moneyRound type='integer' value='10'/>
+  <manaRound type='integer' value='5'/>
+  <researchRound type='integer' value='5'/>
+  <godRelationChangeRound type='integer' value='1'/>
+  <expAttack type='integer' value='6'/>
+  <expDefense type='integer' value='3'/>
+  <expHealing type='integer' value='3'/>
+  <spawnLocDensity type='float' value='2.0'/>
+  <locStageFractionRange type='float' value='1.0'/>
+  <minLocSpawnRadius type='integer' value='3'/>
+  <maxLocSpawnRadius type='integer' value='8'/>
+  <minSpawnEpiFractionStage type='float' value='0.699999988079071'/>
+  <koeffProbabilityEpiSpawn type='float' value='0.5'/>
+  <epicenterTerrEvent type='string' value='evil_gates_spawn'/>
+  <epiPollutionSpell type='string' value='sp_evil_pollution'/>
+  <epiExplosionSpell type='string' value='sp_evil_explosion'/>
+  <epiPollutionSpellRadius type='integer' value='3'/>
+  <epiMinTime type='integer' value='20'/>
+  <epiMaxTime type='integer' value='30'/>
+  <epiPollutionFrequency type='integer' value='8'/>
+  <epiPrevExplosionTime type='integer' value='3'/>
+  <minEpiChildCount type='integer' value='1'/>
+  <maxEpiChildCount type='integer' value='2'/>
+  <radiusEpiChildes type='integer' value='6'/>
+  <questLocDLCsList type='string' value=''/>
+  <questLordsDLCsList type='string' value=''/>
+  <armageddonDLCsList type='string' value='arma'/>
+  <probabilityHeroCome type='float' value='90.0'/>
+  <additionalHeroComeStage type='float' value='1.5'/>
+  <probabilityTraderCome type='float' value='15.0'/>
+  <additionalTraderComeStage type='float' value='0.699999988079071'/>
+  <artGoldCost type='float' value='1.5'/>
+  <timeWaitLord type='integer' value='12'/>
+  <artifactBreakCost type='float' value='0.5'/>
+  <artifactMoveCost type='integer' value='25'/>
+  <artifactLocation type='string' value='bld_w_chest_art'/>
+  <evilCastle type='string' value='bld_z_evil_castle'/>
+  <spiritGreatMage type='string' value='z_defeated_great_mage'/>
+  <percentHolyGroundOne type='float' value='25.0'/>
+  <percentHolyGroundTwo type='float' value='40.0'/>
+  <percentDestroyBuilding type='float' value='50.0'/>
+  <teleportAlienBorderDistance type='integer' value='4'/>
+  <villainAlienBorderDistance type='integer' value='4'/>
+  <pollutionHigh type='integer' value='50'/>
+  <pollutionLine type='integer' value='70'/>
+  <pollutionP type='integer' value='30'/>
+  <pollutionMax type='integer' value='100'/>
+  <questLocDLCs>
+    <dlcList>
+    </dlcList>
+  </questLocDLCs>
+  <questLordsDLCs>
+    <dlcList>
+    </dlcList>
+  </questLordsDLCs>
+  <armageddonDLCs>
+    <dlcList>
+      <Item type='integer' value='5'/>
+    </dlcList>
+  </armageddonDLCs>
+  <diplomacy>
+    <giftTurnDelta type='float' value='-0.5'/>
+    <nonAgressionTurnDelta type='float' value='-0.5'/>
+    <allianceTurnDelta type='float' value='-0.5'/>
+    <collaborationTurnDelta type='float' value='-1.0'/>
+    <evilnessTurnDelta type='float' value='1.0'/>
+    <treacheryTurnDelta type='float' value='0.5'/>
+    <violationsTurnDelta type='float' value='2.0'/>
+    <borderNervousnessTurnDelta type='float' value='2.0'/>
+    <firstImpressionTurnDelta type='float' value='0.20000000298023224'/>
+    <firstImpressionHi type='float' value='15.0'/>
+    <firstImpressionLo type='float' value='-15.0'/>
+    <envyK type='float' value='-15.0'/>
+    <violationsK type='float' value='-5.0'/>
+    <bordersK type='float' value='-1.0'/>
+    <bordersNervousnessK type='float' value='-2.0'/>
+    <collaborationCost type='float' value='5.0'/>
+    <demandCost type='float' value='-5.0'/>
+    <breakStateCost type='float' value='-10.0'/>
+    <breakStateAllyCost type='float' value='-5.0'/>
+    <warWithEnemyCost type='float' value='15.0'/>
+    <warWithAllyCost type='float' value='-25.0'/>
+    <collaborationMax type='float' value='15.0'/>
+    <giftMax type='float' value='50.0'/>
+    <estimateGap type='float' value='10.0'/>
+    <unityChangeRelation type='float' value='-100.0'/>
+    <dremersChangeRelation type='float' value='20.0'/>
+    <agreeCost>
+      <Item type='float' value='-100.0'/>
+      <Item type='float' value='0.0'/>
+      <Item type='float' value='20.0'/>
+      <Item type='float' value='50.0'/>
+    </agreeCost>
+    <breakCostSelf>
+      <Item type='float' value='0.0'/>
+      <Item type='float' value='0.0'/>
+      <Item type='float' value='-20.0'/>
+      <Item type='float' value='-50.0'/>
+    </breakCostSelf>
+    <breakCostOther>
+      <Item type='float' value='0.0'/>
+      <Item type='float' value='0.0'/>
+      <Item type='float' value='-10.0'/>
+      <Item type='float' value='-25.0'/>
+    </breakCostOther>
+    <cooldowns>
+      <war type='integer' value='7'/>
+      <breakPact type='integer' value='4'/>
+      <tradeSuccess type='integer' value='2'/>
+      <tradeFail type='integer' value='4'/>
+      <peace type='integer' value='3'/>
+      <pact type='integer' value='0'/>
+      <alliance type='integer' value='0'/>
+    </cooldowns>
+  </diplomacy>
+  <FractionColors>
+    <FractionColor>
+      <index type='integer' value='0'/>
+      <color type='color' r='2A' g='17' b='17' a='FF'/>
+      <border1 type='color' r='C2' g='C2' b='C2' a='FF'/>
+      <border2 type='color' r='46' g='3A' b='3A' a='FF'/>
+      <gui1 type='color' r='C0' g='C0' b='C0' a='FF'/>
+      <gui2 type='color' r='48' g='38' b='38' a='FF'/>
+    </FractionColor>
+    <FractionColor>
+      <index type='integer' value='1'/>
+      <color type='color' r='16' g='1E' b='48' a='FF'/>
+      <border1 type='color' r='83' g='A3' b='B9' a='FF'/>
+      <border2 type='color' r='24' g='2D' b='4A' a='FF'/>
+      <gui1 type='color' r='80' g='A0' b='C0' a='FF'/>
+      <gui2 type='color' r='28' g='30' b='48' a='FF'/>
+    </FractionColor>
+    <FractionColor>
+      <index type='integer' value='2'/>
+      <color type='color' r='FF' g='5A' b='15' a='FF'/>
+      <border1 type='color' r='28' g='19' b='1E' a='FF'/>
+      <border2 type='color' r='C8' g='55' b='1E' a='F0'/>
+      <gui1 type='color' r='28' g='18' b='20' a='FF'/>
+      <gui2 type='color' r='FF' g='78' b='38' a='FF'/>
+    </FractionColor>
+    <FractionColor>
+      <index type='integer' value='3'/>
+      <color type='color' r='07' g='00' b='FF' a='FF'/>
+      <border1 type='color' r='1E' g='1E' b='28' a='FF'/>
+      <border2 type='color' r='18' g='13' b='96' a='FF'/>
+      <gui1 type='color' r='00' g='00' b='20' a='FF'/>
+      <gui2 type='color' r='20' g='20' b='D0' a='FF'/>
+    </FractionColor>
+    <FractionColor>
+      <index type='integer' value='4'/>
+      <color type='color' r='14' g='DC' b='FF' a='FF'/>
+      <border1 type='color' r='0A' g='0F' b='5A' a='37'/>
+      <border2 type='color' r='1C' g='B1' b='D7' a='FF'/>
+      <gui1 type='color' r='20' g='20' b='80' a='FF'/>
+      <gui2 type='color' r='28' g='D0' b='E0' a='FF'/>
+    </FractionColor>
+    <FractionColor>
+      <index type='integer' value='5'/>
+      <color type='color' r='0B' g='B8' b='14' a='FF'/>
+      <border1 type='color' r='1C' g='22' b='36' a='FF'/>
+      <border2 type='color' r='0C' g='82' b='14' a='FA'/>
+      <gui1 type='color' r='20' g='28' b='40' a='FF'/>
+      <gui2 type='color' r='20' g='A0' b='20' a='FF'/>
+    </FractionColor>
+    <FractionColor>
+      <index type='integer' value='6'/>
+      <color type='color' r='C8' g='18' b='68' a='FF'/>
+      <border1 type='color' r='16' g='0C' b='07' a='F0'/>
+      <border2 type='color' r='C8' g='18' b='68' a='F0'/>
+      <gui1 type='color' r='18' g='08' b='00' a='FF'/>
+      <gui2 type='color' r='C8' g='18' b='68' a='FF'/>
+    </FractionColor>
+    <FractionColor>
+      <index type='integer' value='7'/>
+      <color type='color' r='0C' g='82' b='FF' a='FF'/>
+      <border1 type='color' r='0F' g='19' b='0E' a='FF'/>
+      <border2 type='color' r='0D' g='78' b='D7' a='F0'/>
+      <gui1 type='color' r='10' g='20' b='10' a='FF'/>
+      <gui2 type='color' r='00' g='78' b='E8' a='FF'/>
+    </FractionColor>
+    <FractionColor>
+      <index type='integer' value='8'/>
+      <color type='color' r='C1' g='DA' b='18' a='FF'/>
+      <border1 type='color' r='2A' g='0B' b='2A' a='FF'/>
+      <border2 type='color' r='B8' g='D0' b='18' a='F0'/>
+      <gui1 type='color' r='40' g='18' b='40' a='FF'/>
+      <gui2 type='color' r='B8' g='D0' b='18' a='9B'/>
+    </FractionColor>
+    <FractionColor>
+      <index type='integer' value='9'/>
+      <color type='color' r='C0' g='20' b='F0' a='FF'/>
+      <border1 type='color' r='20' g='00' b='00' a='FA'/>
+      <border2 type='color' r='C0' g='20' b='F0' a='F0'/>
+      <gui1 type='color' r='20' g='00' b='00' a='FF'/>
+      <gui2 type='color' r='C0' g='20' b='F0' a='FF'/>
+    </FractionColor>
+    <FractionColor>
+      <index type='integer' value='10'/>
+      <color type='color' r='50' g='49' b='00' a='FF'/>
+      <border1 type='color' r='C8' g='C8' b='C8' a='32'/>
+      <border2 type='color' r='3A' g='32' b='00' a='FA'/>
+      <gui1 type='color' r='E1' g='E1' b='E1' a='FF'/>
+      <gui2 type='color' r='50' g='58' b='00' a='FF'/>
+    </FractionColor>
+    <FractionColor>
+      <index type='integer' value='11'/>
+      <color type='color' r='00' g='00' b='0A' a='FF'/>
+      <border1 type='color' r='DC' g='DC' b='DC' a='FF'/>
+      <border2 type='color' r='00' g='00' b='14' a='FF'/>
+      <gui1 type='color' r='DC' g='DC' b='DC' a='FF'/>
+      <gui2 type='color' r='00' g='00' b='14' a='FF'/>
+    </FractionColor>
+  </FractionColors>
+  <preferredSpellCounts>
+    <elemental type='integer' value='8'/>
+    <spirit type='integer' value='4'/>
+    <god type='integer' value='8'/>
+  </preferredSpellCounts>
+</GameLogicParam>

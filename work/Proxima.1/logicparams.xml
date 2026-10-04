@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GameLogicParam>
+	<i_startupGold>100</i_startupGold>
+	<i_startupMana>20</i_startupMana>
+	<i_numPlayerPoints>10</i_numPlayerPoints>
+	<i_minCityPopulation>1000</i_minCityPopulation>
+	<i_standardGrowth>225</i_standardGrowth>
+	<f_overPopulation>0.01666667</f_overPopulation>
+	<i_hungryGrowthPenalty>30</i_hungryGrowthPenalty>
+	<i_alienGrowthPenalty>50</i_alienGrowthPenalty>
+	<i_alienRacePenalty>20</i_alienRacePenalty>
+	<i_killWithBuilding>800</i_killWithBuilding>
+	<i_killWithRemoveBuilding>200</i_killWithRemoveBuilding>
+	<f_food2gold>0.50000000</f_food2gold>
+	<f_mana2gold>0.50000000</f_mana2gold>
+	<f_gold2mana>0.50000000</f_gold2mana>
+	<f_research2mana>0.50000000</f_research2mana>
+	<f_research2gold>0.50000000</f_research2gold>
+	<f_unitAutoHeal>10.00000000</f_unitAutoHeal>
+	<f_unitRestHeal>15.00000000</f_unitRestHeal>
+	<f_buildingAutoHeal>10.00000000</f_buildingAutoHeal>
+	<f_selfTerritoryManaReturn>0.50000000</f_selfTerritoryManaReturn>
+	<i_sizeResearchPool>5</i_sizeResearchPool>
+	<i_rangeCheapSpell>8</i_rangeCheapSpell>
+	<i_rangeExpensiveSpell>10</i_rangeExpensiveSpell>
+	<i_constructTemple>20</i_constructTemple>
+	<i_destroyTemple>-20</i_destroyTemple>
+	<f_fractionReligionK>300.00000000</f_fractionReligionK>
+	<f_fractionReligionClamp>50.00000000</f_fractionReligionClamp>
+	<i_godReputationPrerequisite>-10</i_godReputationPrerequisite>
+	<i_countAvgUnit>8</i_countAvgUnit>
+	<i_countAvgCity>9</i_countAvgCity>
+	<i_countAvgSpell>10</i_countAvgSpell>
+	<f_weightUnitStage>0.40000001</f_weightUnitStage>
+	<f_weightCityStage>0.40000001</f_weightCityStage>
+	<f_weightSpellStage>0.34999999</f_weightSpellStage>
+	<i_spawnRadiusLocation>3</i_spawnRadiusLocation>
+	<i_countSpawnLocation>5</i_countSpawnLocation>
+	<i_spawnRadiusCity>5</i_spawnRadiusCity>
+	<i_countSpawnCity>5</i_countSpawnCity>
+	<i_moneyRound>10</i_moneyRound>
+	<i_manaRound>5</i_manaRound>
+	<i_researchRound>5</i_researchRound>
+	<i_godRelationChangeRound>1</i_godRelationChangeRound>
+	<i_expAttack>6</i_expAttack>
+	<i_expDefense>3</i_expDefense>
+	<i_expHealing>3</i_expHealing>
+	<f_spawnLocDensity>2.00000000</f_spawnLocDensity>
+	<f_locStageFractionRange>1.00000000</f_locStageFractionRange>
+	<i_minLocSpawnRadius>3</i_minLocSpawnRadius>
+	<i_maxLocSpawnRadius>8</i_maxLocSpawnRadius>
+	<f_minSpawnEpiFractionStage>0.69999999</f_minSpawnEpiFractionStage>
+	<f_koeffProbabilityEpiSpawn>0.50000000</f_koeffProbabilityEpiSpawn>
+	<s_epicenterTerrEvent>evil_gates_spawn</s_epicenterTerrEvent>
+	<s_epiPollutionSpell>sp_evil_pollution</s_epiPollutionSpell>
+	<s_epiExplosionSpell>sp_evil_explosion</s_epiExplosionSpell>
+	<i_epiPollutionSpellRadius>3</i_epiPollutionSpellRadius>
+	<i_epiMinTime>20</i_epiMinTime>
+	<i_epiMaxTime>30</i_epiMaxTime>
+	<i_epiPollutionFrequency>8</i_epiPollutionFrequency>
+	<i_epiPrevExplosionTime>3</i_epiPrevExplosionTime>
+	<i_minEpiChildCount>1</i_minEpiChildCount>
+	<i_maxEpiChildCount>2</i_maxEpiChildCount>
+	<i_radiusEpiChildes>6</i_radiusEpiChildes>
+	<s_questLocDLCsList/>
+	<s_questLordsDLCsList/>
+	<s_armageddonDLCsList>arma</s_armageddonDLCsList>
+	<f_probabilityHeroCome>90.00000000</f_probabilityHeroCome>
+	<f_additionalHeroComeStage>1.50000000</f_additionalHeroComeStage>
+	<f_probabilityTraderCome>15.00000000</f_probabilityTraderCome>
+	<f_additionalTraderComeStage>0.69999999</f_additionalTraderComeStage>
+	<f_artGoldCost>1.50000000</f_artGoldCost>
+	<i_timeWaitLord>12</i_timeWaitLord>
+	<f_artifactBreakCost>0.50000000</f_artifactBreakCost>
+	<i_artifactMoveCost>25</i_artifactMoveCost>
+	<s_artifactLocation>bld_w_chest_art</s_artifactLocation>
+	<s_evilCastle>bld_z_evil_castle</s_evilCastle>
+	<s_spiritGreatMage>z_defeated_great_mage</s_spiritGreatMage>
+	<f_percentHolyGroundOne>25.00000000</f_percentHolyGroundOne>
+	<f_percentHolyGroundTwo>40.00000000</f_percentHolyGroundTwo>
+	<f_percentDestroyBuilding>50.00000000</f_percentDestroyBuilding>
+	<i_teleportAlienBorderDistance>4</i_teleportAlienBorderDistance>
+	<i_villainAlienBorderDistance>4</i_villainAlienBorderDistance>
+	<i_pollutionHigh>50</i_pollutionHigh>
+	<i_pollutionLine>70</i_pollutionLine>
+	<i_pollutionP>30</i_pollutionP>
+	<i_pollutionMax>100</i_pollutionMax>
+	<questLocDLCs>
+		<dlcList/>
+	</questLocDLCs>
+	<questLordsDLCs>
+		<dlcList/>
+	</questLordsDLCs>
+	<armageddonDLCs>
+		<dlcList>
+			<i_Item>5</i_Item>
+		</dlcList>
+	</armageddonDLCs>
+	<diplomacy>
+		<f_giftTurnDelta>-0.50000000</f_giftTurnDelta>
+		<f_nonAgressionTurnDelta>-0.50000000</f_nonAgressionTurnDelta>
+		<f_allianceTurnDelta>-0.50000000</f_allianceTurnDelta>
+		<f_collaborationTurnDelta>-1.00000000</f_collaborationTurnDelta>
+		<f_evilnessTurnDelta>1.00000000</f_evilnessTurnDelta>
+		<f_treacheryTurnDelta>0.50000000</f_treacheryTurnDelta>
+		<f_violationsTurnDelta>2.00000000</f_violationsTurnDelta>
+		<f_borderNervousnessTurnDelta>2.00000000</f_borderNervousnessTurnDelta>
+		<f_firstImpressionTurnDelta>0.20000000</f_firstImpressionTurnDelta>
+		<f_firstImpressionHi>15.00000000</f_firstImpressionHi>
+		<f_firstImpressionLo>-15.00000000</f_firstImpressionLo>
+		<f_envyK>-15.00000000</f_envyK>
+		<f_violationsK>-5.00000000</f_violationsK>
+		<f_bordersK>-1.00000000</f_bordersK>
+		<f_bordersNervousnessK>-2.00000000</f_bordersNervousnessK>
+		<f_collaborationCost>5.00000000</f_collaborationCost>
+		<f_demandCost>-5.00000000</f_demandCost>
+		<f_breakStateCost>-10.00000000</f_breakStateCost>
+		<f_breakStateAllyCost>-5.00000000</f_breakStateAllyCost>
+		<f_warWithEnemyCost>15.00000000</f_warWithEnemyCost>
+		<f_warWithAllyCost>-25.00000000</f_warWithAllyCost>
+		<f_collaborationMax>15.00000000</f_collaborationMax>
+		<f_giftMax>50.00000000</f_giftMax>
+		<f_estimateGap>10.00000000</f_estimateGap>
+		<f_unityChangeRelation>-100.00000000</f_unityChangeRelation>
+		<f_dremersChangeRelation>20.00000000</f_dremersChangeRelation>
+		<agreeCost>
+			<f_Item>-100.00000000</f_Item>
+			<f_Item>0.00000000</f_Item>
+			<f_Item>20.00000000</f_Item>
+			<f_Item>50.00000000</f_Item>
+		</agreeCost>
+		<breakCostSelf>
+			<f_Item>0.00000000</f_Item>
+			<f_Item>0.00000000</f_Item>
+			<f_Item>-20.00000000</f_Item>
+			<f_Item>-50.00000000</f_Item>
+		</breakCostSelf>
+		<breakCostOther>
+			<f_Item>0.00000000</f_Item>
+			<f_Item>0.00000000</f_Item>
+			<f_Item>-10.00000000</f_Item>
+			<f_Item>-25.00000000</f_Item>
+		</breakCostOther>
+		<cooldowns>
+			<i_war>7</i_war>
+			<i_breakPact>4</i_breakPact>
+			<i_tradeSuccess>2</i_tradeSuccess>
+			<i_tradeFail>4</i_tradeFail>
+			<i_peace>3</i_peace>
+			<i_pact>0</i_pact>
+			<i_alliance>0</i_alliance>
+		</cooldowns>
+	</diplomacy>
+	<FractionColors>
+		<FractionColor>
+			<i_index>0</i_index>
+			<c_color r="23" g="23" b="42" a="255"/>
+			<c_border1 r="194" g="194" b="194" a="255"/>
+			<c_border2 r="58" g="58" b="70" a="255"/>
+			<c_gui1 r="192" g="192" b="192" a="255"/>
+			<c_gui2 r="56" g="56" b="72" a="255"/>
+		</FractionColor>
+		<FractionColor>
+			<i_index>1</i_index>
+			<c_color r="72" g="30" b="22" a="255"/>
+			<c_border1 r="185" g="163" b="131" a="255"/>
+			<c_border2 r="74" g="45" b="36" a="255"/>
+			<c_gui1 r="192" g="160" b="128" a="255"/>
+			<c_gui2 r="72" g="48" b="40" a="255"/>
+		</FractionColor>
+		<FractionColor>
+			<i_index>2</i_index>
+			<c_color r="21" g="90" b="255" a="255"/>
+			<c_border1 r="30" g="25" b="40" a="255"/>
+			<c_border2 r="30" g="85" b="200" a="240"/>
+			<c_gui1 r="32" g="24" b="40" a="255"/>
+			<c_gui2 r="56" g="120" b="255" a="255"/>
+		</FractionColor>
+		<FractionColor>
+			<i_index>3</i_index>
+			<c_color r="255" g="0" b="7" a="255"/>
+			<c_border1 r="40" g="30" b="30" a="255"/>
+			<c_border2 r="150" g="19" b="24" a="255"/>
+			<c_gui1 r="32" g="0" b="0" a="255"/>
+			<c_gui2 r="208" g="32" b="32" a="255"/>
+		</FractionColor>
+		<FractionColor>
+			<i_index>4</i_index>
+			<c_color r="255" g="220" b="20" a="255"/>
+			<c_border1 r="90" g="15" b="10" a="55"/>
+			<c_border2 r="215" g="177" b="28" a="255"/>
+			<c_gui1 r="128" g="32" b="32" a="255"/>
+			<c_gui2 r="224" g="208" b="40" a="255"/>
+		</FractionColor>
+		<FractionColor>
+			<i_index>5</i_index>
+			<c_color r="20" g="184" b="11" a="255"/>
+			<c_border1 r="54" g="34" b="28" a="255"/>
+			<c_border2 r="20" g="130" b="12" a="250"/>
+			<c_gui1 r="64" g="40" b="32" a="255"/>
+			<c_gui2 r="32" g="160" b="32" a="255"/>
+		</FractionColor>
+		<FractionColor>
+			<i_index>6</i_index>
+			<c_color r="104" g="24" b="200" a="255"/>
+			<c_border1 r="7" g="12" b="22" a="240"/>
+			<c_border2 r="104" g="24" b="200" a="240"/>
+			<c_gui1 r="0" g="8" b="24" a="255"/>
+			<c_gui2 r="104" g="24" b="200" a="255"/>
+		</FractionColor>
+		<FractionColor>
+			<i_index>7</i_index>
+			<c_color r="255" g="130" b="12" a="255"/>
+			<c_border1 r="14" g="25" b="15" a="255"/>
+			<c_border2 r="215" g="120" b="13" a="240"/>
+			<c_gui1 r="16" g="32" b="16" a="255"/>
+			<c_gui2 r="232" g="120" b="0" a="255"/>
+		</FractionColor>
+		<FractionColor>
+			<i_index>8</i_index>
+			<c_color r="24" g="218" b="193" a="255"/>
+			<c_border1 r="42" g="11" b="42" a="255"/>
+			<c_border2 r="24" g="208" b="184" a="240"/>
+			<c_gui1 r="64" g="24" b="64" a="255"/>
+			<c_gui2 r="24" g="208" b="184" a="155"/>
+		</FractionColor>
+		<FractionColor>
+			<i_index>9</i_index>
+			<c_color r="240" g="32" b="192" a="255"/>
+			<c_border1 r="0" g="0" b="32" a="250"/>
+			<c_border2 r="240" g="32" b="192" a="240"/>
+			<c_gui1 r="0" g="0" b="32" a="255"/>
+			<c_gui2 r="240" g="32" b="192" a="255"/>
+		</FractionColor>
+		<FractionColor>
+			<i_index>10</i_index>
+			<c_color r="0" g="73" b="80" a="255"/>
+			<c_border1 r="200" g="200" b="200" a="50"/>
+			<c_border2 r="0" g="50" b="58" a="250"/>
+			<c_gui1 r="225" g="225" b="225" a="255"/>
+			<c_gui2 r="0" g="88" b="80" a="255"/>
+		</FractionColor>
+		<FractionColor>
+			<i_index>11</i_index>
+			<c_color r="10" g="0" b="0" a="255"/>
+			<c_border1 r="220" g="220" b="220" a="255"/>
+			<c_border2 r="20" g="0" b="0" a="255"/>
+			<c_gui1 r="220" g="220" b="220" a="255"/>
+			<c_gui2 r="20" g="0" b="0" a="255"/>
+		</FractionColor>
+	</FractionColors>
+	<preferredSpellCounts>
+		<i_elemental>8</i_elemental>
+		<i_spirit>4</i_spirit>
+		<i_god>8</i_god>
+	</preferredSpellCounts>
+</GameLogicParam>

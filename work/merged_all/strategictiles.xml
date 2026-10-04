@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<LandTileTexture>
+	<s_diffuseName>strategic2_diff.dds</s_diffuseName>
+	<s_noiseName>LandNoise.dds</s_noiseName>
+	<Layers>
+		<TextureTileInfo>
+			<b_isEnabled>true</b_isEnabled>
+			<ip2_index x="0" y="0"/>
+			<p2_altitude x="0.00000000" y="30.00000191"/>
+			<p2_slope x="0.00000000" y="90.00000000"/>
+		</TextureTileInfo>
+		<TextureTileInfo>
+			<b_isEnabled>true</b_isEnabled>
+			<ip2_index x="2" y="0"/>
+			<p2_altitude x="5.00000000" y="30.00000191"/>
+			<p2_slope x="30.00000000" y="90.00000000"/>
+		</TextureTileInfo>
+		<TextureTileInfo>
+			<b_isEnabled>true</b_isEnabled>
+			<ip2_index x="3" y="0"/>
+			<p2_altitude x="9.50000000" y="30.00000191"/>
+			<p2_slope x="0.00000000" y="30.89699936"/>
+		</TextureTileInfo>
+		<TextureTileInfo>
+			<b_isEnabled>true</b_isEnabled>
+			<ip2_index x="3" y="0"/>
+			<p2_altitude x="-10.00000000" y="3.09999990"/>
+			<p2_slope x="0.00000000" y="90.00000000"/>
+		</TextureTileInfo>
+		<TextureTileInfo>
+			<b_isEnabled>true</b_isEnabled>
+			<ip2_index x="1" y="0"/>
+			<p2_altitude x="1.34400153" y="30.00000191"/>
+			<p2_slope x="0.00000000" y="4.00000000"/>
+		</TextureTileInfo>
+		<TextureTileInfo>
+			<b_isEnabled>true</b_isEnabled>
+			<ip2_index x="0" y="1"/>
+			<p2_altitude x="10.10000038" y="15.00000000"/>
+			<p2_slope x="4.02899981" y="32.23799896"/>
+		</TextureTileInfo>
+		<TextureTileInfo>
+			<b_isEnabled>true</b_isEnabled>
+			<ip2_index x="0" y="1"/>
+			<p2_altitude x="12.00000000" y="30.00000191"/>
+			<p2_slope x="0.00000000" y="36.00000000"/>
+		</TextureTileInfo>
+	</Layers>
+</LandTileTexture>

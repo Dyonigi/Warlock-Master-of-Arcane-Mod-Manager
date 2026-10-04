@@ -1,0 +1,79 @@
+<SpellEffectsDataList>
+  <SpellEffectsList>
+    <item>
+      <name type='string' value='meteor'/>
+      <joltingAmplitude type='float' value='4.0'/>
+      <joltingTime type='float' value='3.0'/>
+    </item>
+    <item>
+      <name type='string' value='sp_arc_armageddon'/>
+      <joltingAmplitude type='float' value='4.0'/>
+      <joltingTime type='float' value='3.700000047683716'/>
+    </item>
+    <item>
+      <name type='string' value='sp_arc_giga_slay'/>
+      <joltingAmplitude type='float' value='4.300000190734863'/>
+      <joltingTime type='float' value='4.0'/>
+    </item>
+    <item>
+      <name type='string' value='sp_arc_incinerate_tornado'/>
+      <joltingAmplitude type='float' value='4.300000190734863'/>
+      <joltingTime type='float' value='4.0'/>
+    </item>
+    <item>
+      <name type='string' value='sp_arc_thunderstorm'/>
+      <joltingAmplitude type='float' value='4.0'/>
+      <joltingTime type='float' value='2.5'/>
+    </item>
+    <item>
+      <name type='string' value='sp_arc_thunderstorm_combo'/>
+      <joltingAmplitude type='float' value='4.0'/>
+      <joltingTime type='float' value='2.5'/>
+    </item>
+    <item>
+      <name type='string' value='sp_evil_explosion'/>
+      <joltingAmplitude type='float' value='3.5'/>
+      <joltingTime type='float' value='2.5'/>
+    </item>
+    <item>
+      <name type='string' value='sp_hel_sunstorm'/>
+      <joltingAmplitude type='float' value='3.5'/>
+      <joltingTime type='float' value='2.5'/>
+    </item>
+    <item>
+      <name type='string' value='sp_hel_sunstroke_combo'/>
+      <joltingAmplitude type='float' value='3.5'/>
+      <joltingTime type='float' value='2.5'/>
+    </item>
+    <item>
+      <name type='string' value='sp_krolm_stun_combo'/>
+      <joltingAmplitude type='float' value='3.5'/>
+      <joltingTime type='float' value='2.799999952316284'/>
+    </item>
+    <item>
+      <name type='string' value='sp_tr_any2plains'/>
+      <joltingAmplitude type='float' value='2.799999952316284'/>
+      <joltingTime type='float' value='2.0'/>
+    </item>
+    <item>
+      <name type='string' value='sp_tr_any2volcano'/>
+      <joltingAmplitude type='float' value='4.0'/>
+      <joltingTime type='float' value='2.700000047683716'/>
+    </item>
+    <item>
+      <name type='string' value='sp_tr_mount2hills_aoe'/>
+      <joltingAmplitude type='float' value='3.5'/>
+      <joltingTime type='float' value='2.0'/>
+    </item>
+    <item>
+      <name type='string' value='sp_tr_sea2plains_aoe'/>
+      <joltingAmplitude type='float' value='3.5'/>
+      <joltingTime type='float' value='2.0'/>
+    </item>
+    <item>
+      <name type='string' value='vulcano'/>
+      <joltingAmplitude type='float' value='4.0'/>
+      <joltingTime type='float' value='2.5'/>
+    </item>
+  </SpellEffectsList>
+</SpellEffectsDataList>

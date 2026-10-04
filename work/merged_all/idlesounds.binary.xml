@@ -1,0 +1,1005 @@
+<IdleSounds>
+  <structGroupName type='string' value='moar_project/Buildings/Buildings_Idle'/>
+  <unitGroupName type='string' value='moar_project/Units/Units_Idle'/>
+  <maxDistance type='float' value='75.0'/>
+  <StructureSoundEventList>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_a_dwarf_forge'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_a_dwarf_guild'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_a_dwarf_training'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_a_elf_bow_training'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_a_elf_bungalo'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_a_elf_casino'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_a_halberdier_guild'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_a_halberdier_training'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_a_knight_donkey_guild'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_a_lizardman_guild'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_a_minotaur_labyrinth'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_a_minotaur_pyramid'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_a_minotaur_training'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_a_serpentarium'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_a_war_university'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_adamantium_armory'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_alchemy_market'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_bank'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_barracks'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_craftsmen_district'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_demonologist'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_enchanters_armory'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_excavations'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_farm'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_farm_pig'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_farm_pumpkin'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_foundry'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_granary'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_harbor'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_jewelry'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_magic_polygon'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_magic_receiver'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_mana_pump'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_market'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_mill'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_mine_gems'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_mine_gold'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_mine_silver'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_money_yard'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_nevril_armory'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_shipyard'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_smithy'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_tax_collector'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_temple_agrela'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_temple_dauros'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_temple_fervus'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_temple_grumgog'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_temple_helia'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_temple_krolm'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_temple_krypta'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_temple_lunord'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_tradepost'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_training_grounds'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_university'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_c_war_academy'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_e_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='dark elves castle 1'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_e_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='dark elves castle 2'/>
+      <units type='integer' value='1'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_e_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='dark elves castle 3'/>
+      <units type='integer' value='2'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_e_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='dark elves castle 3'/>
+      <units type='integer' value='3'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_e_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='dark elves castle 1'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_e_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='dark elves castle 2'/>
+      <units type='integer' value='1'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_e_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='dark elves castle 3'/>
+      <units type='integer' value='2'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_e_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='dark elves castle 3'/>
+      <units type='integer' value='3'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_golden_dragon_nest'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_bakery'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='human castle 1'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='human castle 2'/>
+      <units type='integer' value='1'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='human castle 3'/>
+      <units type='integer' value='2'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='human castle 4'/>
+      <units type='integer' value='3'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='human castle 1'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='human castle 2'/>
+      <units type='integer' value='1'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='human castle 3'/>
+      <units type='integer' value='2'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='human castle 4'/>
+      <units type='integer' value='3'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_dragon_farm'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_garden_magic'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_guild_cleric'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_guild_mage'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_guild_mechanic'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_guild_ranger'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_guild_rogue'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_guild_warrior'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_library'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_money_keepers'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_silver_weaponry'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_tower_guard'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_h_tower_magic'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_butchery'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='monster castle 1'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='monster castle 2'/>
+      <units type='integer' value='1'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='monster castle 3'/>
+      <units type='integer' value='2'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='mosnter castle 4'/>
+      <units type='integer' value='3'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='monster castle 1'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='monster castle 2'/>
+      <units type='integer' value='1'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='monster castle 3'/>
+      <units type='integer' value='2'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='mosnter castle 4'/>
+      <units type='integer' value='3'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_cheese_cave'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_dragon_farm'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_eatery'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_elevator'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_fish_village'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_guild_goblin_spearmen'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_guild_ratman'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_guild_shaman'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_guild_troll'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_guild_werewolf'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_laboratory'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_shrine_pumpkin'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_silver_mine'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_tower_guard'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_m_tower_magic'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_red_dragon_nest'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='undead castle 1'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='undead castle 2'/>
+      <units type='integer' value='1'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='undead castle 3'/>
+      <units type='integer' value='2'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_capital'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='undead castle 4'/>
+      <units type='integer' value='3'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='undead castle 1'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='undead castle 2'/>
+      <units type='integer' value='1'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='undead castle 3'/>
+      <units type='integer' value='2'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='undead castle 4'/>
+      <units type='integer' value='3'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_dragon_glasshouse'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_guild_bomber'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_guild_dragon_two_head'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_guild_skeleton_war'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_guild_vampire'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_guild_zombie'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_magic_farm'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_magic_granary'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_magic_mill'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_magic_transformation'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_pumpkin_fields'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_silver_transmutation'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_tower_guard'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_u_tower_magic'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='building is building simple'/>
+      <units type='integer' value='4294967295'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_w_bear_den'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='bear den'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_w_dump'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='roach den'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_w_elemental_portal'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='elemental portal'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_w_imp_portal'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='imp portal'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_w_magic_glade'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='magic glade'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_w_ratman_den'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='ratman den'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_w_spider_hole'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='spider hole'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_w_wolf_den'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='wolf den'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_w_wolfman_den'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='wolf den'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_z_evil_castle'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='evil castle'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_z_evil_castle_tower'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='evil castle'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_z_evil_gate'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='evil gate'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='bld_z_evil_tower'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='evil gate'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='tel_teleport1'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='teleport'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+    <StructureSoundEvent>
+      <structure type='string' value='tel_teleport2'/>
+      <animation type='string' value=''/>
+      <eventName type='string' value='teleport'/>
+      <units type='integer' value='0'/>
+    </StructureSoundEvent>
+  </StructureSoundEventList>
+  <UnitSoundEventList>
+    <UnitSoundEvent>
+      <structure type='string' value='a_dragon_gold'/>
+      <animation type='string' value='a_dragon_red_idle_random.bca'/>
+      <eventName type='string' value='dragon idle random'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='a_dragon_gold'/>
+      <animation type='string' value='a_dragon_red_idle.bca'/>
+      <eventName type='string' value='dragon idle'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='a_dragon_red'/>
+      <animation type='string' value='a_dragon_red_idle_random.bca'/>
+      <eventName type='string' value='dragon idle random'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='a_dragon_red'/>
+      <animation type='string' value='a_dragon_red_idle.bca'/>
+      <eventName type='string' value='dragon idle'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='e_dragon_rider'/>
+      <animation type='string' value='e_dragon_rider_idle_random.bca'/>
+      <eventName type='string' value='dragon idle random'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='e_dragon_rider'/>
+      <animation type='string' value='e_dragon_rider_idle.bca'/>
+      <eventName type='string' value='dragon idle'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='e_flying_island'/>
+      <animation type='string' value='e_flying_island_idle.bca'/>
+      <eventName type='string' value='flying ship idle'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='e_flying_island_adv'/>
+      <animation type='string' value='e_flying_island_adv_idle.bca'/>
+      <eventName type='string' value='flying ship idle'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='e_phoenix'/>
+      <animation type='string' value='e_phoenix_idle.bca'/>
+      <eventName type='string' value='phoenix idle'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='s_dragon_two_head'/>
+      <animation type='string' value='s_dragon_two_head_idle_random.bca'/>
+      <eventName type='string' value='dragon twohead idle random'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='s_dragon_two_head'/>
+      <animation type='string' value='s_dragon_two_head_idle.bca'/>
+      <eventName type='string' value='dragon idle'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='sea_serpent'/>
+      <animation type='string' value='sea_serpent_idle_random.bca'/>
+      <eventName type='string' value='sea serpent idle'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='u_dragon_bone_twohead'/>
+      <animation type='string' value='u_dragon_two_head_idle_random.bca'/>
+      <eventName type='string' value='dragon bone idle random'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='u_dragon_bone_twohead'/>
+      <animation type='string' value='u_dragon_two_head_idle.bca'/>
+      <eventName type='string' value='dragon bone idle'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='u_dragon_bone_twohead_adv'/>
+      <animation type='string' value='u_dragon_two_head_idle_random.bca'/>
+      <eventName type='string' value='dragon bone idle random'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='u_dragon_bone_twohead_adv'/>
+      <animation type='string' value='u_dragon_two_head_idle.bca'/>
+      <eventName type='string' value='dragon bone idle'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='z_sea_behemoth'/>
+      <animation type='string' value='z_sea_behemoth_idle_random.bca'/>
+      <eventName type='string' value='sea behemoth idle random'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+    <UnitSoundEvent>
+      <structure type='string' value='z_villain_of_piece'/>
+      <animation type='string' value='z_villain_of_piece_idle_random.bca'/>
+      <eventName type='string' value='vilain of piece idle'/>
+      <units type='integer' value='1'/>
+    </UnitSoundEvent>
+  </UnitSoundEventList>
+</IdleSounds>

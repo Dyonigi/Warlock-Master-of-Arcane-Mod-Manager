@@ -1,0 +1,3474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by Iv (OTR) -->
+<StructureDataList>
+	<Cities>
+		<item>
+			<s_name>ElvenCapital</s_name>
+			<i_stage>1</i_stage>
+			<s_race>elves</s_race>
+			<s_type>Capital</s_type>
+			<i_population>4850</i_population>
+			<ip2_spawnPeriod x="5" y="6"/>
+			<i_dlcId>4</i_dlcId>
+			<buildings>
+				<s_Item>bld_c_farm</s_Item>
+				<s_Item>bld_c_market</s_Item>
+				<s_Item>bld_e_guild_elf_archer</s_Item>
+			</buildings>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>e_elf_archer</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>e_elf_lancer</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>e_elf_settler</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>ElvesTown01</s_name>
+			<i_stage>1</i_stage>
+			<s_race>elves</s_race>
+			<s_type>Province</s_type>
+			<i_population>1000</i_population>
+			<ip2_spawnPeriod x="10" y="15"/>
+			<i_dlcId>4</i_dlcId>
+			<buildings/>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>e_elf_archer</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>e_elf_lancer</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>ElvesTown02</s_name>
+			<i_stage>2</i_stage>
+			<s_race>elves</s_race>
+			<s_type>Province</s_type>
+			<i_population>5100</i_population>
+			<ip2_spawnPeriod x="10" y="15"/>
+			<i_dlcId>4</i_dlcId>
+			<buildings>
+				<s_Item>bld_c_farm</s_Item>
+				<s_Item>bld_e_guild_elf_archer</s_Item>
+				<s_Item>bld_c_smithy</s_Item>
+				<s_Item>bld_e_tower_guard</s_Item>
+			</buildings>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>e_elf_knight</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>e_elf_archer</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>ElvesTown03</s_name>
+			<i_stage>2</i_stage>
+			<s_race>elves</s_race>
+			<s_type>Province</s_type>
+			<i_population>5100</i_population>
+			<ip2_spawnPeriod x="12" y="15"/>
+			<i_dlcId>4</i_dlcId>
+			<buildings>
+				<s_Item>bld_c_magic_receiver</s_Item>
+				<s_Item>bld_e_alchemy_masters</s_Item>
+				<s_Item>bld_e_guild_elf_warlock</s_Item>
+				<s_Item>bld_e_tower_magic</s_Item>
+			</buildings>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>e_elf_lancer_adv</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>e_elf_warlock</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>HumanCapital</s_name>
+			<i_stage>1</i_stage>
+			<s_race>humans</s_race>
+			<s_type>Capital</s_type>
+			<i_population>4850</i_population>
+			<ip2_spawnPeriod x="5" y="6"/>
+			<i_dlcId>0</i_dlcId>
+			<buildings>
+				<s_Item>bld_c_farm</s_Item>
+				<s_Item>bld_c_market</s_Item>
+				<s_Item>bld_h_guild_warrior</s_Item>
+			</buildings>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>h_rogue</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>h_ranger</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>h_settler_peasant</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>HumanTown01</s_name>
+			<i_stage>1</i_stage>
+			<s_race>humans</s_race>
+			<s_type>Province</s_type>
+			<i_population>1000</i_population>
+			<ip2_spawnPeriod x="10" y="15"/>
+			<i_dlcId>0</i_dlcId>
+			<buildings/>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>h_warrior</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>h_rogue</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>HumanTown02</s_name>
+			<i_stage>2</i_stage>
+			<s_race>humans</s_race>
+			<s_type>Province</s_type>
+			<i_population>5100</i_population>
+			<ip2_spawnPeriod x="10" y="15"/>
+			<i_dlcId>0</i_dlcId>
+			<buildings>
+				<s_Item>bld_c_farm</s_Item>
+				<s_Item>bld_h_guild_warrior</s_Item>
+				<s_Item>bld_c_smithy</s_Item>
+				<s_Item>bld_h_tower_guard</s_Item>
+			</buildings>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>h_warrior_adv</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>h_ranger</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>HumanTown03</s_name>
+			<i_stage>2</i_stage>
+			<s_race>humans</s_race>
+			<s_type>Province</s_type>
+			<i_population>5100</i_population>
+			<ip2_spawnPeriod x="10" y="15"/>
+			<i_dlcId>0</i_dlcId>
+			<buildings>
+				<s_Item>bld_c_magic_receiver</s_Item>
+				<s_Item>bld_h_library</s_Item>
+				<s_Item>bld_h_guild_mage</s_Item>
+				<s_Item>bld_h_tower_magic</s_Item>
+			</buildings>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>h_warrior_adv</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>h_mage</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>MonsterCapital</s_name>
+			<i_stage>1</i_stage>
+			<s_race>monsters</s_race>
+			<s_type>Capital</s_type>
+			<i_population>4850</i_population>
+			<ip2_spawnPeriod x="5" y="6"/>
+			<i_dlcId>0</i_dlcId>
+			<buildings>
+				<s_Item>bld_c_farm</s_Item>
+				<s_Item>bld_c_market</s_Item>
+				<s_Item>bld_m_guild_goblin_spearmen</s_Item>
+			</buildings>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>m_ratman</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>m_goblin_bow</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>m_settler_gnomes</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>MonsterTown01</s_name>
+			<i_stage>1</i_stage>
+			<s_race>monsters</s_race>
+			<s_type>Province</s_type>
+			<i_population>1000</i_population>
+			<ip2_spawnPeriod x="10" y="15"/>
+			<i_dlcId>0</i_dlcId>
+			<buildings/>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>m_ratman</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>m_goblin_spear</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>MonsterTown02</s_name>
+			<i_stage>2</i_stage>
+			<s_race>monsters</s_race>
+			<s_type>Province</s_type>
+			<i_population>5100</i_population>
+			<ip2_spawnPeriod x="10" y="15"/>
+			<i_dlcId>0</i_dlcId>
+			<buildings>
+				<s_Item>bld_c_farm</s_Item>
+				<s_Item>bld_m_guild_goblin_spearmen</s_Item>
+				<s_Item>bld_c_smithy</s_Item>
+				<s_Item>bld_m_tower_guard</s_Item>
+			</buildings>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>m_werewolf</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>m_goblin_bow</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>MonsterTown03</s_name>
+			<i_stage>2</i_stage>
+			<s_race>monsters</s_race>
+			<s_type>Province</s_type>
+			<i_population>5100</i_population>
+			<ip2_spawnPeriod x="10" y="15"/>
+			<i_dlcId>0</i_dlcId>
+			<buildings>
+				<s_Item>bld_c_magic_receiver</s_Item>
+				<s_Item>bld_m_laboratory</s_Item>
+				<s_Item>bld_m_guild_shaman</s_Item>
+				<s_Item>bld_m_tower_magic</s_Item>
+			</buildings>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>m_troll</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>m_goblin_shaman</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>UndeadCapital</s_name>
+			<i_stage>1</i_stage>
+			<s_race>undead</s_race>
+			<s_type>Capital</s_type>
+			<i_population>4850</i_population>
+			<ip2_spawnPeriod x="5" y="6"/>
+			<i_dlcId>0</i_dlcId>
+			<buildings>
+				<s_Item>bld_c_magic_receiver</s_Item>
+				<s_Item>bld_c_market</s_Item>
+				<s_Item>bld_u_guild_skeleton_war</s_Item>
+			</buildings>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_skeleton_war</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_skeleton_bow</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_settler_skeleton</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>UndeadTown01</s_name>
+			<i_stage>1</i_stage>
+			<s_race>undead</s_race>
+			<s_type>Province</s_type>
+			<i_population>1000</i_population>
+			<ip2_spawnPeriod x="10" y="15"/>
+			<i_dlcId>0</i_dlcId>
+			<buildings/>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_skeleton_war</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_skeleton_bow</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>UndeadTown02</s_name>
+			<i_stage>2</i_stage>
+			<s_race>undead</s_race>
+			<s_type>Province</s_type>
+			<i_population>5100</i_population>
+			<ip2_spawnPeriod x="10" y="15"/>
+			<i_dlcId>0</i_dlcId>
+			<buildings>
+				<s_Item>bld_c_magic_receiver</s_Item>
+				<s_Item>bld_u_guild_skeleton_war</s_Item>
+				<s_Item>bld_c_smithy</s_Item>
+				<s_Item>bld_u_tower_magic</s_Item>
+			</buildings>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_ghost</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_skeleton_bow</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>UndeadTown03</s_name>
+			<i_stage>2</i_stage>
+			<s_race>undead</s_race>
+			<s_type>Province</s_type>
+			<i_population>5100</i_population>
+			<ip2_spawnPeriod x="10" y="15"/>
+			<i_dlcId>0</i_dlcId>
+			<buildings>
+				<s_Item>bld_c_market</s_Item>
+				<s_Item>bld_c_tax_collector</s_Item>
+				<s_Item>bld_u_guild_vampire</s_Item>
+				<s_Item>bld_u_tower_guard</s_Item>
+			</buildings>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_skeleton_war_adv</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_vampire</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+	</Cities>
+	<Locations>
+		<item>
+			<s_name>bld_w_bear_cave</s_name>
+			<i_stage>5</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="25" y="45"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="100" y="250"/>
+					<ip2_research x="100" y="250"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>10</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_bear_cave</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_bear_den</s_name>
+			<i_stage>2</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="7" y="14"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="50" y="90"/>
+					<ip2_research x="50" y="130"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>monsters</s_race>
+					<i_probability>20</i_probability>
+					<i_stage>1</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_bear</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_bear_adv</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_bearman</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_big_spider_den</s_name>
+			<i_stage>2</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="7" y="14"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>99</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="30" y="60"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>66</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>lord</s_race>
+					<i_probability>20</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>30</i_probability>
+					<i_stage>1</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_spider</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_spider_adv</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_skeleton</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_chest</s_name>
+			<i_stage>1</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>40</i_mapProbability>
+			<i_rndEventProbability>4</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>chest</s_randomEventType>
+			<ip2_spawnPeriod x="5" y="10"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="30" y="60"/>
+					<ip2_research x="30" y="60"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>30</i_probability>
+					<i_stage>1</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders/>
+		</item>
+		<item>
+			<s_name>bld_w_chest_art</s_name>
+			<i_stage>2</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>5</i_mapProbability>
+			<i_rndEventProbability>5</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>chest</s_randomEventType>
+			<ip2_spawnPeriod x="30" y="50"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders/>
+		</item>
+		<item>
+			<s_name>bld_w_chest_art</s_name>
+			<i_stage>3</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>3</i_mapProbability>
+			<i_rndEventProbability>3</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>chest</s_randomEventType>
+			<ip2_spawnPeriod x="30" y="50"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>3</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders/>
+		</item>
+		<item>
+			<s_name>bld_w_cockroach_hell</s_name>
+			<i_stage>5</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="25" y="45"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="200" y="250"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_cockroach_hell</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_crypt</s_name>
+			<i_stage>3</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>necros</s_randomEventType>
+			<ip2_spawnPeriod x="9" y="18"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="100" y="150"/>
+					<ip2_research x="100" y="250"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="50" y="75"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>undead</s_race>
+					<i_probability>40</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>30</i_probability>
+					<i_stage>3</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>20</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_vampire</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_scout</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_skeleton_war_adv</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_skeleton_bow_adv</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_demons_hell</s_name>
+			<i_stage>3</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>demon</s_randomEventType>
+			<ip2_spawnPeriod x="9" y="18"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="50" y="100"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>80</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>20</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>lord</s_race>
+					<i_probability>20</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_imp</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_imp_adv</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_elemental_fire_adv</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_dragon_nest</s_name>
+			<i_stage>4</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>fly</s_randomEventType>
+			<ip2_spawnPeriod x="9" y="18"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="200" y="300"/>
+					<ip2_research x="200" y="500"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="200" y="350"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>50</i_probability>
+					<i_stage>3</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>40</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>lord</s_race>
+					<i_probability>10</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>a_dragon_red</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_dragon_two_head</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>a_dragon_gold</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_dump</s_name>
+			<i_stage>1</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="5" y="10"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="30" y="60"/>
+					<ip2_research x="30" y="60"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>20</i_probability>
+					<i_stage>1</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_cockroach</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_cockroach_adv</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_ratman_wild</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_elemental_diamond</s_name>
+			<i_stage>5</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>elemental</s_randomEventType>
+			<ip2_spawnPeriod x="25" y="45"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="400" y="600"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_elemental_diamond</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_elemental_portal</s_name>
+			<i_stage>4</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>elemental</s_randomEventType>
+			<ip2_spawnPeriod x="9" y="18"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="100" y="150"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>summoned</s_race>
+					<i_probability>40</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>30</i_probability>
+					<i_stage>3</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>20</i_probability>
+					<i_stage>3</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_elemental_fire</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_elemental_earth</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_elemental_fire_adv</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_elemental_earth_adv</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_elemental_water</s_name>
+			<i_stage>5</i_stage>
+			<s_type>WaterLocation</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="25" y="45"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="300" y="500"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>50</i_probability>
+					<i_stage>3</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_elemental_water</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_graveyard</s_name>
+			<i_stage>2</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>necros</s_randomEventType>
+			<ip2_spawnPeriod x="7" y="14"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="50" y="90"/>
+					<ip2_research x="50" y="130"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>undead</s_race>
+					<i_probability>50</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>10</i_probability>
+					<i_stage>1</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="2"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_skeleton_war</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_skeleton_bow</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_skeleton_war_adv</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>u_skeleton_bow_adv</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_imp_portal</s_name>
+			<i_stage>2</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>demon</s_randomEventType>
+			<ip2_spawnPeriod x="7" y="14"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="50" y="75"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>20</i_probability>
+					<i_stage>1</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_imp</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_imp_adv</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_logovo_rogue</s_name>
+			<i_stage>2</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>rogue</s_randomEventType>
+			<ip2_spawnPeriod x="7" y="14"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="50" y="90"/>
+					<ip2_research x="50" y="130"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>10</i_probability>
+					<i_stage>1</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>humans</s_race>
+					<i_probability>20</i_probability>
+					<i_stage>1</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>h_rogue</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>h_ranger</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>h_rogue_adv</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>h_ranger_adv</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_mage_evil</s_name>
+			<i_stage>5</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>rogue</s_randomEventType>
+			<ip2_spawnPeriod x="25" y="45"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="100" y="250"/>
+					<ip2_research x="100" y="250"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="100" y="250"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_mage_evil</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_magic_glade</s_name>
+			<i_stage>3</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>elemental</s_randomEventType>
+			<ip2_spawnPeriod x="9" y="18"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="100" y="225"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>50</i_probability>
+					<i_stage>3</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>10</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>elves</s_race>
+					<i_probability>20</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_treant</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_elemental_earth_adv</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_elemental_earth</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_ogre_cave</s_name>
+			<i_stage>2</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>elemental</s_randomEventType>
+			<ip2_spawnPeriod x="7" y="14"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="50" y="90"/>
+					<ip2_research x="50" y="130"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>50</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>20</i_probability>
+					<i_stage>1</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>lord</s_race>
+					<i_probability>10</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_ogre</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_peasant_mad</s_name>
+			<i_stage>5</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>rogue</s_randomEventType>
+			<ip2_spawnPeriod x="25" y="45"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="100" y="250"/>
+					<ip2_research x="100" y="250"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>lord</s_race>
+					<i_probability>75</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>50</i_probability>
+					<i_stage>3</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_peasant_mad</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_ratman_den</s_name>
+			<i_stage>1</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="5" y="10"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="30" y="60"/>
+					<ip2_research x="30" y="60"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>monsters</s_race>
+					<i_probability>30</i_probability>
+					<i_stage>1</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_ratman_wild</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>m_rat</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>m_rat_adv</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_sea_bigfish_nest</s_name>
+			<i_stage>2</i_stage>
+			<s_type>WaterLocation</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>15</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="25" y="45"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="75" y="100"/>
+					<ip2_research x="100" y="250"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>sea_bigfish</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_sea_chest</s_name>
+			<i_stage>1</i_stage>
+			<s_type>WaterLocation</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="7" y="14"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="30" y="60"/>
+					<ip2_research x="30" y="60"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders/>
+		</item>
+		<item>
+			<s_name>bld_w_sea_kraken_nest</s_name>
+			<i_stage>2</i_stage>
+			<s_type>WaterLocation</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>5</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="9" y="18"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="125" y="200"/>
+					<ip2_research x="100" y="250"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>sea_kraken</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_sea_serpent_nest</s_name>
+			<i_stage>2</i_stage>
+			<s_type>WaterLocation</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="9" y="18"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="100" y="125"/>
+					<ip2_research x="100" y="250"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="50" y="130"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>sea_serpent</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_serpent_nest</s_name>
+			<i_stage>2</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>fly</s_randomEventType>
+			<ip2_spawnPeriod x="7" y="14"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="25" y="50"/>
+					<ip2_research x="50" y="130"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>50</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="30" y="60"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>20</i_probability>
+					<i_stage>1</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_serpent</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>a_dragon_red</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_spider_hole</s_name>
+			<i_stage>1</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="5" y="10"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="50" y="130"/>
+					<ip2_research x="50" y="130"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="30" y="60"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>30</i_probability>
+					<i_stage>1</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_spider</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_spider_adv</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_spider_red</s_name>
+			<i_stage>5</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="25" y="45"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="200" y="350"/>
+					<ip2_research x="200" y="350"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>60</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="100" y="200"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>lord</s_race>
+					<i_probability>75</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>60</i_probability>
+					<i_stage>3</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_spider_red</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_treant_dry</s_name>
+			<i_stage>5</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>elemental</s_randomEventType>
+			<ip2_spawnPeriod x="25" y="45"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="100" y="250"/>
+					<ip2_research x="100" y="250"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="100" y="250"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>lord</s_race>
+					<i_probability>60</i_probability>
+					<i_stage>3</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_treant_dry</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_troll_big</s_name>
+			<i_stage>5</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="25" y="45"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="800" y="1200"/>
+					<ip2_research x="800" y="1200"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>80</i_probability>
+					<i_stage>3</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>lord</s_race>
+					<i_probability>60</i_probability>
+					<i_stage>3</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_troll_big</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_wolf_den</s_name>
+			<i_stage>1</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="5" y="10"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="30" y="60"/>
+					<ip2_research x="30" y="60"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>monsters</s_race>
+					<i_probability>30</i_probability>
+					<i_stage>1</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_wolf</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_wolf_adv</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_wolfman</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_wolf_nightmare</s_name>
+			<i_stage>5</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>demon</s_randomEventType>
+			<ip2_spawnPeriod x="25" y="45"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="100" y="250"/>
+					<ip2_research x="100" y="250"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>50</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="50" y="130"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>30</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_wolf_nightmare</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_wolfman_den</s_name>
+			<i_stage>3</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="9" y="18"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="100" y="250"/>
+					<ip2_research x="100" y="250"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>40</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>monsters</s_race>
+					<i_probability>40</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>10</i_probability>
+					<i_stage>2</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_wolf_adv</s_name>
+					<f_fractionLevel>0.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_wolfman</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>m_werewolf_adv</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_wolf_ghost</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_w_zombie_mindless</s_name>
+			<i_stage>5</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>10</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>necros</s_randomEventType>
+			<ip2_spawnPeriod x="25" y="45"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="200" y="500"/>
+					<ip2_research x="200" y="500"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>75</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="200" y="300"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Unit</s_lootType>
+					<s_race>undead</s_race>
+					<i_probability>30</i_probability>
+					<i_stage>3</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>50</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>50</i_probability>
+					<i_stage>3</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_ghost_bad</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>w_zombie_mindless</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_z_evil_castle</s_name>
+			<i_stage>3</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>0</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>evil</s_randomEventType>
+			<ip2_spawnPeriod x="12" y="15"/>
+			<s_building>bld_z_evil_castle_tower</s_building>
+			<i_dlcId>5</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="100" y="150"/>
+					<ip2_research x="100" y="250"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Random</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>2</i_stage>
+					<s_race>dremers</s_race>
+					<s_name/>
+					<f_fractionLevel>0.50000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Random</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>3</i_stage>
+					<s_race>dremers</s_race>
+					<s_name/>
+					<f_fractionLevel>1.50000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Random</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>4</i_stage>
+					<s_race>dremers</s_race>
+					<s_name/>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_z_evil_gate</s_name>
+			<i_stage>3</i_stage>
+			<s_type>Epicenter</s_type>
+			<i_mapProbability>0</i_mapProbability>
+			<i_rndEventProbability>10</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="5" y="10"/>
+			<s_building>bld_z_evil_tower</s_building>
+			<i_dlcId>5</i_dlcId>
+			<b_fixedTerrain>false</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="100" y="150"/>
+					<ip2_research x="100" y="200"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>50</i_probability>
+					<i_stage>3</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Mana</s_lootType>
+					<s_race/>
+					<i_probability>50</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="50" y="130"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>z_evil_brute</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>75.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>z_evil_thrower</s_name>
+					<f_fractionLevel>1.00000000</f_fractionLevel>
+					<f_spawnProbability>40.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>z_flying_monster</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>40.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>z_evil_mage</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>40.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>z_evil_sturdy</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>40.00000000</f_spawnProbability>
+				</ArmyPreset>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="0" y="0"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>z_evil_brute_adv</s_name>
+					<f_fractionLevel>3.00000000</f_fractionLevel>
+					<f_spawnProbability>40.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>bld_z_evil_key</s_name>
+			<i_stage>3</i_stage>
+			<s_type>Location</s_type>
+			<i_mapProbability>0</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>evil</s_randomEventType>
+			<ip2_spawnPeriod x="25" y="45"/>
+			<s_building>bld_z_evil_key_tower</s_building>
+			<i_dlcId>5</i_dlcId>
+			<b_fixedTerrain>true</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot>
+				<LootPreset version="2">
+					<s_lootType>Money</s_lootType>
+					<s_race/>
+					<i_probability>100</i_probability>
+					<i_stage>0</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="100" y="250"/>
+					<ip2_research x="100" y="250"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Artifact</s_lootType>
+					<s_race/>
+					<i_probability>30</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+				<LootPreset version="2">
+					<s_lootType>Spell</s_lootType>
+					<s_race/>
+					<i_probability>30</i_probability>
+					<i_stage>4</i_stage>
+					<ip2_mana x="0" y="0"/>
+					<ip2_money x="0" y="0"/>
+					<ip2_research x="0" y="0"/>
+					<s_spellGodType/>
+				</LootPreset>
+			</Loot>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Random</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>3</i_stage>
+					<s_race>dremers</s_race>
+					<s_name/>
+					<f_fractionLevel>5.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>tel_teleport1</s_name>
+			<i_stage>2</i_stage>
+			<s_type>Teleport</s_type>
+			<i_mapProbability>0</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="9" y="18"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>true</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot/>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_elemental_earth</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+		<item>
+			<s_name>tel_teleport2</s_name>
+			<i_stage>2</i_stage>
+			<s_type>Teleport</s_type>
+			<i_mapProbability>0</i_mapProbability>
+			<i_rndEventProbability>0</i_rndEventProbability>
+			<i_magicPower>0</i_magicPower>
+			<s_randomEventType>beast</s_randomEventType>
+			<ip2_spawnPeriod x="9" y="18"/>
+			<s_building/>
+			<i_dlcId>0</i_dlcId>
+			<b_fixedTerrain>true</b_fixedTerrain>
+			<presetNameList>
+				<s_Item>Ardania</s_Item>
+				<s_Item>Desert</s_Item>
+				<s_Item>Evil</s_Item>
+				<s_Item>Ice</s_Item>
+				<s_Item>Lava</s_Item>
+				<s_Item>Moon</s_Item>
+				<s_Item>Myrra</s_Item>
+				<s_Item>Outlands</s_Item>
+			</presetNameList>
+			<Loot/>
+			<Defenders>
+				<ArmyPreset>
+					<s_armyType>Specified</s_armyType>
+					<ip2_count x="1" y="1"/>
+					<i_stage>0</i_stage>
+					<s_race/>
+					<s_name>s_elemental_fire</s_name>
+					<f_fractionLevel>2.00000000</f_fractionLevel>
+					<f_spawnProbability>100.00000000</f_spawnProbability>
+				</ArmyPreset>
+			</Defenders>
+		</item>
+	</Locations>
+</StructureDataList>

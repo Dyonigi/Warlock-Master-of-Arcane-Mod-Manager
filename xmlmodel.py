@@ -5,7 +5,7 @@ from __future__ import annotations
 
 import copy
 import xml.etree.ElementTree as ET
-from typing import List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple
 
 from catalog import identity_fields
 from txml import TXML_TYPE_DESCS_FROM_STR, is_value_node
@@ -50,7 +50,7 @@ def _esc(s: str) -> str:
     )
 
 
-def node_label(node: ET.Element) -> str:
+def node_label(node: ET.Element, localization: Optional[Dict[str, str]] = None) -> str:
     if is_value_node(node):
         t = node.attrib.get("type", "")
         if t in ("string", "integer", "float", "bool", "long", "short"):
@@ -60,7 +60,14 @@ def node_label(node: ET.Element) -> str:
     ident = record_identity(node)
     n = len(node)
     if ident:
-        return f"{node.tag}: {ident}  [{n} fields]"
+        label = f"{node.tag}: {ident}"
+        if localization:
+            from project import localization_lookup
+            friendly = localization_lookup(localization, ident)
+            if friendly and friendly != ident:
+                label += f"  —  {friendly}"
+        label += f"  [{n} fields]"
+        return label
     if n:
         return f"{node.tag}  [{n} children]"
     return node.tag
@@ -174,3 +181,30 @@ def find_list_containers(root: ET.Element) -> List[ET.Element]:
 
     walk(root)
     return found
+
+
+def iter_identity_values(node: ET.Element):
+    """Yield (value, tag) for every identity-looking field under this record."""
+    wanted = set(identity_fields())
+    for child in node:
+        if child.tag in wanted and child.attrib.get("value"):
+            yield child.attrib["value"], child.tag
+    for key in ("name", "id", "typeName"):
+        if node.attrib.get(key):
+            yield node.attrib[key], key
+
+
+def build_definition_index(root: ET.Element) -> Dict[str, ET.Element]:
+    """Map every identity value in the tree to the record node that declares it."""
+    index: Dict[str, ET.Element] = {}
+
+    def walk(node: ET.Element) -> None:
+        if not is_value_node(node):
+            for val, _tag in iter_identity_values(node):
+                if val and val not in index:
+                    index[val] = node
+        for child in node:
+            walk(child)
+
+    walk(root)
+    return index

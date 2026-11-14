@@ -1,0 +1,272 @@
+<GFXDefs>
+  <windows>
+    <Item>
+      <key type='integer' value='3682916664'/>
+      <def>
+        <name type='string' value='preGenerate'/>
+        <file type='string' value='w_pregenerate.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='4286319288'/>
+      <def>
+        <name type='string' value='mainMenu'/>
+        <file type='string' value='w_mainmenu.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='3165170'/>
+      <def>
+        <name type='string' value='game'/>
+        <file type='string' value='w_game.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='97436022'/>
+      <def>
+        <name type='string' value='final'/>
+        <file type='string' value='w_intro.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='100361836'/>
+      <def>
+        <name type='string' value='intro'/>
+        <file type='string' value='w_intro.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='336650556'/>
+      <def>
+        <name type='string' value='loading'/>
+        <file type='string' value='w_loading.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='337514228'/>
+      <def>
+        <name type='string' value='lobbies'/>
+        <file type='string' value='w_multiplayer.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='835260333'/>
+      <def>
+        <name type='string' value='manager'/>
+        <file type='string' value='w_manager.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+  </windows>
+  <libs>
+    <Item>
+      <key type='integer' value='2461038850'/>
+      <def>
+        <name type='string' value='effects'/>
+        <file type='string' value='c_effects.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='2976881153'/>
+      <def>
+        <name type='string' value='gui_skin'/>
+        <file type='string' value='c_gui_skin.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='3045492382'/>
+      <def>
+        <name type='string' value='options'/>
+        <file type='string' value='c_options.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='3422179731'/>
+      <def>
+        <name type='string' value='message_box'/>
+        <file type='string' value='c_message_box.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='3855074877'/>
+      <def>
+        <name type='string' value='gfxfontlib'/>
+        <file type='string' value='gfxfontlib.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='104385'/>
+      <def>
+        <name type='string' value='ime'/>
+        <file type='string' value='ime.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='3327403'/>
+      <def>
+        <name type='string' value='logo'/>
+        <file type='string' value='c_logo.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='100029210'/>
+      <def>
+        <name type='string' value='icons'/>
+        <file type='string' value='c_icons.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='183902824'/>
+      <def>
+        <name type='string' value='save_load'/>
+        <file type='string' value='c_save_load.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='366544006'/>
+      <def>
+        <name type='string' value='fonts_cn'/>
+        <file type='string' value='fonts_cn.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='366544018'/>
+      <def>
+        <name type='string' value='fonts_cz'/>
+        <file type='string' value='fonts_eu.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='366544028'/>
+      <def>
+        <name type='string' value='fonts_de'/>
+        <file type='string' value='fonts_eu.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='366544068'/>
+      <def>
+        <name type='string' value='fonts_en'/>
+        <file type='string' value='fonts_eu.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='366544103'/>
+      <def>
+        <name type='string' value='fonts_fr'/>
+        <file type='string' value='fonts_eu.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='366544198'/>
+      <def>
+        <name type='string' value='fonts_it'/>
+        <file type='string' value='fonts_eu.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='366544225'/>
+      <def>
+        <name type='string' value='fonts_jp'/>
+        <file type='string' value='fonts_jp.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='366544407'/>
+      <def>
+        <name type='string' value='fonts_pl'/>
+        <file type='string' value='fonts_eu.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='366544478'/>
+      <def>
+        <name type='string' value='fonts_ru'/>
+        <file type='string' value='fonts_eu.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='366544504'/>
+      <def>
+        <name type='string' value='fonts_sp'/>
+        <file type='string' value='fonts_eu.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='1028633754'/>
+      <def>
+        <name type='string' value='credits'/>
+        <file type='string' value='c_credits.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+    <Item>
+      <key type='integer' value='1204591481'/>
+      <def>
+        <name type='string' value='component_library'/>
+        <file type='string' value='component_library.gfx'/>
+        <border type='bool' value='0'/>
+      </def>
+    </Item>
+  </libs>
+  <fonts>
+    <Item>
+      <name type='string' value='$TitleFont'/>
+      <mapping type='string' value='Gabriola'/>
+      <bold type='bool' value='0'/>
+      <italic type='bool' value='0'/>
+      <fauxBold type='bool' value='0'/>
+      <fauxItalic type='bool' value='0'/>
+    </Item>
+    <Item>
+      <name type='string' value='$NormalFont'/>
+      <mapping type='string' value='DejaVu Serif'/>
+      <bold type='bool' value='0'/>
+      <italic type='bool' value='0'/>
+      <fauxBold type='bool' value='0'/>
+      <fauxItalic type='bool' value='0'/>
+    </Item>
+    <Item>
+      <name type='string' value='$ThinFont'/>
+      <mapping type='string' value='DejaVu Sans'/>
+      <bold type='bool' value='0'/>
+      <italic type='bool' value='0'/>
+      <fauxBold type='bool' value='0'/>
+      <fauxItalic type='bool' value='0'/>
+    </Item>
+    <Item>
+      <name type='string' value='$SubtitleFont'/>
+      <mapping type='string' value='DejaVu Serif'/>
+      <bold type='bool' value='0'/>
+      <italic type='bool' value='0'/>
+      <fauxBold type='bool' value='0'/>
+      <fauxItalic type='bool' value='0'/>
+    </Item>
+  </fonts>
+</GFXDefs>

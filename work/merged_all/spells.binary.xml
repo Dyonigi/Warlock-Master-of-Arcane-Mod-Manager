@@ -6034,7 +6034,7 @@
         <combo type='string' value=''/>
         <pollution type='integer' value='0'/>
         <actionName type='string' value='sp_tr_sea2plains'/>
-        <targetMainFilter type='string' value='any_water'/>
+        <targetMainFilter type='string' value='any_space'/>
         <targetSubFilter type='string' value='none'/>
         <range type='integer' value='0'/>
         <multiplier type='float' value='1.0'/>

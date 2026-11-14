@@ -745,11 +745,11 @@
       </Spells>
     </Improvement>
     <Improvement>
-      <name type='string' value='adv_fractionPerk_Magnate'/>
+      <name type='string' value='adv_fractionPerk_Butcher'/>
       <cost type='integer' value='3'/>
       <gold type='integer' value='0'/>
       <mana type='integer' value='0'/>
-      <perk type='string' value='fractionPerk_Magnate'/>
+      <perk type='string' value='fractionPerk_Butcher'/>
       <unitName type='string' value=''/>
       <resourceName type='string' value=''/>
       <dlcId type='integer' value='0'/>

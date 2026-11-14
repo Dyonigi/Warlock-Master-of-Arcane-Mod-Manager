@@ -1,0 +1,2 @@
+gfxdefs.binary	gfxdefs.binary.xml
+gfxdefs.xml	gfxdefs.xml

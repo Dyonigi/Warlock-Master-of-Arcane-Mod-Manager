@@ -23,7 +23,7 @@ VANILLA_PACKS = {
 # Later prefix groups override earlier ones; within a group, higher numbers win.
 PACK_PREFIX_ORDER = ("s", "l", "m", "d")
 
-EDITABLE_EXTENSIONS = {".binary", ".lua", ".xml", ".hgp", ".ini"}
+EDITABLE_EXTENSIONS = {".binary", ".lua", ".xml", ".hgp", ".ini", ".loc"}
 
 CATEGORIES: List[Tuple[str, str, List[str]]] = [
     (
@@ -123,6 +123,11 @@ CATEGORIES: List[Tuple[str, str, List[str]]] = [
         "misc",
         "Other data",
         ["armypresetdatalist.binary", "treedatalist.binary", "sfxattach.binary", "tbm.ini"],
+    ),
+    (
+        "localization",
+        "Localization (Strings)",
+        ["locdata.md"],
     ),
 ]
 

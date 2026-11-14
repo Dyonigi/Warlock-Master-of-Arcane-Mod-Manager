@@ -456,7 +456,7 @@
       <timer type='integer' value='15'/>
       <questMaker type='string' value='advisor'/>
       <action type='string' value='Destroy'/>
-      <rewardQuest type='string' value='q_kill_bear_2'/>
+      <rewardQuest type='string' value=''/>
       <ReqRelation>
         <godName type='string' value=''/>
         <minGodRelation type='integer' value='0'/>
@@ -492,7 +492,7 @@
       <timer type='integer' value='20'/>
       <questMaker type='string' value='advisor'/>
       <action type='string' value='Destroy'/>
-      <rewardQuest type='string' value='q_kill_bear_3'/>
+      <rewardQuest type='string' value=''/>
       <ReqRelation>
         <godName type='string' value=''/>
         <minGodRelation type='integer' value='0'/>
@@ -528,7 +528,7 @@
       <timer type='integer' value='25'/>
       <questMaker type='string' value='advisor'/>
       <action type='string' value='Destroy'/>
-      <rewardQuest type='string' value='q_kill_bear_4'/>
+      <rewardQuest type='string' value=''/>
       <ReqRelation>
         <godName type='string' value=''/>
         <minGodRelation type='integer' value='0'/>
@@ -818,7 +818,7 @@
       <timer type='integer' value='20'/>
       <questMaker type='string' value='advisor'/>
       <action type='string' value='Destroy'/>
-      <rewardQuest type='string' value='q_kill_rogue_2'/>
+      <rewardQuest type='string' value=''/>
       <ReqRelation>
         <godName type='string' value=''/>
         <minGodRelation type='integer' value='0'/>
@@ -854,7 +854,7 @@
       <timer type='integer' value='20'/>
       <questMaker type='string' value='advisor'/>
       <action type='string' value='Destroy'/>
-      <rewardQuest type='string' value='q_kill_rogue_3'/>
+      <rewardQuest type='string' value=''/>
       <ReqRelation>
         <godName type='string' value=''/>
         <minGodRelation type='integer' value='0'/>
@@ -931,7 +931,7 @@
       <timer type='integer' value='20'/>
       <questMaker type='string' value='advisor'/>
       <action type='string' value='Destroy'/>
-      <rewardQuest type='string' value='q_kill_vampire_2'/>
+      <rewardQuest type='string' value=''/>
       <ReqRelation>
         <godName type='string' value=''/>
         <minGodRelation type='integer' value='0'/>
@@ -967,7 +967,7 @@
       <timer type='integer' value='20'/>
       <questMaker type='string' value='advisor'/>
       <action type='string' value='Destroy'/>
-      <rewardQuest type='string' value='q_kill_vampire_3'/>
+      <rewardQuest type='string' value=''/>
       <ReqRelation>
         <godName type='string' value=''/>
         <minGodRelation type='integer' value='0'/>
@@ -1044,7 +1044,7 @@
       <timer type='integer' value='15'/>
       <questMaker type='string' value='advisor'/>
       <action type='string' value='Destroy'/>
-      <rewardQuest type='string' value='q_kill_wolf_2'/>
+      <rewardQuest type='string' value=''/>
       <ReqRelation>
         <godName type='string' value=''/>
         <minGodRelation type='integer' value='0'/>
@@ -1080,7 +1080,7 @@
       <timer type='integer' value='20'/>
       <questMaker type='string' value='advisor'/>
       <action type='string' value='Destroy'/>
-      <rewardQuest type='string' value='q_kill_wolf_3'/>
+      <rewardQuest type='string' value=''/>
       <ReqRelation>
         <godName type='string' value=''/>
         <minGodRelation type='integer' value='0'/>
@@ -1116,7 +1116,7 @@
       <timer type='integer' value='25'/>
       <questMaker type='string' value='advisor'/>
       <action type='string' value='Destroy'/>
-      <rewardQuest type='string' value='q_kill_wolf_4'/>
+      <rewardQuest type='string' value=''/>
       <ReqRelation>
         <godName type='string' value=''/>
         <minGodRelation type='integer' value='0'/>
@@ -1152,7 +1152,7 @@
       <timer type='integer' value='30'/>
       <questMaker type='string' value='advisor'/>
       <action type='string' value='Destroy'/>
-      <rewardQuest type='string' value='q_kill_wolf_5'/>
+      <rewardQuest type='string' value=''/>
       <ReqRelation>
         <godName type='string' value=''/>
         <minGodRelation type='integer' value='0'/>

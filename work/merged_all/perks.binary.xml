@@ -700,6 +700,31 @@
       </Terminators>
     </item>
     <item>
+      <name type='string' value='fractionPerk_Butcher'/>
+      <perkType type='string' value='Fraction'/>
+      <manaUpkeep type='integer' value='0'/>
+      <isGood type='bool' value='1'/>
+      <isEnchant type='bool' value='0'/>
+      <isChangeMoveType type='bool' value='0'/>
+      <dlcId type='string' value=''/>
+      <dlcIdIdx type='integer' value='0'/>
+      <Conditions>
+        <ClientConditionData>
+          <client type='string' value='ownerFraction'/>
+        </ClientConditionData>
+      </Conditions>
+      <Effects>
+        <FractionProduceResource>
+          <bonus>
+            <resType type='string' value='food'/>
+            <value type='float' value='10.0'/>
+          </bonus>
+        </FractionProduceResource>
+      </Effects>
+      <Terminators>
+      </Terminators>
+    </item>
+    <item>
       <name type='string' value='fractionPerk_Charisma'/>
       <perkType type='string' value='Fraction'/>
       <manaUpkeep type='integer' value='0'/>
@@ -2107,9 +2132,6 @@
       <Terminators>
         <Dispellable>
         </Dispellable>
-        <StrategicTimer>
-          <turns type='integer' value='2'/>
-        </StrategicTimer>
       </Terminators>
     </item>
     <item>
@@ -5068,11 +5090,11 @@
         </ModifyPower>
         <Resistance>
           <attackType type='string' value='CloseAttack'/>
-          <value type='integer' value='4294967286'/>
+          <value type='integer' value='10'/>
         </Resistance>
         <Resistance>
           <attackType type='string' value='RangedAttack'/>
-          <value type='integer' value='4294967286'/>
+          <value type='integer' value='10'/>
         </Resistance>
       </Effects>
       <Terminators>
@@ -6681,7 +6703,7 @@
         </NewAttack>
         <Resistance>
           <attackType type='string' value='CloseAttack'/>
-          <value type='integer' value='4294967286'/>
+          <value type='integer' value='15'/>
         </Resistance>
       </Effects>
       <Terminators>
@@ -7286,7 +7308,7 @@
           <statusName type='string' value='invisible'/>
         </SetUnitStatus>
         <ModifyMovePoints>
-          <value type='float' value='-1.0'/>
+          <value type='float' value='1.0'/>
         </ModifyMovePoints>
       </Effects>
       <Terminators>
@@ -7368,7 +7390,7 @@
         <Flight>
         </Flight>
         <ModifyMovePoints>
-          <value type='float' value='-1.0'/>
+          <value type='float' value='1.0'/>
         </ModifyMovePoints>
       </Effects>
       <Terminators>
@@ -8687,7 +8709,7 @@
       </Conditions>
       <Effects>
         <ModifyPower>
-          <multiplier type='float' value='0.800000011920929'/>
+          <multiplier type='float' value='1.2000000476837158'/>
         </ModifyPower>
         <ModifyMovePoints>
           <value type='float' value='2.0'/>
@@ -8711,7 +8733,7 @@
       <Effects>
         <Resistance>
           <attackType type='string' value='CloseAttack'/>
-          <value type='integer' value='4294967281'/>
+          <value type='integer' value='15'/>
         </Resistance>
         <Resistance>
           <attackType type='string' value='RangedAttack'/>
@@ -10963,13 +10985,10 @@
         <Flight>
         </Flight>
         <ModifyMovePoints>
-          <value type='float' value='-1.0'/>
+          <value type='float' value='1.0'/>
         </ModifyMovePoints>
       </Effects>
       <Terminators>
-        <StrategicTimer>
-          <turns type='integer' value='5'/>
-        </StrategicTimer>
         <Dispellable>
         </Dispellable>
       </Terminators>
@@ -12202,9 +12221,6 @@
         </SelfDestruct>
       </Effects>
       <Terminators>
-        <StrategicTimer>
-          <turns type='integer' value='3'/>
-        </StrategicTimer>
       </Terminators>
     </item>
     <item>

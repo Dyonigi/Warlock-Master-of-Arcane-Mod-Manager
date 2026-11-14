@@ -1,0 +1,1 @@
+"""UI panels for the Warlock Mod Manager."""

@@ -1,0 +1,12 @@
+#
+# r_picmip 0 is high: all textures are as is
+# r_picmip 1 is medium: must fit into 128 MB
+# r_picmip 2 is low: must fit into 64 MB
+#
+# texquality 1 means "downsample at medium and low"
+# texquality 2 means "downsample at low"
+# texquality 3 means "never downsample"
+#
+
+@HEAD                                  quality_group    format
+fonts									3

@@ -28,6 +28,7 @@ T_DEFINESHAPE = 2
 T_PLACEOBJECT = 4
 T_DEFINESHAPE2 = 22
 T_PLACEOBJECT2 = 26
+T_REMOVEOBJECT = 5
 T_REMOVEOBJECT2 = 28
 T_DEFINESHAPE3 = 32
 T_DEFINESPRITE = 39
@@ -177,6 +178,8 @@ class FrameInfo:
     char: Optional[int] = None    # ultimo oggetto piazzato nel frame (None = nessuno)
     depth: Optional[int] = None
     place_tag: Optional[Tag] = None
+    place_flags: Optional[int] = None   # flag di PlaceObject2 dell'oggetto con carattere
+    removes: List[int] = field(default_factory=list)   # depth tolti (RemoveObject/RemoveObject2) prima della label
 
 
 @dataclass
@@ -236,9 +239,14 @@ def _parse_sprite(data: bytes, tag: Tag) -> SpriteInfo:
             if flags & 0x02:  # HasCharacter
                 cur.depth, cur.char = struct.unpack_from("<HH", data, t.body + 1)
                 cur.place_tag = t
+                cur.place_flags = flags
         elif t.code == T_PLACEOBJECT:
             cur.char, cur.depth = struct.unpack_from("<HH", data, t.body)
             cur.place_tag = t
+        elif t.code == T_REMOVEOBJECT2:
+            cur.removes.append(struct.unpack_from("<H", data, t.body)[0])
+        elif t.code == T_REMOVEOBJECT:
+            cur.removes.append(struct.unpack_from("<H", data, t.body + 2)[0])
         elif t.code == T_SHOWFRAME:
             sp.frames.append(cur)
             cur = FrameInfo(sid, cur.number + 1)
@@ -392,21 +400,33 @@ class GfxIcons:
             raise GfxError(f"Lo sprite {sprite_id} non esiste.")
         if sp.end_tag is None:
             raise GfxError(f"Lo sprite {sp.id} non ha un End tag.")
-        depths = Counter(f.depth for f in sp.frames if f.label and f.depth is not None)
-        if not depths:
-            raise GfxError(f"Lo sprite {sp.id} non ha frame con label e oggetto da cui copiare il depth.")
-        depth = depths.most_common(1)[0][0]
-
+        labeled = [f for f in sp.frames if f.label and f.depth is not None and f.place_tag is not None]
+        if not labeled:
+            raise GfxError(f"Lo sprite {sp.id} non ha frame con label e oggetto da cui copiare lo schema.")
+        depth = Counter(f.depth for f in labeled).most_common(1)[0][0]
+        last = sp.frames[-1]
         lab = label.encode("latin-1") + b"\0"
-        new_tags = (
-            # RemoveObject2: toglie quello che il frame precedente lascia al depth
-            struct.pack("<HH", (T_REMOVEOBJECT2 << 6) | 2, depth)
-            # FrameLabel (header lungo, come negli altri frame)
-            + struct.pack("<HI", (T_FRAMELABEL << 6) | 0x3F, len(lab)) + lab
-            # PlaceObject2: nuovo oggetto (flags 0x06 = carattere + matrice), matrice identità
-            + struct.pack("<HBHHB", (T_PLACEOBJECT2 << 6) | 6, 0x06, depth, shape_id, 0x00)
-            + struct.pack("<H", T_SHOWFRAME << 6)
-        )
+        label_tag = struct.pack("<HI", (T_FRAMELABEL << 6) | 0x3F, len(lab)) + lab   # header lungo, come gli altri
+        show = struct.pack("<H", T_SHOWFRAME << 6)
+
+        if last.label and last.place_flags == 0x03 and last.depth is not None:
+            # l'ultimo frame è un frame-icona che sostituisce l'oggetto (Move+Character): si imita
+            new_tags = (
+                label_tag
+                + struct.pack("<HBHH", (T_PLACEOBJECT2 << 6) | 5, 0x03, last.depth, shape_id)
+                + show
+            )
+        else:
+            # l'ultimo frame è un segnaposto finale: si imita il primo frame-icona, che prima toglie
+            # gli oggetti del frame iniziale (anche più di uno) e poi mette la shape con matrice identità
+            first = labeled[0]
+            removes = first.removes or [depth]
+            new_tags = b"".join(struct.pack("<HH", (T_REMOVEOBJECT2 << 6) | 2, d) for d in removes)
+            new_tags += (
+                label_tag
+                + struct.pack("<HBHHB", (T_PLACEOBJECT2 << 6) | 6, 0x06, depth, shape_id, 0x00)
+                + show
+            )
         sprite_tag = sp.tag
         body = bytearray(self.data[sprite_tag.body:sprite_tag.end])
         cut = sp.end_tag.start - sprite_tag.body
@@ -425,12 +445,14 @@ class GfxIcons:
 # API di alto livello
 # ---------------------------------------------------------------------------
 
-def apply_assignments(data: bytes, assignments: Dict[str, int]) -> bytes:
-    """Applica {label: shape_id} in sequenza e verifica ogni passo rileggendo il risultato."""
+def apply_assignments(data: bytes, assignments: Dict[str, object]) -> bytes:
+    """Applica {label: shape_id} o {label: (shape_id, sprite_id)} in sequenza e verifica ogni
+    passo rileggendo il risultato."""
     cur = data
-    for label, shape in assignments.items():
+    for label, target in assignments.items():
+        shape, sprite = target if isinstance(target, tuple) else (target, None)
         before = GfxIcons(cur)
-        new = before.set_perk_icon(label, shape)
+        new = before.set_perk_icon(label, shape, sprite)
         verify_change(before, GfxIcons(new), label, shape)
         cur = new
     return cur

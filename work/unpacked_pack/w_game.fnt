@@ -1,0 +1,63 @@
+﻿Gabriola - Bold, 0 glyphs, static only (I6)
+
+
+Textfield default text (font id)
+
+"#dlgBattleTitle" - I6
+"<b>some multiline</b>html text" - I0
+"some title" - I0
+"title" - I0
+"text info" - I0
+"Name" - I0
+"lvl" - I0
+"000" - I0
+"upkeep" - I0
+"resist0 +1012345" - I0
+"sight" - I0
+"hint by build" - I0
+"mText2" - I0
+"resurrect list" - I0
+"list empty" - I0
+"win/lose" - I0
+"turn:" - I6
+"tutorial" - I0
+"text" - I0
+"loot" - I0
+"reward" - I0
+"quest maker" - I0
+"quest" - I0
+"penalty" - I0
+"target" - I0
+"turn left" - I0
+"select perk" - I0
+"Hi, mage!war" - I0
+"other mage" - I0
+"Hi, mage!hihi" - I0
+"attacker" - I0
+"defender" - I0
+"attack bonus" - I0
+"defender bonus" - I0
+"cast info" - I0
+"ttx info" - I0
+"Desc" - I0
+"select world" - I0
+"current world" - I6
+"select fraction" - I0
+"wait" - I0
+"click for cancgel task" - I6
+"" - I0
+"Mage description" - I6
+"Buffs" - I0
+"perks" - I0
+"Mage Name" - I6
+"other mage" - I6
+"player name" - I6
+"Mage talk" - I0
+"type" - I0
+"info" - I0
+"selected hex forbuilding" - I6
+"select spell for research" - I0
+"select spell for cast" - I0
+"99" - I0
+"test info" - I0
+"Press Enter" - I0

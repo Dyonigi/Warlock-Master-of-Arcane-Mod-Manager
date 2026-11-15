@@ -56,6 +56,7 @@ class PerkIconPanel(ttk.Frame):
         self._source = ""
         self._pack_paths: List[str] = []
         self._assign: Dict[str, int] = {}      # perk -> shape (modifiche da salvare)
+        self._extra_assign: Dict[str, Tuple[int, int]] = {}   # label -> (shape, sprite) chiesti da altri tab
         self._perk_types: Dict[str, str] = {}  # nome -> perkType, letti da perks.binary
         self._schema: ps.Schema = ps.base_schema()
         self._inversions = 0
@@ -193,7 +194,12 @@ class PerkIconPanel(ttk.Frame):
             return
         self._pack_paths = [p.path for p in scan.all_packs]
         try:
-            data, source = ics.load_gfx(self._pack_paths, self._log)
+            ws_gfx = self._workspace_gfx()
+            if ws_gfx:
+                with open(ws_gfx, "rb") as f:
+                    data, source = f.read(), "workspace"
+            else:
+                data, source = ics.load_gfx(self._pack_paths, self._log)
             gfx = GfxIcons(data)
         except (OSError, GfxError) as exc:
             self._base = self._gfx = None
@@ -216,6 +222,49 @@ class PerkIconPanel(ttk.Frame):
         )
         self._refresh_perks()
         self._show_atlas()
+
+    def _workspace_gfx(self) -> Optional[str]:
+        _ws, manifest = self._get_workspace()
+        path = (manifest or {}).get(ics.GFX_NAME)
+        return path if path and os.path.isfile(path) else None
+
+    def ensure_gfx(self) -> Optional[GfxIcons]:
+        """c_icons.gfx letto (lo carica se serve): lo usano anche gli altri tab."""
+        if self._gfx is None:
+            self.reload()
+        return self._gfx
+
+    def pack_paths(self) -> List[str]:
+        return list(self._pack_paths)
+
+    def assign_and_save(self, assignments: Dict[str, Tuple[int, int]]) -> str:
+        """Aggiunge frame (label -> (shape, sprite)) e scrive c_icons.gfx nel workspace, senza finestre.
+        Solleva GfxError / OSError / RuntimeError se non riesce."""
+        if self.ensure_gfx() is None or self._base is None:
+            raise RuntimeError("c_icons.gfx non disponibile: scansiona la cartella del gioco.")
+        self._extra_assign.update(assignments)
+        try:
+            return self._write_gfx()
+        except Exception:
+            for k in assignments:
+                self._extra_assign.pop(k, None)
+            raise
+
+    def _write_gfx(self) -> str:
+        ws, manifest = self._get_workspace()
+        if not ws:
+            raise RuntimeError("Carica prima un workspace (es. 'Load merged game data').")
+        merged: Dict[str, object] = dict(self._assign)
+        merged.update(self._extra_assign)
+        data = apply_assignments(self._base, merged)
+        os.makedirs(ws, exist_ok=True)
+        path = os.path.join(ws, ics.GFX_NAME)
+        with open(path, "wb") as f:
+            f.write(data)
+        manifest[ics.GFX_NAME] = path
+        self._log(f"Salvato {ics.GFX_NAME} ({len(merged)} frame) in {path}")
+        self._on_saved()
+        return path
 
     # ------------------------------------------------------------------
     # Perk
@@ -560,10 +609,10 @@ class PerkIconPanel(ttk.Frame):
     def save(self) -> None:
         if self._base is None or self._gfx is None:
             return
-        if not self._assign:
+        if not self._assign and not self._extra_assign:
             messagebox.showinfo("Salva", "Nessuna modifica da salvare.")
             return
-        ws, manifest = self._get_workspace()
+        ws, _manifest = self._get_workspace()
         if not ws:
             messagebox.showinfo(
                 "Salva",
@@ -572,17 +621,10 @@ class PerkIconPanel(ttk.Frame):
             )
             return
         try:
-            data = apply_assignments(self._base, self._assign)
+            path = self._write_gfx()
         except GfxError as exc:
             messagebox.showerror("Salvataggio annullato", str(exc))
             return
-        os.makedirs(ws, exist_ok=True)
-        path = os.path.join(ws, ics.GFX_NAME)
-        with open(path, "wb") as f:
-            f.write(data)
-        manifest[ics.GFX_NAME] = path
-        self._log(f"Salvato {ics.GFX_NAME} ({len(self._assign)} perk) in {path}")
-        self._on_saved()
         self.status_var.set(f"Salvato in {path}")
         messagebox.showinfo(
             "Salvato",

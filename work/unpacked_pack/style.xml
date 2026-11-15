@@ -1,0 +1,524 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Сергей Семёнов</Author>
+  <LastAuthor>Гулина Марина</LastAuthor>
+  <Created>2005-11-14T12:51:31Z</Created>
+  <LastSaved>2007-05-03T11:23:01Z</LastSaved>
+  <Company>Ino-Co</Company>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <DownloadComponents/>
+  <LocationOfComponents HRef="file:///\\Fireball\Fireball_install\progi\OFFICEXP.RUS\"/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11580</WindowHeight>
+  <WindowWidth>15180</WindowWidth>
+  <WindowTopX>480</WindowTopX>
+  <WindowTopY>45</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="12" ss:Bold="1"/>
+   <Interior ss:Color="#CCFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Interior ss:Color="#CCFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Borders/>
+   <Interior ss:Color="#CCFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="12" ss:Bold="1"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Borders/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Interior ss:Color="#FFCC99" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Borders/>
+  </Style>
+  <Style ss:ID="s70">
+   <Font ss:FontName="Arial Cyr" x:CharSet="204"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="12" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#CCFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Color="#FF0000"/>
+   <Interior ss:Color="#CCFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Size="12" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Font ss:FontName="Arial Cyr" x:CharSet="204" ss:Color="#FF0000"/>
+   <Interior ss:Color="#CCFFCC" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="List1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="93" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="152.25"/>
+   <Column ss:Width="497.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="294"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;param&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block leftMargin=&quot;15&quot; align=&quot;TAL_LEFT&quot; lineInterval=&quot;1&quot;&gt;</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">начало описания перка</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/param&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/block&gt;</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;name&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;font color=&quot;style_name_colour&quot;&gt;</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">описание воздействия перка</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/name&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;value&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;font color=&quot;style_value_colour&quot;&gt;</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">описание воздействия перка, значения</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/value&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;positive_value&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;font color=&quot;Yellow&quot;&gt;</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">описание позитивного воздействия перка, значения</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/positive_value&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;negative_value&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;font color=&quot;Red&quot;&gt;</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">описание негативного воздействия перка, значения</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/negative_value&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;effect_name&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;font color=&quot;White&quot; face=&quot;medium_b&quot;&gt;</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">имя перка (спелла, артефакта)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/effect_name&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;effect_description&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block leftMargin=&quot;0&quot; indent=&quot;15&quot; topMargin=&quot;0&quot; align=&quot;TAL_WIDTH&quot;&gt;&lt;font  face=&quot;medium&quot; color=&quot;style_effect_description_colour&quot;&gt;</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">словесное описание эффекта</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/effect_description&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;header&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_LEFT&quot; indent=&quot;20&quot;&gt;&lt;font face=&quot;medium&quot; color = &quot;style_header_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/header&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;timedata&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_LEFT&quot; indent=&quot;20&quot; bottomMargin=&quot;14&quot;&gt;&lt;font face=&quot;medium&quot; color = &quot;style_header_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/timedata&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;paragraph&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_WIDTH&quot; bottomMargin=&quot;10&quot; indent=&quot;20&quot;&gt;&lt;font face=&quot;medium&quot; color=&quot;style_paragraph_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/paragraph&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;objectives&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_LEFT&quot; leftMargin=&quot;20&quot; indent=&quot;20&quot;&gt;&lt;font face=&quot;medium&quot; color=&quot;style_objectives_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/objectives&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;primary_objectives&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_LEFT&quot; leftMargin=&quot;20&quot; indent=&quot;20&quot;&gt;&lt;font face=&quot;medium&quot; color=&quot;style_objectives_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/primary_objectives&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;secondary_objectives&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_LEFT&quot; leftMargin=&quot;20&quot; indent=&quot;20&quot;&gt;&lt;font face=&quot;medium&quot; color=&quot;style_objectives_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/secondary_objectives&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;author&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block topMargin=&quot;8&quot; indent=&quot;20&quot;&gt;&lt;font face=&quot;medium_b&quot; color=&quot;style_author_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/author&gt;</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;subtitles&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_CENTER&quot; topMargin=&quot;0&quot; indent=&quot;0&quot;&gt;&lt;font face=&quot;big_b&quot; color=&quot;style_author_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/subtitles&gt;</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;crheader&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;br&gt;&lt;font face=&quot;$ThinFont&quot; color=&quot;#FFFFFF&quot; size=&quot;21&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/crheader&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;br&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;credits&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;font face=&quot;$NormalFont&quot; color=&quot;#E7E59B&quot; size=&quot;25&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/credits&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;br&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;creditswithline&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_WIDTH&quot; topMargin=&quot;25&quot; bottomMargin=&quot;10&quot; indent=&quot;20&quot;&gt;&lt;font face=&quot;medium_b&quot; color=&quot;style_paragraph_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/creditswithline&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;hint&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_LEFT&quot; topMargin=&quot;5&quot; bottomMargin=&quot;5&quot; indent=&quot;0&quot;&gt;&lt;font face=&quot;medium&quot; color=&quot;style_paragraph_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/hint&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;aftermath&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_CENTER&quot;&gt;&lt;font face=&quot;big_b&quot; color = &quot;style_header_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&lt;/aftermath&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="16.5">
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;PopupHeader&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_CENTER&quot;&gt;&lt;font face=&quot;medium&quot; color = &quot;style_header_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/PopupHeader&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;PopupParagraph&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_CENTER&quot; bottomMargin=&quot;0&quot; indent=&quot;0&quot;&gt;&lt;font face=&quot;medium&quot; color=&quot;style_paragraph_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/PopupParagraph&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;PopupGoldVictory&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_CENTER&quot; leftMargin=&quot;0&quot; indent=&quot;0&quot;&gt;&lt;font face=&quot;medium&quot; color=&quot;style_objectives_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/PopupGoldVictory&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;PopupSilverVictory&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_CENTER&quot; leftMargin=&quot;0&quot; indent=&quot;0&quot;&gt;&lt;font face=&quot;medium&quot; color=&quot;style_objectives_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/PopupSilverVictory&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;PopupBronzeVictory&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_CENTER&quot; leftMargin=&quot;0&quot; indent=&quot;0&quot;&gt;&lt;font face=&quot;medium&quot; color=&quot;style_objectives_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/PopupBronzeVictory&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;PopupVictoryState&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;font face=&quot;medium_b&quot; color=&quot;style_author_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/PopupVictoryState&gt;</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;PopupTurnCount&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_CENTER&quot; topMargin=&quot;5&quot; indent=&quot;0&quot;&gt;&lt;font face=&quot;medium_b&quot; color=&quot;style_paragraph_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/PopupTurnCount&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;PopupMoney&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_CENTER&quot;&gt;&lt;font face=&quot;medium_b&quot; color=&quot;style_paragraph_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/PopupMoney&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;PopupArtefact&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_CENTER&quot; indent=&quot;0&quot;&gt;&lt;font face=&quot;medium_b&quot; color=&quot;style_paragraph_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/PopupArtefact&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;PopupPerk&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_CENTER&quot; indent=&quot;0&quot;&gt;&lt;font face=&quot;medium_b&quot; color=&quot;style_paragraph_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/PopupPerk&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;PopupSpell&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_CENTER&quot; indent=&quot;0&quot;&gt;&lt;font face=&quot;medium_b&quot; color=&quot;style_paragraph_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/PopupSpell&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;PopupUnit&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_CENTER&quot;&gt;&lt;font face=&quot;medium_b&quot; color=&quot;style_paragraph_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/PopupUnit&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;PopupExperience&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;font face=&quot;medium_b&quot; color=&quot;style_paragraph_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/PopupExperience&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;PopupQuest&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_CENTER&quot;&gt;&lt;font face=&quot;medium_b&quot; color=&quot;style_paragraph_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/PopupQuest&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;PopupGame&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block align=&quot;TAL_CENTER&quot;&gt;&lt;font face=&quot;medium_b&quot; color=&quot;style_paragraph_colour&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/PopupGame&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="16.5">
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s72"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s73"/>
+    <Cell ss:StyleID="s74"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s69"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;chat_blue&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block&gt;&lt;font face=&quot;big_b&quot; color=&quot;cl_side_blue&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/chat_blue&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;chat_red&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block&gt;&lt;font face=&quot;big_b&quot; color=&quot;cl_side_red&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/chat_red&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;chat_green&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block&gt;&lt;font face=&quot;big_b&quot; color=&quot;cl_side_green&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/chat_green&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;chat_yellow&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block&gt;&lt;font face=&quot;big_b&quot; color=&quot;cl_side_yellow&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/chat_yellow&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;chat_purple&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block&gt;&lt;font face=&quot;big_b&quot; color=&quot;cl_side_purple&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/chat_purple&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;chat_aqua&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;block&gt;&lt;font face=&quot;big_b&quot; color=&quot;cl_side_aqua&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/chat_aqua&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;chat_message&gt;</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">&lt;font face=&quot;big_b&quot; color=&quot;white&quot;&gt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">&lt;/chat_message&gt;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">&lt;/font&gt;&lt;/block&gt;</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996"
+     x:Right="0.78740157499999996" x:Top="0.984251969"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>12</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>32</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

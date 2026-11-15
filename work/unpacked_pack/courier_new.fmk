@@ -1,0 +1,22 @@
+font_maker_project {
+}
+
+font_maker_font {
+	facename = "Courier New"
+	outputname = "courier_new"
+	height = 18
+	width = 0
+	weight = 400
+	bold = 0
+	italic = 0
+	underline = 0
+	charset = 204
+	extra_left = 0
+	extra_right = 0
+	extra_top = 0
+	extra_bottom = 0
+	extra_overlapped = 1
+	filter = 0
+	range = "32-128, 192-255"
+}
+

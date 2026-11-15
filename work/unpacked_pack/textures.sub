@@ -1,0 +1,18 @@
+#
+# r_picmip 0 is high: all textures are as is
+# r_picmip 1 is medium: must fit into 128 MB
+# r_picmip 2 is low: must fit into 64 MB
+#
+# texquality 1 means "downsample at medium and low"
+# texquality 2 means "downsample at low"
+# texquality 3 means "never downsample"
+#
+
+@HEAD                                   alpha	qualitiy_group cut_low
+unit_selection.dds                      1       3
+city_selection.dds			1	3
+unit_selection2.dds			1	3
+_treeTexture.dds                      1       3
+WaterPlain0008_2_S.dds                0       3
+WaterPlain0012_2_S.dds                0       3
+WaterPlain0015_7_S.dds                0       3

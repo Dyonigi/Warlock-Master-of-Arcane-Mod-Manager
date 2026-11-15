@@ -103,6 +103,38 @@ class RealFile(unittest.TestCase):
         with self.assertRaises(GfxError):
             GfxIcons(b"not a gfx file at all")
 
+    def test_append_small_icon_sprite(self):
+        """Sprite delle piccole icone degli archmage: il frame nuovo deve togliere DUE depth."""
+        g = self.g
+        small = g.labels().get("f_wizard")
+        if small is None:
+            self.skipTest("label f_wizard assente in questo c_icons.gfx")
+        new = g.set_perk_icon("f_custom_test", small.char)
+        g2 = GfxIcons(new)
+        verify_change(g, g2, "f_custom_test", small.char)
+        last = g2.sprites[small.sprite].frames[-1]
+        self.assertEqual((last.label, last.char, last.depth), ("f_custom_test", small.char, 1))
+        self.assertEqual(sorted(last.removes), [1, 4])
+
+    def test_append_portrait_sprite_last_frame_is_icon(self):
+        """Sprite dei ritratti: l'ultimo frame è già un'icona, il nuovo la sostituisce con Move+Character."""
+        g = self.g
+        port = g.labels().get("wizard")
+        if port is None:
+            self.skipTest("label wizard assente in questo c_icons.gfx")
+        new = g.set_perk_icon("custom_mage_test", port.char, port.sprite)
+        g2 = GfxIcons(new)
+        verify_change(g, g2, "custom_mage_test", port.char)
+        last = g2.sprites[port.sprite].frames[-1]
+        self.assertEqual((last.label, last.place_flags, last.removes), ("custom_mage_test", 0x03, []))
+
+    def test_assignments_with_explicit_sprite(self):
+        small = self.g.labels().get("f_wizard")
+        if small is None:
+            self.skipTest("label f_wizard assente")
+        out = apply_assignments(DATA, {"Custom": (small.char, small.sprite)})   # label senza prefisso '_'
+        self.assertIn("Custom", GfxIcons(out).labels())
+
     def test_usable_icons(self):
         u = self.g.usable_icons(1)
         self.assertGreater(len(u), 100)

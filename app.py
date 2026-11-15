@@ -19,6 +19,7 @@ if HERE not in sys.path:
 from catalog import CATEGORIES, category_for
 from detect import find_game_dir, is_game_dir
 from panels.browser_panel import BrowserPanel
+from panels.archmage_panel import ArchmagePanel
 from panels.perk_icon_panel import PerkIconPanel
 from panels.preview_panel import PreviewPanel
 from panels.scan_panel import ScanPanel
@@ -127,10 +128,24 @@ class ModManagerApp(tk.Tk):
             get_workspace=lambda: (self.state.workspace_dir, self.state.manifest),
             on_saved=self.rebuild_file_tree,
             log=self.log_msg,
-            before_perks_write=self._perks_before_write,
-            after_perks_write=self._perks_after_write,
+            before_perks_write=lambda: self._sync_before("perks.binary"),
+            after_perks_write=lambda: self._sync_after("perks.binary"),
         )
         self.nb.add(self.perk_icon_panel, text="Perks")
+
+        self.archmage_panel = ArchmagePanel(
+            self.nb,
+            get_scan=lambda: self.state.scan,
+            get_workspace=lambda: (self.state.workspace_dir, self.state.manifest),
+            get_gfx=lambda: self.perk_icon_panel.ensure_gfx(),
+            get_pack_paths=lambda: [p.path for p in self.state.scan.all_packs] if self.state.scan else [],
+            assign_icons=self.perk_icon_panel.assign_and_save,
+            on_saved=self.rebuild_file_tree,
+            log=self.log_msg,
+            before_write=self._sync_before,
+            after_write=self._sync_after,
+        )
+        self.nb.add(self.archmage_panel, text="Archmages")
         self.nb.bind("<<NotebookTabChanged>>", self._on_tab_changed)
 
         self.browser.set_filter_callback(self.rebuild_file_tree)
@@ -166,22 +181,26 @@ class ModManagerApp(tk.Tk):
         self.after(0, _do)
 
     def _on_tab_changed(self, _evt=None) -> None:
-        if self.nb.select() == str(self.perk_icon_panel):
+        cur = self.nb.select()
+        if cur == str(self.perk_icon_panel):
             self.perk_icon_panel.on_show()
+        elif cur == str(self.archmage_panel):
+            self.archmage_panel.on_show()
 
-    def _perks_before_write(self) -> None:
-        """Il tab Perks sta per leggere/scrivere perks.binary: se è aperto nell'editor con
-        modifiche non salvate, le salva prima, così non si perdono."""
-        if self.state.current_orig == "perks.binary" and self.state.dirty:
+    def _sync_before(self, orig: str) -> None:
+        """Un tab sta per leggere/scrivere il file `orig`: se è aperto nell'editor con modifiche
+        non salvate, le salva prima, così non si perdono."""
+        if self.state.current_orig == orig and self.state.dirty:
             self.save_current()
 
-    def _perks_after_write(self) -> None:
-        """Ricarica perks.binary nell'editor (altrimenti il repack lo riscriverebbe con la
-        versione vecchia) e torna al tab Perks."""
-        if self.state.current_orig == "perks.binary":
+    def _sync_after(self, orig: str) -> None:
+        """Ricarica `orig` nell'editor (altrimenti il repack lo riscriverebbe con la versione
+        vecchia) e torna al tab da cui si stava lavorando."""
+        if self.state.current_orig == orig:
+            tab = self.nb.select()
             self.state.dirty = False
-            self.open_file("perks.binary")
-            self.nb.select(self.perk_icon_panel)
+            self.open_file(orig)
+            self.nb.select(tab)
 
     # ------------------------------------------------------------------
     # Game detection and scan
